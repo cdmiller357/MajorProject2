@@ -1,0 +1,4 @@
+350,50,Shell,false
+250,50,Exxon,false
+1000,750,RoyalFarms,true
+250,150,Sheetz,true
