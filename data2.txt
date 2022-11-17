@@ -1,0 +1,13 @@
+RoyalFarms,2
+Sheetz,2
+Shell,3
+Exxon,4
+McDonald's,1
+Chipotle,3
+The Wagon Wheel,4
+Holiday Inn,4
+Best Western,3
+Recreation Area,4
+Nature Area,5
+Historical Area,5
+Casino,3

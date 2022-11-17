@@ -3,9 +3,10 @@ package com.example.majorproject2;
 import java.util.ArrayList;
 import java.util.Comparator;
 
+//Same algorithm as book changed to take generic ArrayList's with objects that implement comparable or with a comparator.
 public class GenericQuickSort {
 
-    //Utility Class, should not be an instance
+    //Utility Class, should not be an instance.
     private GenericQuickSort(){}
 
     public static <E extends Comparable<E>> void quickSort(ArrayList<E> list){

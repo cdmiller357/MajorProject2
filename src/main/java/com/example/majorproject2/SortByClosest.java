@@ -8,27 +8,43 @@ import java.util.ArrayList;
  * Major Project
  */
 
-//Utility class with static methods only
+//Utility class with static methods only,
 public class SortByClosest {
-    public static GasStationList list;
 
     //Controller Class(sort of), should not be an instance
     private SortByClosest(){}
 
-    public static ArrayList<GasStation> sortByClosest(Point2D point, int ratingFilter, boolean is24Hours) throws IOException {
-        //STUB in Part 1, just returns a shallow copy of the GasStationList ArrayList.
-        return GasStationList.getListDeepCopy();
+    /* Part 2 -- Added the code that sorts locations by closest to current location which uses the generic quick sort
+    *  with a GasStationComparatorDistance comparator. Uses conditional logic to limit points returned to a 200X200 pixel box.
+    *  Also uses TreeMapFilter class TreeSet and TreeMap in conditional logic to apply the filters provided by the end user.
+    *  Returns a deep copy of GasStation locations in a 200X200 pixel box with current location in the middle of the box.
+    *
+    *  Time complexity is O(n) to get a list of points in fall in the 200x200 box and O(nlogn) average complexity(quick sort)
+    *  to sort by distance to current location(O(n^2) worst case).*/
+    public static ArrayList<GasStation> sortByClosest(Point2D current, int ratingFilter, boolean is24Hours) throws IOException {
+        ArrayList<GasStation> list = new ArrayList<>();
+        list.add(new GasStation(current, "Current Location")); //Special "Current Location" zero index entry on list.
+        ArrayList<GasStation> list2 = GasStationList.getListDeepCopy();
+        for (int i=0; i < list2.size() && list2.get(i).getPoint().getY() < current.getY()+100; i++){
+            if(list2.get(i).getPoint().getY() > current.getY()-100 &&
+               list2.get(i).getPoint().getX() > current.getX()-100 &&
+               list2.get(i).getPoint().getX() < current.getX()+100 &&
+               (!is24Hours || is24Hours && TreeMapFilters.getIs24Hours().contains(list2.get(i).getBrand()))){
+                    int rating = (int)TreeMapFilters.getRatingsTreeMap().get(list2.get(i).getBrand());
+                    if(rating >= ratingFilter){
+                        list.add(list2.get(i));
+                        list.get(list.size()-1).setDistanceFromCurrentLocation(list.get(list.size()-1).getPoint().distance(current));
+                    }
+            }
+        }
+        GenericQuickSort.quickSort(list,  new GasStationComparatorDistance());
+        return list;
     }
 
-    //This overloaded method will be deleted later on. Just used to test GUI in Part 1.
+
+    /* Used when program loads before any control parameters can be gathered from end user,
+     * will show all points in data file/table on map at launch.*/
     public static ArrayList<GasStation> sortByClosest() throws IOException {
-        //STUB in Part 1, just returns a shallow copy of the GasStationList ArrayList.
         return GasStationList.getListDeepCopy();
-    }
-    private static void filterByRating(int stars){
-        //STUB
-    }
-    private static void filterBy24Hours(boolean is24Hours){
-        //STUB
     }
 }
