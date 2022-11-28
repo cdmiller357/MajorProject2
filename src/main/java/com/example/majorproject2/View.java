@@ -21,10 +21,15 @@ import javafx.stage.Stage;
 import java.io.IOException;
 import java.util.*;
 
+/*
+ * NOTE: Not all Part 2 flags not present due to major shift in project from part 1 to part 2. There was too much rework
+ * to notate everything.
+ */
+
 public class View extends Application {
     //Can update the border pane from different methods so instance variable
     private BorderPane borderPane;
-    //Next 3 items are for stack functionality
+    //Next 3 items are for the part 2 stack functionality of the back and forward buttons
     private ArrayList<GasStation> gasStationsArrayList; //Current Location and nearby points  displayed Currently
     private Stack<ArrayList<GasStation>> back = new Stack<>(); //Top of this stack is the first location behind the current location
     private Stack<ArrayList<GasStation>> forward  = new Stack<>(); //Top of this stack is the first map ahead of the current location
@@ -32,6 +37,7 @@ public class View extends Application {
     private TextField tf0 = new TextField("X coordinate (50-750)");
     private TextField tf1 = new TextField("Y coordinate (50-750)");
     private TextField tf2 = new TextField("Messages appear here.");
+    private TextField tf3 = new TextField("Format example: Frederick County,Maryland");
 
 
     //Start: Right Pane - Control Buttons
@@ -39,6 +45,23 @@ public class View extends Application {
         tf2.setEditable(false);
         tf2.setAlignment(Pos.BASELINE_RIGHT);
         tf2.setPrefColumnCount(20);
+        Label lbl3 = new Label("Enter the County,State name of the County map you want to load.");
+        lbl3.setFont(Font.font("Arial", FontWeight.BOLD, FontPosture.REGULAR, 14));
+        tf3.setAlignment(Pos.BASELINE_RIGHT);
+        tf3.setMinWidth(400);
+        tf3.setMinHeight(35);
+        Button goAVL = new Button("GoAVL");
+        goAVL.setMaxWidth(40);
+        goAVL.setFont(Font.font("Arial", FontWeight.NORMAL, FontPosture.REGULAR, 8));
+        goAVL.setMinWidth(75);
+        Button goHashTable = new Button("GoHashTable");
+        goHashTable.setMaxWidth(40);
+        goHashTable.setFont(Font.font("Arial", FontWeight.NORMAL, FontPosture.REGULAR, 8));
+        goHashTable.setMinWidth(75);
+        VBox vBox2 = new VBox(goAVL,goHashTable);
+        vBox2.setSpacing(2);
+        HBox hBox3 = new HBox(tf3, vBox2);
+        hBox3.setSpacing(2);
         Label lbl0 = new Label("Enter x and y coordinates of next \"town\".");
         lbl0.setFont(Font.font("Arial", FontWeight.BOLD, FontPosture.REGULAR, 14));
         tf0.setAlignment(Pos.BASELINE_RIGHT);
@@ -48,6 +71,7 @@ public class View extends Application {
 
         Label lbl1 = new Label("Filter by minimum average Rating");
         lbl1.setFont(Font.font("Arial", FontWeight.BOLD, FontPosture.REGULAR, 14));
+
         RadioButton radioButton1 = new RadioButton("5");
         RadioButton radioButton2 = new RadioButton("4");
         RadioButton radioButton3 = new RadioButton("3");
@@ -80,7 +104,7 @@ public class View extends Application {
         about.setMinWidth(200);
         VBox controls = new VBox();
         controls.setPadding(new Insets(50, 5, 5, 5));
-        controls.getChildren().addAll(tf2, lbl0, tf0, tf1, lbl1, hBox,lbl2, hBox2, find, about);
+        controls.getChildren().addAll(tf2, lbl3, hBox3, lbl0, tf0, tf1, lbl1, hBox,lbl2, hBox2, find, about);
         controls.setAlignment(Pos.CENTER_LEFT);
         controls.setSpacing(30);
 
@@ -89,6 +113,105 @@ public class View extends Application {
         });
         tf1.setOnMousePressed(e ->{ //Clears instructions/current coordinates out of y coordinate text field
             tf1.clear();
+        });
+
+        /* Assignment 3: Add AVLTree requirement. NOTE: This is duplicate functionality to the GoHashTable button
+         *  GoAVL button does the following:
+         *  -Clears out the stacks used for the back and forward buttons.
+         *  -Locates a map data set by searching a list of all counties stored in an AVLTree of key value pairs(of type KeyValuePair).
+         *  -The AVLTree has a getAVLTreeNode() method to return the node, in this case a KeyValuePair object, not just
+         *  a boolean return that tells you it exists.
+         *  -Passes the value returned to the GasStationList class's readData() method and is used to locate the searched county's data set.
+         *  -Rebuilds the Left and Center panes with new the locations of the searched county.
+         */
+        goAVL.setOnAction  (e -> {
+            //Clear out stacks as this program only supports planning a trip by one county at a time to limit extraneous design elements not needed for the assignment.
+            back.clear();
+            forward.clear();
+            try {
+                //User's country search term put in a KeyValuePair object(instead of some sort of String for simplicity):
+                TreeMapFilters.KeyValuePair kv1 = new TreeMapFilters.KeyValuePair(tf3.getText());
+                //The AVLTree returns an AVLTreeNode<KeyValue>, can be null:
+                AVLTree.AVLTreeNode<TreeMapFilters.KeyValuePair> kv2= TreeMapFilters.getCountyDataLocationAVLTree().getAVLTreeNode(kv1);
+                if (kv2.element == null) {
+                    //The AVLTreeNode<KeyValue> returned from the AVLTree search was null, notify user:
+                    tf2.setText("County not found!");
+                    tf3.setText("Format example: Frederick County,Maryland");
+                }
+                else {
+                    //The AVLTreeNode<KeyValue> returned from the AVLTree search  was not null and is sent to load the county's data the user search for:
+                    GasStationList.readData(kv2.element);
+                    try {
+                        //The Left and Center panes  get rebuilt with the county's data the user search for:
+                        gasStationsArrayList = SortByClosest.sortByClosest();
+                        ScrollPane sp = new ScrollPane(getLeftPane());
+                        sp.setMinWidth(300);
+                        borderPane.setLeft(sp);
+                        borderPane.setCenter(getCenterPane());
+                        tf2.setText("");
+                    } catch (IOException ex) {
+                        ex.printStackTrace();
+                    }
+                    /* When getCenterPane() gets called it puts the current location in the x and y text fields which is
+                     * the data in the special 0 index of the gasStationArrayList
+                     * At program launch you want the instructions though so hence the next two lines:
+                     */
+                    tf0.setText("X coordinate (50-750)");
+                    tf1.setText("Y coordinate (50-750)");
+                }
+            } catch (IOException ex) {
+                ex.printStackTrace();
+            }
+        });
+
+        /* Assignment 3: Add HasTable requirement. NOTE: This is duplicate functionality to the GoAVL button
+         *  GoHashTable button does the following:
+         *  -Clears out the stacks used for the back and forward buttons.
+         *  -Locates a map data set by searching a list of all counties stored in a HashTable/HashMap of key value pairs(of type KeyValuePair).
+         *  -The HashMap has a getAVLTreeNode() method to return the node, in this case a KeyValuePair object, not just
+         *  a boolean return that tells you it exists.
+         *  -Passes the value returned to the GasStationList class's readData() method and is used to locate the searched county's data set.
+         *  -Rebuilds the Left and Center panes with new the locations of the searched county.
+         */
+        goHashTable.setOnAction  (e -> {
+            //Clear out stacks as this program only supports planning a trip by one county at a time to limit extraneous design elements not needed for the assignment.
+            back.clear();
+            forward.clear();
+            try {
+                //User's country search term put in a KeyValuePair object(instead of some sort of String for simplicity):
+                TreeMapFilters.KeyValuePair kv1 = new TreeMapFilters.KeyValuePair(tf3.getText());
+                //The AVLTree returns an AVLTreeNode<KeyValue>, can be null:
+                String value = TreeMapFilters.getCountyDataLocationHashTable().get(kv1.key);
+                TreeMapFilters.KeyValuePair kv2 = new TreeMapFilters.KeyValuePair(kv1.key,value);
+                if (kv2.value == null) {
+                    //The AVLTreeNode<KeyValue> returned from the AVLTree search was null, notify user:
+                    tf2.setText("County not found!");
+                    tf3.setText("Format example: Frederick County,Maryland");
+                }
+                else {
+                    //The AVLTreeNode<KeyValue> returned from the AVLTree search  was not null and is sent to load the county's data the user search for:
+                    GasStationList.readData(kv2);
+                    try {
+                        //The Left and Center panes  get rebuilt with the county's data the user search for:
+                        gasStationsArrayList = SortByClosest.sortByClosest();
+                        ScrollPane sp = new ScrollPane(getLeftPane());
+                        sp.setMinWidth(300);
+                        borderPane.setLeft(sp);
+                        borderPane.setCenter(getCenterPane());
+                        tf2.setText("");
+                    } catch (IOException ex) {
+                        ex.printStackTrace();
+                    }
+                    /* When getCenterPane() gets called it puts the current location in the x and y text fields which is
+                     * the data in the special 0 index of the gasStationArrayList
+                     * At program launch you want the instructions though so hence the next two lines:
+                     */
+                    tf0.setText("X coordinate (50-750)");
+                    tf1.setText("Y coordinate (50-750)");
+                }
+            } catch (IOException ex) {
+                ex.printStackTrace();
+            }
         });
 
         //Find is the main button for seeing locations near the current location.
@@ -186,10 +309,10 @@ public class View extends Application {
                 sp.setMinWidth(300);
                 borderPane.setLeft(sp);
                 borderPane.setCenter(getCenterPane());
-                tf2.setText("");
+                tf2.setText("Showing stop number: " + (back.size()+1));
             }
             else {
-                tf2.setText("No Entry found - Beginning of Trip");
+                tf2.setText("No Entry found - Beginning of Trip, Showing stop number: " + (back.size()+1));
             }
         });
         Button forwardButton = new Button("Forward");
@@ -204,10 +327,10 @@ public class View extends Application {
                 sp.setMinWidth(300);
                 borderPane.setLeft(sp);
                 borderPane.setCenter(getCenterPane());
-                tf2.setText("");
+                tf2.setText("Showing stop number: " + (back.size()+1));
             }
             else {
-                tf2.setText("No Entry found - End of Trip");
+                tf2.setText("No Entry found - End of Trip, Showing stop number: " + (back.size()+1));
             }
         });
         Button addToTrip = new Button("Add To Trip");
@@ -274,7 +397,7 @@ public class View extends Application {
 
     @Override
     public void start(Stage primaryStage) throws IOException {
-        GasStationList.readData();
+        GasStationList.readData(new TreeMapFilters.KeyValuePair("Washington County,Maryland","data1A.txt")); //starting map loaded by default
         gasStationsArrayList = SortByClosest.sortByClosest(); //loads all points at launch, just have it that way
         TreeMapFilters.readData();
         borderPane = getBorderPane();  //main pane

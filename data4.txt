@@ -1,0 +1,3143 @@
+Autauga County,Alabama,data1.txt
+Baldwin County,Alabama,data1.txt
+Barbour County,Alabama,data1.txt
+Bibb County,Alabama,data1.txt
+Blount County,Alabama,data1.txt
+Bullock County,Alabama,data1.txt
+Butler County,Alabama,data1.txt
+Calhoun County,Alabama,data1.txt
+Chambers County,Alabama,data1.txt
+Cherokee County,Alabama,data1.txt
+Chilton County,Alabama,data1.txt
+Choctaw County,Alabama,data1.txt
+Clarke County,Alabama,data1.txt
+Clay County,Alabama,data1.txt
+Cleburne County,Alabama,data1.txt
+Coffee County,Alabama,data1.txt
+Colbert County,Alabama,data1.txt
+Conecuh County,Alabama,data1.txt
+Coosa County,Alabama,data1.txt
+Covington County,Alabama,data1.txt
+Crenshaw County,Alabama,data1.txt
+Cullman County,Alabama,data1.txt
+Dale County,Alabama,data1.txt
+Dallas County,Alabama,data1.txt
+DeKalb County,Alabama,data1.txt
+Elmore County,Alabama,data1.txt
+Escambia County,Alabama,data1.txt
+Etowah County,Alabama,data1.txt
+Fayette County,Alabama,data1.txt
+Franklin County,Alabama,data1.txt
+Geneva County,Alabama,data1.txt
+Greene County,Alabama,data1.txt
+Hale County,Alabama,data1.txt
+Henry County,Alabama,data1.txt
+Houston County,Alabama,data1.txt
+Jackson County,Alabama,data1.txt
+Jefferson County,Alabama,data1.txt
+Lamar County,Alabama,data1.txt
+Lauderdale County,Alabama,data1.txt
+Lawrence County,Alabama,data1.txt
+Lee County,Alabama,data1.txt
+Limestone County,Alabama,data1.txt
+Lowndes County,Alabama,data1.txt
+Macon County,Alabama,data1.txt
+Madison County,Alabama,data1.txt
+Marengo County,Alabama,data1.txt
+Marion County,Alabama,data1.txt
+Marshall County,Alabama,data1.txt
+Mobile County,Alabama,data1.txt
+Monroe County,Alabama,data1.txt
+Montgomery County,Alabama,data1.txt
+Morgan County,Alabama,data1.txt
+Perry County,Alabama,data1.txt
+Pickens County,Alabama,data1.txt
+Pike County,Alabama,data1.txt
+Randolph County,Alabama,data1.txt
+Russell County,Alabama,data1.txt
+St. Clair County,Alabama,data1.txt
+Shelby County,Alabama,data1.txt
+Sumter County,Alabama,data1.txt
+Talladega County,Alabama,data1.txt
+Tallapoosa County,Alabama,data1.txt
+Tuscaloosa County,Alabama,data1.txt
+Walker County,Alabama,data1.txt
+Washington County,Alabama,data1.txt
+Wilcox County,Alabama,data1.txt
+Winston County,Alabama,data1.txt
+Aleutians East Borough,Alaska,data1.txt
+Aleutians West Census Area,Alaska,data1.txt
+Anchorage, Municipality of,Alaska,data1.txt
+Bethel Census Area,Alaska,data1.txt
+Bristol Bay Borough,Alaska,data1.txt
+Denali Borough,Alaska,data1.txt
+Dillingham Census Area,Alaska,data1.txt
+Fairbanks North Star Borough,Alaska,data1.txt
+Haines Borough,Alaska,data1.txt
+Hoonah-Angoon Census Area,Alaska,data1.txt
+Juneau, City and Borough,Alaska,data1.txt
+Kenai Peninsula Borough,Alaska,data1.txt
+Ketchikan Gateway Borough,Alaska,data1.txt
+Kodiak Island Borough,Alaska,data1.txt
+Lake and Peninsula Borough,Alaska,data1.txt
+Matanuska-Susitna Borough,Alaska,data1.txt
+Nome Census Area,Alaska,data1.txt
+North Slope Borough,Alaska,data1.txt
+Northwest Arctic Borough,Alaska,data1.txt
+Petersburg Census Area,Alaska,data1.txt
+Prince of Wales-Hyder Census Area,Alaska,data1.txt
+Sitka, City and Borough of,Alaska,data1.txt
+Skagway Borough, Municipality of,Alaska,data1.txt
+Southeast Fairbanks Census Area,Alaska,data1.txt
+Valdez-Cordova Census Area,Alaska,data1.txt
+Wade Hampton Census Area,Alaska,data1.txt
+Wrangell, City and Borough of,Alaska,data1.txt
+Yakutat, City and Borough of,Alaska,data1.txt
+Yukon-Koyukuk Census Area,Alaska,data1.txt
+Apache County,Arizona,data1.txt
+Cochise County,Arizona,data1.txt
+Coconino County,Arizona,data1.txt
+Gila County,Arizona,data1.txt
+Graham County,Arizona,data1.txt
+Greenlee County,Arizona,data1.txt
+La Paz County,Arizona,data1.txt
+Maricopa County,Arizona,data1.txt
+Mohave County,Arizona,data1.txt
+Navajo County,Arizona,data1.txt
+Pima County,Arizona,data1.txt
+Pinal County,Arizona,data1.txt
+Santa Cruz County,Arizona,data1.txt
+Yavapai County,Arizona,data1.txt
+Yuma County,Arizona,data1.txt
+Arkansas County,Arkansas,data1.txt
+Ashley County,Arkansas,data1.txt
+Baxter County,Arkansas,data1.txt
+Benton County,Arkansas,data1.txt
+Boone County,Arkansas,data1.txt
+Bradley County,Arkansas,data1.txt
+Calhoun County,Arkansas,data1.txt
+Carroll County,Arkansas,data1.txt
+Chicot County,Arkansas,data1.txt
+Clark County,Arkansas,data1.txt
+Clay County,Arkansas,data1.txt
+Cleburne County,Arkansas,data1.txt
+Cleveland County,Arkansas,data1.txt
+Columbia County,Arkansas,data1.txt
+Conway County,Arkansas,data1.txt
+Craighead County,Arkansas,data1.txt
+Crawford County,Arkansas,data1.txt
+Crittenden County,Arkansas,data1.txt
+Cross County,Arkansas,data1.txt
+Dallas County,Arkansas,data1.txt
+Desha County,Arkansas,data1.txt
+Drew County,Arkansas,data1.txt
+Faulkner County,Arkansas,data1.txt
+Franklin County,Arkansas,data1.txt
+Fulton County,Arkansas,data1.txt
+Garland County,Arkansas,data1.txt
+Grant County,Arkansas,data1.txt
+Greene County,Arkansas,data1.txt
+Hempstead County,Arkansas,data1.txt
+Hot Spring County,Arkansas,data1.txt
+Howard County,Arkansas,data1.txt
+Independence County,Arkansas,data1.txt
+Izard County,Arkansas,data1.txt
+Jackson County,Arkansas,data1.txt
+Jefferson County,Arkansas,data1.txt
+Johnson County,Arkansas,data1.txt
+Lafayette County,Arkansas,data1.txt
+Lawrence County,Arkansas,data1.txt
+Lee County,Arkansas,data1.txt
+Lincoln County,Arkansas,data1.txt
+Little River County,Arkansas,data1.txt
+Logan County,Arkansas,data1.txt
+Lonoke County,Arkansas,data1.txt
+Madison County,Arkansas,data1.txt
+Marion County,Arkansas,data1.txt
+Miller County,Arkansas,data1.txt
+Mississippi County,Arkansas,data1.txt
+Monroe County,Arkansas,data1.txt
+Montgomery County,Arkansas,data1.txt
+Nevada County,Arkansas,data1.txt
+Newton County,Arkansas,data1.txt
+Ouachita County,Arkansas,data1.txt
+Perry County,Arkansas,data1.txt
+Phillips County,Arkansas,data1.txt
+Pike County,Arkansas,data1.txt
+Poinsett County,Arkansas,data1.txt
+Polk County,Arkansas,data1.txt
+Pope County,Arkansas,data1.txt
+Prairie County,Arkansas,data1.txt
+Pulaski County,Arkansas,data1.txt
+Randolph County,Arkansas,data1.txt
+St. Francis County,Arkansas,data1.txt
+Saline County,Arkansas,data1.txt
+Scott County,Arkansas,data1.txt
+Searcy County,Arkansas,data1.txt
+Sebastian County,Arkansas,data1.txt
+Sevier County,Arkansas,data1.txt
+Sharp County,Arkansas,data1.txt
+Stone County,Arkansas,data1.txt
+Union County,Arkansas,data1.txt
+Van Buren County,Arkansas,data1.txt
+Washington County,Arkansas,data1.txt
+White County,Arkansas,data1.txt
+Woodruff County,Arkansas,data1.txt
+Yell County,Arkansas,data1.txt
+Alameda County,California,data1.txt
+Alpine County,California,data1.txt
+Amador County,California,data1.txt
+Butte County,California,data1.txt
+Calaveras County,California,data1.txt
+Colusa County,California,data1.txt
+Contra Costa County,California,data1.txt
+Del Norte County,California,data1.txt
+El Dorado County,California,data1.txt
+Fresno County,California,data1.txt
+Glenn County,California,data1.txt
+Humboldt County,California,data1.txt
+Imperial County,California,data1.txt
+Inyo County,California,data1.txt
+Kern County,California,data1.txt
+Kings County,California,data1.txt
+Lake County,California,data1.txt
+Lassen County,California,data1.txt
+Los Angeles County,California,data1.txt
+Madera County,California,data1.txt
+Marin County,California,data1.txt
+Mariposa County,California,data1.txt
+Mendocino County,California,data1.txt
+Merced County,California,data1.txt
+Modoc County,California,data1.txt
+Mono County,California,data1.txt
+Monterey County,California,data1.txt
+Napa County,California,data1.txt
+Nevada County,California,data1.txt
+Orange County,California,data1.txt
+Placer County,California,data1.txt
+Plumas County,California,data1.txt
+Riverside County,California,data1.txt
+Sacramento County,California,data1.txt
+San Benito County,California,data1.txt
+San Bernardino County,California,data1.txt
+San Diego County,California,data1.txt
+San Francisco, City and County of,California,data1.txt
+San Joaquin County,California,data1.txt
+San Luis Obispo County,California,data1.txt
+San Mateo County,California,data1.txt
+Santa Barbara County,California,data1.txt
+Santa Clara County,California,data1.txt
+Santa Cruz County,California,data1.txt
+Shasta County,California,data1.txt
+Sierra County,California,data1.txt
+Siskiyou County,California,data1.txt
+Solano County,California,data1.txt
+Sonoma County,California,data1.txt
+Stanislaus County,California,data1.txt
+Sutter County,California,data1.txt
+Tehama County,California,data1.txt
+Trinity County,California,data1.txt
+Tulare County,California,data1.txt
+Tuolumne County,California,data1.txt
+Ventura County,California,data1.txt
+Yolo County,California,data1.txt
+Yuba County,California,data1.txt
+Adams County,Colorado,data1.txt
+Alamosa County,Colorado,data1.txt
+Arapahoe County,Colorado,data1.txt
+Archuleta County,Colorado,data1.txt
+Baca County,Colorado,data1.txt
+Bent County,Colorado,data1.txt
+Boulder County,Colorado,data1.txt
+Broomfield, City and County of,Colorado,data1.txt
+Chaffee County,Colorado,data1.txt
+Cheyenne County,Colorado,data1.txt
+Clear Creek County,Colorado,data1.txt
+Conejos County,Colorado,data1.txt
+Costilla County,Colorado,data1.txt
+Crowley County,Colorado,data1.txt
+Custer County,Colorado,data1.txt
+Delta County,Colorado,data1.txt
+Denver, City and County of,Colorado,data1.txt
+Dolores County,Colorado,data1.txt
+Douglas County,Colorado,data1.txt
+Eagle County,Colorado,data1.txt
+Elbert County,Colorado,data1.txt
+El Paso County,Colorado,data1.txt
+Fremont County,Colorado,data1.txt
+Garfield County,Colorado,data1.txt
+Gilpin County,Colorado,data1.txt
+Grand County,Colorado,data1.txt
+Gunnison County,Colorado,data1.txt
+Hinsdale County,Colorado,data1.txt
+Huerfano County,Colorado,data1.txt
+Jackson County,Colorado,data1.txt
+Jefferson County,Colorado,data1.txt
+Kiowa County,Colorado,data1.txt
+Kit Carson County,Colorado,data1.txt
+Lake County,Colorado,data1.txt
+La Plata County,Colorado,data1.txt
+Larimer County,Colorado,data1.txt
+Las Animas County,Colorado,data1.txt
+Lincoln County,Colorado,data1.txt
+Logan County,Colorado,data1.txt
+Mesa County,Colorado,data1.txt
+Mineral County,Colorado,data1.txt
+Moffat County,Colorado,data1.txt
+Montezuma County,Colorado,data1.txt
+Montrose County,Colorado,data1.txt
+Morgan County,Colorado,data1.txt
+Otero County,Colorado,data1.txt
+Ouray County,Colorado,data1.txt
+Park County,Colorado,data1.txt
+Phillips County,Colorado,data1.txt
+Pitkin County,Colorado,data1.txt
+Prowers County,Colorado,data1.txt
+Pueblo County,Colorado,data1.txt
+Rio Blanco County,Colorado,data1.txt
+Rio Grande County,Colorado,data1.txt
+Routt County,Colorado,data1.txt
+Saguache County,Colorado,data1.txt
+San Juan County,Colorado,data1.txt
+San Miguel County,Colorado,data1.txt
+Sedgwick County,Colorado,data1.txt
+Summit County,Colorado,data1.txt
+Teller County,Colorado,data1.txt
+Washington County,Colorado,data1.txt
+Weld County,Colorado,data1.txt
+Yuma County,Colorado,data1.txt
+Fairfield County,Connecticut,data1.txt
+Hartford County,Connecticut,data1.txt
+Litchfield County,Connecticut,data1.txt
+Middlesex County,Connecticut,data1.txt
+New Haven County,Connecticut,data1.txt
+New London County,Connecticut,data1.txt
+Tolland County,Connecticut,data1.txt
+Windham County,Connecticut,data1.txt
+Kent County,Delaware,data1.txt
+New Castle County,Delaware,data1.txt
+Sussex County,Delaware,data1.txt
+District of Columbia,District of Columbia,data1.txt
+Alachua County,Florida,data1.txt
+Baker County,Florida,data1.txt
+Bay County,Florida,data1.txt
+Bradford County,Florida,data1.txt
+Brevard County,Florida,data1.txt
+Broward County,Florida,data1.txt
+Calhoun County,Florida,data1.txt
+Charlotte County,Florida,data1.txt
+Citrus County,Florida,data1.txt
+Clay County,Florida,data1.txt
+Collier County,Florida,data1.txt
+Columbia County,Florida,data1.txt
+DeSoto County,Florida,data1.txt
+Dixie County,Florida,data1.txt
+Duval County,Florida,data1.txt
+Escambia County,Florida,data1.txt
+Flagler County,Florida,data1.txt
+Franklin County,Florida,data1.txt
+Gadsden County,Florida,data1.txt
+Gilchrist County,Florida,data1.txt
+Glades County,Florida,data1.txt
+Gulf County,Florida,data1.txt
+Hamilton County,Florida,data1.txt
+Hardee County,Florida,data1.txt
+Hendry County,Florida,data1.txt
+Hernando County,Florida,data1.txt
+Highlands County,Florida,data1.txt
+Hillsborough County,Florida,data1.txt
+Holmes County,Florida,data1.txt
+Indian River County,Florida,data1.txt
+Jackson County,Florida,data1.txt
+Jefferson County,Florida,data1.txt
+Lafayette County,Florida,data1.txt
+Lake County,Florida,data1.txt
+Lee County,Florida,data1.txt
+Leon County,Florida,data1.txt
+Levy County,Florida,data1.txt
+Liberty County,Florida,data1.txt
+Madison County,Florida,data1.txt
+Manatee County,Florida,data1.txt
+Marion County,Florida,data1.txt
+Martin County,Florida,data1.txt
+Miami-Dade County,Florida,data1.txt
+Monroe County,Florida,data1.txt
+Nassau County,Florida,data1.txt
+Okaloosa County,Florida,data1.txt
+Okeechobee County,Florida,data1.txt
+Orange County,Florida,data1.txt
+Osceola County,Florida,data1.txt
+Palm Beach County,Florida,data1.txt
+Pasco County,Florida,data1.txt
+Pinellas County,Florida,data1.txt
+Polk County,Florida,data1.txt
+Putnam County,Florida,data1.txt
+St. Johns County,Florida,data1.txt
+St. Lucie County,Florida,data1.txt
+Santa Rosa County,Florida,data1.txt
+Sarasota County,Florida,data1.txt
+Seminole County,Florida,data1.txt
+Sumter County,Florida,data1.txt
+Suwannee County,Florida,data1.txt
+Taylor County,Florida,data1.txt
+Union County,Florida,data1.txt
+Volusia County,Florida,data1.txt
+Wakulla County,Florida,data1.txt
+Walton County,Florida,data1.txt
+Washington County,Florida,data1.txt
+Appling County,Georgia,data1.txt
+Atkinson County,Georgia,data1.txt
+Bacon County,Georgia,data1.txt
+Baker County,Georgia,data1.txt
+Baldwin County,Georgia,data1.txt
+Banks County,Georgia,data1.txt
+Barrow County,Georgia,data1.txt
+Bartow County,Georgia,data1.txt
+Ben Hill County,Georgia,data1.txt
+Berrien County,Georgia,data1.txt
+Bibb County,Georgia,data1.txt
+Bleckley County,Georgia,data1.txt
+Brantley County,Georgia,data1.txt
+Brooks County,Georgia,data1.txt
+Bryan County,Georgia,data1.txt
+Bulloch County,Georgia,data1.txt
+Burke County,Georgia,data1.txt
+Butts County,Georgia,data1.txt
+Calhoun County,Georgia,data1.txt
+Camden County,Georgia,data1.txt
+Candler County,Georgia,data1.txt
+Carroll County,Georgia,data1.txt
+Catoosa County,Georgia,data1.txt
+Charlton County,Georgia,data1.txt
+Chatham County,Georgia,data1.txt
+Chattahoochee County,Georgia,data1.txt
+Chattooga County,Georgia,data1.txt
+Cherokee County,Georgia,data1.txt
+Clarke County,Georgia,data1.txt
+Clay County,Georgia,data1.txt
+Clayton County,Georgia,data1.txt
+Clinch County,Georgia,data1.txt
+Cobb County,Georgia,data1.txt
+Coffee County,Georgia,data1.txt
+Colquitt County,Georgia,data1.txt
+Columbia County,Georgia,data1.txt
+Cook County,Georgia,data1.txt
+Coweta County,Georgia,data1.txt
+Crawford County,Georgia,data1.txt
+Crisp County,Georgia,data1.txt
+Dade County,Georgia,data1.txt
+Dawson County,Georgia,data1.txt
+Decatur County,Georgia,data1.txt
+DeKalb County,Georgia,data1.txt
+Dodge County,Georgia,data1.txt
+Dooly County,Georgia,data1.txt
+Dougherty County,Georgia,data1.txt
+Douglas County,Georgia,data1.txt
+Early County,Georgia,data1.txt
+Echols County,Georgia,data1.txt
+Effingham County,Georgia,data1.txt
+Elbert County,Georgia,data1.txt
+Emanuel County,Georgia,data1.txt
+Evans County,Georgia,data1.txt
+Fannin County,Georgia,data1.txt
+Fayette County,Georgia,data1.txt
+Floyd County,Georgia,data1.txt
+Forsyth County,Georgia,data1.txt
+Franklin County,Georgia,data1.txt
+Fulton County,Georgia,data1.txt
+Gilmer County,Georgia,data1.txt
+Glascock County,Georgia,data1.txt
+Glynn County,Georgia,data1.txt
+Gordon County,Georgia,data1.txt
+Grady County,Georgia,data1.txt
+Greene County,Georgia,data1.txt
+Gwinnett County,Georgia,data1.txt
+Habersham County,Georgia,data1.txt
+Hall County,Georgia,data1.txt
+Hancock County,Georgia,data1.txt
+Haralson County,Georgia,data1.txt
+Harris County,Georgia,data1.txt
+Hart County,Georgia,data1.txt
+Heard County,Georgia,data1.txt
+Henry County,Georgia,data1.txt
+Houston County,Georgia,data1.txt
+Irwin County,Georgia,data1.txt
+Jackson County,Georgia,data1.txt
+Jasper County,Georgia,data1.txt
+Jeff Davis County,Georgia,data1.txt
+Jefferson County,Georgia,data1.txt
+Jenkins County,Georgia,data1.txt
+Johnson County,Georgia,data1.txt
+Jones County,Georgia,data1.txt
+Lamar County,Georgia,data1.txt
+Lanier County,Georgia,data1.txt
+Laurens County,Georgia,data1.txt
+Lee County,Georgia,data1.txt
+Liberty County,Georgia,data1.txt
+Lincoln County,Georgia,data1.txt
+Long County,Georgia,data1.txt
+Lowndes County,Georgia,data1.txt
+Lumpkin County,Georgia,data1.txt
+McDuffie County,Georgia,data1.txt
+McIntosh County,Georgia,data1.txt
+Macon County,Georgia,data1.txt
+Madison County,Georgia,data1.txt
+Marion County,Georgia,data1.txt
+Meriwether County,Georgia,data1.txt
+Miller County,Georgia,data1.txt
+Mitchell County,Georgia,data1.txt
+Monroe County,Georgia,data1.txt
+Montgomery County,Georgia,data1.txt
+Morgan County,Georgia,data1.txt
+Murray County,Georgia,data1.txt
+Muscogee County,Georgia,data1.txt
+Newton County,Georgia,data1.txt
+Oconee County,Georgia,data1.txt
+Oglethorpe County,Georgia,data1.txt
+Paulding County,Georgia,data1.txt
+Peach County,Georgia,data1.txt
+Pickens County,Georgia,data1.txt
+Pierce County,Georgia,data1.txt
+Pike County,Georgia,data1.txt
+Polk County,Georgia,data1.txt
+Pulaski County,Georgia,data1.txt
+Putnam County,Georgia,data1.txt
+Quitman County,Georgia,data1.txt
+Rabun County,Georgia,data1.txt
+Randolph County,Georgia,data1.txt
+Richmond County,Georgia,data1.txt
+Rockdale County,Georgia,data1.txt
+Schley County,Georgia,data1.txt
+Screven County,Georgia,data1.txt
+Seminole County,Georgia,data1.txt
+Spalding County,Georgia,data1.txt
+Stephens County,Georgia,data1.txt
+Stewart County,Georgia,data1.txt
+Sumter County,Georgia,data1.txt
+Talbot County,Georgia,data1.txt
+Taliaferro County,Georgia,data1.txt
+Tattnall County,Georgia,data1.txt
+Taylor County,Georgia,data1.txt
+Telfair County,Georgia,data1.txt
+Terrell County,Georgia,data1.txt
+Thomas County,Georgia,data1.txt
+Tift County,Georgia,data1.txt
+Toombs County,Georgia,data1.txt
+Towns County,Georgia,data1.txt
+Treutlen County,Georgia,data1.txt
+Troup County,Georgia,data1.txt
+Turner County,Georgia,data1.txt
+Twiggs County,Georgia,data1.txt
+Union County,Georgia,data1.txt
+Upson County,Georgia,data1.txt
+Walker County,Georgia,data1.txt
+Walton County,Georgia,data1.txt
+Ware County,Georgia,data1.txt
+Warren County,Georgia,data1.txt
+Washington County,Georgia,data1.txt
+Wayne County,Georgia,data1.txt
+Webster County,Georgia,data1.txt
+Wheeler County,Georgia,data1.txt
+White County,Georgia,data1.txt
+Whitfield County,Georgia,data1.txt
+Wilcox County,Georgia,data1.txt
+Wilkes County,Georgia,data1.txt
+Wilkinson County,Georgia,data1.txt
+Worth County,Georgia,data1.txt
+Hawaii County,Hawai?i,data1.txt
+Honolulu, City and County of,Hawai?i,data1.txt
+Kalawao County,Hawai?i,data1.txt
+Kauai County,Hawai?i,data1.txt
+Maui County,Hawai?i,data1.txt
+Ada County,Idaho,data1.txt
+Adams County,Idaho,data1.txt
+Bannock County,Idaho,data1.txt
+Bear Lake County,Idaho,data1.txt
+Benewah County,Idaho,data1.txt
+Bingham County,Idaho,data1.txt
+Blaine County,Idaho,data1.txt
+Boise County,Idaho,data1.txt
+Bonner County,Idaho,data1.txt
+Bonneville County,Idaho,data1.txt
+Boundary County,Idaho,data1.txt
+Butte County,Idaho,data1.txt
+Camas County,Idaho,data1.txt
+Canyon County,Idaho,data1.txt
+Caribou County,Idaho,data1.txt
+Cassia County,Idaho,data1.txt
+Clark County,Idaho,data1.txt
+Clearwater County,Idaho,data1.txt
+Custer County,Idaho,data1.txt
+Elmore County,Idaho,data1.txt
+Franklin County,Idaho,data1.txt
+Fremont County,Idaho,data1.txt
+Gem County,Idaho,data1.txt
+Gooding County,Idaho,data1.txt
+Idaho County,Idaho,data1.txt
+Jefferson County,Idaho,data1.txt
+Jerome County,Idaho,data1.txt
+Kootenai County,Idaho,data1.txt
+Latah County,Idaho,data1.txt
+Lemhi County,Idaho,data1.txt
+Lewis County,Idaho,data1.txt
+Lincoln County,Idaho,data1.txt
+Madison County,Idaho,data1.txt
+Minidoka County,Idaho,data1.txt
+Nez Perce County,Idaho,data1.txt
+Oneida County,Idaho,data1.txt
+Owyhee County,Idaho,data1.txt
+Payette County,Idaho,data1.txt
+Power County,Idaho,data1.txt
+Shoshone County,Idaho,data1.txt
+Teton County,Idaho,data1.txt
+Twin Falls County,Idaho,data1.txt
+Valley County,Idaho,data1.txt
+Washington County,Idaho,data1.txt
+Adams County,Illinois,data1.txt
+Alexander County,Illinois,data1.txt
+Bond County,Illinois,data1.txt
+Boone County,Illinois,data1.txt
+Brown County,Illinois,data1.txt
+Bureau County,Illinois,data1.txt
+Calhoun County,Illinois,data1.txt
+Carroll County,Illinois,data1.txt
+Cass County,Illinois,data1.txt
+Champaign County,Illinois,data1.txt
+Christian County,Illinois,data1.txt
+Clark County,Illinois,data1.txt
+Clay County,Illinois,data1.txt
+Clinton County,Illinois,data1.txt
+Coles County,Illinois,data1.txt
+Cook County,Illinois,data1.txt
+Crawford County,Illinois,data1.txt
+Cumberland County,Illinois,data1.txt
+DeKalb County,Illinois,data1.txt
+De Witt County,Illinois,data1.txt
+Douglas County,Illinois,data1.txt
+DuPage County,Illinois,data1.txt
+Edgar County,Illinois,data1.txt
+Edwards County,Illinois,data1.txt
+Effingham County,Illinois,data1.txt
+Fayette County,Illinois,data1.txt
+Ford County,Illinois,data1.txt
+Franklin County,Illinois,data1.txt
+Fulton County,Illinois,data1.txt
+Gallatin County,Illinois,data1.txt
+Greene County,Illinois,data1.txt
+Grundy County,Illinois,data1.txt
+Hamilton County,Illinois,data1.txt
+Hancock County,Illinois,data1.txt
+Hardin County,Illinois,data1.txt
+Henderson County,Illinois,data1.txt
+Henry County,Illinois,data1.txt
+Iroquois County,Illinois,data1.txt
+Jackson County,Illinois,data1.txt
+Jasper County,Illinois,data1.txt
+Jefferson County,Illinois,data1.txt
+Jersey County,Illinois,data1.txt
+Jo Daviess County,Illinois,data1.txt
+Johnson County,Illinois,data1.txt
+Kane County,Illinois,data1.txt
+Kankakee County,Illinois,data1.txt
+Kendall County,Illinois,data1.txt
+Knox County,Illinois,data1.txt
+Lake County,Illinois,data1.txt
+LaSalle County,Illinois,data1.txt
+Lawrence County,Illinois,data1.txt
+Lee County,Illinois,data1.txt
+Livingston County,Illinois,data1.txt
+Logan County,Illinois,data1.txt
+McDonough County,Illinois,data1.txt
+McHenry County,Illinois,data1.txt
+McLean County,Illinois,data1.txt
+Macon County,Illinois,data1.txt
+Macoupin County,Illinois,data1.txt
+Madison County,Illinois,data1.txt
+Marion County,Illinois,data1.txt
+Marshall County,Illinois,data1.txt
+Mason County,Illinois,data1.txt
+Massac County,Illinois,data1.txt
+Menard County,Illinois,data1.txt
+Mercer County,Illinois,data1.txt
+Monroe County,Illinois,data1.txt
+Montgomery County,Illinois,data1.txt
+Morgan County,Illinois,data1.txt
+Moultrie County,Illinois,data1.txt
+Ogle County,Illinois,data1.txt
+Peoria County,Illinois,data1.txt
+Perry County,Illinois,data1.txt
+Piatt County,Illinois,data1.txt
+Pike County,Illinois,data1.txt
+Pope County,Illinois,data1.txt
+Pulaski County,Illinois,data1.txt
+Putnam County,Illinois,data1.txt
+Randolph County,Illinois,data1.txt
+Richland County,Illinois,data1.txt
+Rock Island County,Illinois,data1.txt
+St. Clair County,Illinois,data1.txt
+Saline County,Illinois,data1.txt
+Sangamon County,Illinois,data1.txt
+Schuyler County,Illinois,data1.txt
+Scott County,Illinois,data1.txt
+Shelby County,Illinois,data1.txt
+Stark County,Illinois,data1.txt
+Stephenson County,Illinois,data1.txt
+Tazewell County,Illinois,data1.txt
+Union County,Illinois,data1.txt
+Vermilion County,Illinois,data1.txt
+Wabash County,Illinois,data1.txt
+Warren County,Illinois,data1.txt
+Washington County,Illinois,data1.txt
+Wayne County,Illinois,data1.txt
+White County,Illinois,data1.txt
+Whiteside County,Illinois,data1.txt
+Will County,Illinois,data1.txt
+Williamson County,Illinois,data1.txt
+Winnebago County,Illinois,data1.txt
+Woodford County,Illinois,data1.txt
+Adams County,Indiana,data1.txt
+Allen County,Indiana,data1.txt
+Bartholomew County,Indiana,data1.txt
+Benton County,Indiana,data1.txt
+Blackford County,Indiana,data1.txt
+Boone County,Indiana,data1.txt
+Brown County,Indiana,data1.txt
+Carroll County,Indiana,data1.txt
+Cass County,Indiana,data1.txt
+Clark County,Indiana,data1.txt
+Clay County,Indiana,data1.txt
+Clinton County,Indiana,data1.txt
+Crawford County,Indiana,data1.txt
+Daviess County,Indiana,data1.txt
+Dearborn County,Indiana,data1.txt
+Decatur County,Indiana,data1.txt
+DeKalb County,Indiana,data1.txt
+Delaware County,Indiana,data1.txt
+Dubois County,Indiana,data1.txt
+Elkhart County,Indiana,data1.txt
+Fayette County,Indiana,data1.txt
+Floyd County,Indiana,data1.txt
+Fountain County,Indiana,data1.txt
+Franklin County,Indiana,data1.txt
+Fulton County,Indiana,data1.txt
+Gibson County,Indiana,data1.txt
+Grant County,Indiana,data1.txt
+Greene County,Indiana,data1.txt
+Hamilton County,Indiana,data1.txt
+Hancock County,Indiana,data1.txt
+Harrison County,Indiana,data1.txt
+Hendricks County,Indiana,data1.txt
+Henry County,Indiana,data1.txt
+Howard County,Indiana,data1.txt
+Huntington County,Indiana,data1.txt
+Jackson County,Indiana,data1.txt
+Jasper County,Indiana,data1.txt
+Jay County,Indiana,data1.txt
+Jefferson County,Indiana,data1.txt
+Jennings County,Indiana,data1.txt
+Johnson County,Indiana,data1.txt
+Knox County,Indiana,data1.txt
+Kosciusko County,Indiana,data1.txt
+LaGrange County,Indiana,data1.txt
+Lake County,Indiana,data1.txt
+LaPorte County,Indiana,data1.txt
+Lawrence County,Indiana,data1.txt
+Madison County,Indiana,data1.txt
+Marion County,Indiana,data1.txt
+Marshall County,Indiana,data1.txt
+Martin County,Indiana,data1.txt
+Miami County,Indiana,data1.txt
+Monroe County,Indiana,data1.txt
+Montgomery County,Indiana,data1.txt
+Morgan County,Indiana,data1.txt
+Newton County,Indiana,data1.txt
+Noble County,Indiana,data1.txt
+Ohio County,Indiana,data1.txt
+Orange County,Indiana,data1.txt
+Owen County,Indiana,data1.txt
+Parke County,Indiana,data1.txt
+Perry County,Indiana,data1.txt
+Pike County,Indiana,data1.txt
+Porter County,Indiana,data1.txt
+Posey County,Indiana,data1.txt
+Pulaski County,Indiana,data1.txt
+Putnam County,Indiana,data1.txt
+Randolph County,Indiana,data1.txt
+Ripley County,Indiana,data1.txt
+Rush County,Indiana,data1.txt
+St. Joseph County,Indiana,data1.txt
+Scott County,Indiana,data1.txt
+Shelby County,Indiana,data1.txt
+Spencer County,Indiana,data1.txt
+Starke County,Indiana,data1.txt
+Steuben County,Indiana,data1.txt
+Sullivan County,Indiana,data1.txt
+Switzerland County,Indiana,data1.txt
+Tippecanoe County,Indiana,data1.txt
+Tipton County,Indiana,data1.txt
+Union County,Indiana,data1.txt
+Vanderburgh County,Indiana,data1.txt
+Vermillion County,Indiana,data1.txt
+Vigo County,Indiana,data1.txt
+Wabash County,Indiana,data1.txt
+Warren County,Indiana,data1.txt
+Warrick County,Indiana,data1.txt
+Washington County,Indiana,data1.txt
+Wayne County,Indiana,data1.txt
+Wells County,Indiana,data1.txt
+White County,Indiana,data1.txt
+Whitley County,Indiana,data1.txt
+Adair County,Iowa,data1.txt
+Adams County,Iowa,data1.txt
+Allamakee County,Iowa,data1.txt
+Appanoose County,Iowa,data1.txt
+Audubon County,Iowa,data1.txt
+Benton County,Iowa,data1.txt
+Black Hawk County,Iowa,data1.txt
+Boone County,Iowa,data1.txt
+Bremer County,Iowa,data1.txt
+Buchanan County,Iowa,data1.txt
+Buena Vista County,Iowa,data1.txt
+Butler County,Iowa,data1.txt
+Calhoun County,Iowa,data1.txt
+Carroll County,Iowa,data1.txt
+Cass County,Iowa,data1.txt
+Cedar County,Iowa,data1.txt
+Cerro Gordo County,Iowa,data1.txt
+Cherokee County,Iowa,data1.txt
+Chickasaw County,Iowa,data1.txt
+Clarke County,Iowa,data1.txt
+Clay County,Iowa,data1.txt
+Clayton County,Iowa,data1.txt
+Clinton County,Iowa,data1.txt
+Crawford County,Iowa,data1.txt
+Dallas County,Iowa,data1.txt
+Davis County,Iowa,data1.txt
+Decatur County,Iowa,data1.txt
+Delaware County,Iowa,data1.txt
+Des Moines County,Iowa,data1.txt
+Dickinson County,Iowa,data1.txt
+Dubuque County,Iowa,data1.txt
+Emmet County,Iowa,data1.txt
+Fayette County,Iowa,data1.txt
+Floyd County,Iowa,data1.txt
+Franklin County,Iowa,data1.txt
+Fremont County,Iowa,data1.txt
+Greene County,Iowa,data1.txt
+Grundy County,Iowa,data1.txt
+Guthrie County,Iowa,data1.txt
+Hamilton County,Iowa,data1.txt
+Hancock County,Iowa,data1.txt
+Hardin County,Iowa,data1.txt
+Harrison County,Iowa,data1.txt
+Henry County,Iowa,data1.txt
+Howard County,Iowa,data1.txt
+Humboldt County,Iowa,data1.txt
+Ida County,Iowa,data1.txt
+Iowa County,Iowa,data1.txt
+Jackson County,Iowa,data1.txt
+Jasper County,Iowa,data1.txt
+Jefferson County,Iowa,data1.txt
+Johnson County,Iowa,data1.txt
+Jones County,Iowa,data1.txt
+Keokuk County,Iowa,data1.txt
+Kossuth County,Iowa,data1.txt
+Lee County,Iowa,data1.txt
+Linn County,Iowa,data1.txt
+Louisa County,Iowa,data1.txt
+Lucas County,Iowa,data1.txt
+Lyon County,Iowa,data1.txt
+Madison County,Iowa,data1.txt
+Mahaska County,Iowa,data1.txt
+Marion County,Iowa,data1.txt
+Marshall County,Iowa,data1.txt
+Mills County,Iowa,data1.txt
+Mitchell County,Iowa,data1.txt
+Monona County,Iowa,data1.txt
+Monroe County,Iowa,data1.txt
+Montgomery County,Iowa,data1.txt
+Muscatine County,Iowa,data1.txt
+O'Brien County,Iowa,data1.txt
+Osceola County,Iowa,data1.txt
+Page County,Iowa,data1.txt
+Palo Alto County,Iowa,data1.txt
+Plymouth County,Iowa,data1.txt
+Pocahontas County,Iowa,data1.txt
+Polk County,Iowa,data1.txt
+Pottawattamie County,Iowa,data1.txt
+Poweshiek County,Iowa,data1.txt
+Ringgold County,Iowa,data1.txt
+Sac County,Iowa,data1.txt
+Scott County,Iowa,data1.txt
+Shelby County,Iowa,data1.txt
+Sioux County,Iowa,data1.txt
+Story County,Iowa,data1.txt
+Tama County,Iowa,data1.txt
+Taylor County,Iowa,data1.txt
+Union County,Iowa,data1.txt
+Van Buren County,Iowa,data1.txt
+Wapello County,Iowa,data1.txt
+Warren County,Iowa,data1.txt
+Washington County,Iowa,data1.txt
+Wayne County,Iowa,data1.txt
+Webster County,Iowa,data1.txt
+Winnebago County,Iowa,data1.txt
+Winneshiek County,Iowa,data1.txt
+Woodbury County,Iowa,data1.txt
+Worth County,Iowa,data1.txt
+Wright County,Iowa,data1.txt
+Allen County,Kansas,data1.txt
+Anderson County,Kansas,data1.txt
+Atchison County,Kansas,data1.txt
+Barber County,Kansas,data1.txt
+Barton County,Kansas,data1.txt
+Bourbon County,Kansas,data1.txt
+Brown County,Kansas,data1.txt
+Butler County,Kansas,data1.txt
+Chase County,Kansas,data1.txt
+Chautauqua County,Kansas,data1.txt
+Cherokee County,Kansas,data1.txt
+Cheyenne County,Kansas,data1.txt
+Clark County,Kansas,data1.txt
+Clay County,Kansas,data1.txt
+Cloud County,Kansas,data1.txt
+Coffey County,Kansas,data1.txt
+Comanche County,Kansas,data1.txt
+Cowley County,Kansas,data1.txt
+Crawford County,Kansas,data1.txt
+Decatur County,Kansas,data1.txt
+Dickinson County,Kansas,data1.txt
+Doniphan County,Kansas,data1.txt
+Douglas County,Kansas,data1.txt
+Edwards County,Kansas,data1.txt
+Elk County,Kansas,data1.txt
+Ellis County,Kansas,data1.txt
+Ellsworth County,Kansas,data1.txt
+Finney County,Kansas,data1.txt
+Ford County,Kansas,data1.txt
+Franklin County,Kansas,data1.txt
+Geary County,Kansas,data1.txt
+Gove County,Kansas,data1.txt
+Graham County,Kansas,data1.txt
+Grant County,Kansas,data1.txt
+Gray County,Kansas,data1.txt
+Greeley County,Kansas,data1.txt
+Greenwood County,Kansas,data1.txt
+Hamilton County,Kansas,data1.txt
+Harper County,Kansas,data1.txt
+Harvey County,Kansas,data1.txt
+Haskell County,Kansas,data1.txt
+Hodgeman County,Kansas,data1.txt
+Jackson County,Kansas,data1.txt
+Jefferson County,Kansas,data1.txt
+Jewell County,Kansas,data1.txt
+Johnson County,Kansas,data1.txt
+Kearny County,Kansas,data1.txt
+Kingman County,Kansas,data1.txt
+Kiowa County,Kansas,data1.txt
+Labette County,Kansas,data1.txt
+Lane County,Kansas,data1.txt
+Leavenworth County,Kansas,data1.txt
+Lincoln County,Kansas,data1.txt
+Linn County,Kansas,data1.txt
+Logan County,Kansas,data1.txt
+Lyon County,Kansas,data1.txt
+McPherson County,Kansas,data1.txt
+Marion County,Kansas,data1.txt
+Marshall County,Kansas,data1.txt
+Meade County,Kansas,data1.txt
+Miami County,Kansas,data1.txt
+Mitchell County,Kansas,data1.txt
+Montgomery County,Kansas,data1.txt
+Morris County,Kansas,data1.txt
+Morton County,Kansas,data1.txt
+Nemaha County,Kansas,data1.txt
+Neosho County,Kansas,data1.txt
+Ness County,Kansas,data1.txt
+Norton County,Kansas,data1.txt
+Osage County,Kansas,data1.txt
+Osborne County,Kansas,data1.txt
+Ottawa County,Kansas,data1.txt
+Pawnee County,Kansas,data1.txt
+Phillips County,Kansas,data1.txt
+Pottawatomie County,Kansas,data1.txt
+Pratt County,Kansas,data1.txt
+Rawlins County,Kansas,data1.txt
+Reno County,Kansas,data1.txt
+Republic County,Kansas,data1.txt
+Rice County,Kansas,data1.txt
+Riley County,Kansas,data1.txt
+Rooks County,Kansas,data1.txt
+Rush County,Kansas,data1.txt
+Russell County,Kansas,data1.txt
+Saline County,Kansas,data1.txt
+Scott County,Kansas,data1.txt
+Sedgwick County,Kansas,data1.txt
+Seward County,Kansas,data1.txt
+Shawnee County,Kansas,data1.txt
+Sheridan County,Kansas,data1.txt
+Sherman County,Kansas,data1.txt
+Smith County,Kansas,data1.txt
+Stafford County,Kansas,data1.txt
+Stanton County,Kansas,data1.txt
+Stevens County,Kansas,data1.txt
+Sumner County,Kansas,data1.txt
+Thomas County,Kansas,data1.txt
+Trego County,Kansas,data1.txt
+Wabaunsee County,Kansas,data1.txt
+Wallace County,Kansas,data1.txt
+Washington County,Kansas,data1.txt
+Wichita County,Kansas,data1.txt
+Wilson County,Kansas,data1.txt
+Woodson County,Kansas,data1.txt
+Wyandotte County,Kansas,data1.txt
+Adair County,Kentucky,data1.txt
+Allen County,Kentucky,data1.txt
+Anderson County,Kentucky,data1.txt
+Ballard County,Kentucky,data1.txt
+Barren County,Kentucky,data1.txt
+Bath County,Kentucky,data1.txt
+Bell County,Kentucky,data1.txt
+Boone County,Kentucky,data1.txt
+Bourbon County,Kentucky,data1.txt
+Boyd County,Kentucky,data1.txt
+Boyle County,Kentucky,data1.txt
+Bracken County,Kentucky,data1.txt
+Breathitt County,Kentucky,data1.txt
+Breckinridge County,Kentucky,data1.txt
+Bullitt County,Kentucky,data1.txt
+Butler County,Kentucky,data1.txt
+Caldwell County,Kentucky,data1.txt
+Calloway County,Kentucky,data1.txt
+Campbell County,Kentucky,data1.txt
+Carlisle County,Kentucky,data1.txt
+Carroll County,Kentucky,data1.txt
+Carter County,Kentucky,data1.txt
+Casey County,Kentucky,data1.txt
+Christian County,Kentucky,data1.txt
+Clark County,Kentucky,data1.txt
+Clay County,Kentucky,data1.txt
+Clinton County,Kentucky,data1.txt
+Crittenden County,Kentucky,data1.txt
+Cumberland County,Kentucky,data1.txt
+Daviess County,Kentucky,data1.txt
+Edmonson County,Kentucky,data1.txt
+Elliott County,Kentucky,data1.txt
+Estill County,Kentucky,data1.txt
+Fayette County,Kentucky,data1.txt
+Fleming County,Kentucky,data1.txt
+Floyd County,Kentucky,data1.txt
+Franklin County,Kentucky,data1.txt
+Fulton County,Kentucky,data1.txt
+Gallatin County,Kentucky,data1.txt
+Garrard County,Kentucky,data1.txt
+Grant County,Kentucky,data1.txt
+Graves County,Kentucky,data1.txt
+Grayson County,Kentucky,data1.txt
+Green County,Kentucky,data1.txt
+Greenup County,Kentucky,data1.txt
+Hancock County,Kentucky,data1.txt
+Hardin County,Kentucky,data1.txt
+Harlan County,Kentucky,data1.txt
+Harrison County,Kentucky,data1.txt
+Hart County,Kentucky,data1.txt
+Henderson County,Kentucky,data1.txt
+Henry County,Kentucky,data1.txt
+Hickman County,Kentucky,data1.txt
+Hopkins County,Kentucky,data1.txt
+Jackson County,Kentucky,data1.txt
+Jefferson County,Kentucky,data1.txt
+Jessamine County,Kentucky,data1.txt
+Johnson County,Kentucky,data1.txt
+Kenton County,Kentucky,data1.txt
+Knott County,Kentucky,data1.txt
+Knox County,Kentucky,data1.txt
+Larue County,Kentucky,data1.txt
+Laurel County,Kentucky,data1.txt
+Lawrence County,Kentucky,data1.txt
+Lee County,Kentucky,data1.txt
+Leslie County,Kentucky,data1.txt
+Letcher County,Kentucky,data1.txt
+Lewis County,Kentucky,data1.txt
+Lincoln County,Kentucky,data1.txt
+Livingston County,Kentucky,data1.txt
+Logan County,Kentucky,data1.txt
+Lyon County,Kentucky,data1.txt
+McCracken County,Kentucky,data1.txt
+McCreary County,Kentucky,data1.txt
+McLean County,Kentucky,data1.txt
+Madison County,Kentucky,data1.txt
+Magoffin County,Kentucky,data1.txt
+Marion County,Kentucky,data1.txt
+Marshall County,Kentucky,data1.txt
+Martin County,Kentucky,data1.txt
+Mason County,Kentucky,data1.txt
+Meade County,Kentucky,data1.txt
+Menifee County,Kentucky,data1.txt
+Mercer County,Kentucky,data1.txt
+Metcalfe County,Kentucky,data1.txt
+Monroe County,Kentucky,data1.txt
+Montgomery County,Kentucky,data1.txt
+Morgan County,Kentucky,data1.txt
+Muhlenberg County,Kentucky,data1.txt
+Nelson County,Kentucky,data1.txt
+Nicholas County,Kentucky,data1.txt
+Ohio County,Kentucky,data1.txt
+Oldham County,Kentucky,data1.txt
+Owen County,Kentucky,data1.txt
+Owsley County,Kentucky,data1.txt
+Pendleton County,Kentucky,data1.txt
+Perry County,Kentucky,data1.txt
+Pike County,Kentucky,data1.txt
+Powell County,Kentucky,data1.txt
+Pulaski County,Kentucky,data1.txt
+Robertson County,Kentucky,data1.txt
+Rockcastle County,Kentucky,data1.txt
+Rowan County,Kentucky,data1.txt
+Russell County,Kentucky,data1.txt
+Scott County,Kentucky,data1.txt
+Shelby County,Kentucky,data1.txt
+Simpson County,Kentucky,data1.txt
+Spencer County,Kentucky,data1.txt
+Taylor County,Kentucky,data1.txt
+Todd County,Kentucky,data1.txt
+Trigg County,Kentucky,data1.txt
+Trimble County,Kentucky,data1.txt
+Union County,Kentucky,data1.txt
+Warren County,Kentucky,data1.txt
+Washington County,Kentucky,data1.txt
+Wayne County,Kentucky,data1.txt
+Webster County,Kentucky,data1.txt
+Whitley County,Kentucky,data1.txt
+Wolfe County,Kentucky,data1.txt
+Woodford County,Kentucky,data1.txt
+Acadia Parish,Louisiana,data1.txt
+Allen Parish,Louisiana,data1.txt
+Ascension Parish,Louisiana,data1.txt
+Assumption Parish,Louisiana,data1.txt
+Avoyelles Parish,Louisiana,data1.txt
+Beauregard Parish,Louisiana,data1.txt
+Bienville Parish,Louisiana,data1.txt
+Bossier Parish,Louisiana,data1.txt
+Caddo Parish,Louisiana,data1.txt
+Calcasieu Parish,Louisiana,data1.txt
+Caldwell Parish,Louisiana,data1.txt
+Cameron Parish,Louisiana,data1.txt
+Catahoula Parish,Louisiana,data1.txt
+Claiborne Parish,Louisiana,data1.txt
+Concordia Parish,Louisiana,data1.txt
+De Soto Parish,Louisiana,data1.txt
+East Baton Rouge Parish,Louisiana,data1.txt
+East Carroll Parish,Louisiana,data1.txt
+East Feliciana Parish,Louisiana,data1.txt
+Evangeline Parish,Louisiana,data1.txt
+Franklin Parish,Louisiana,data1.txt
+Grant Parish,Louisiana,data1.txt
+Iberia Parish,Louisiana,data1.txt
+Iberville Parish,Louisiana,data1.txt
+Jackson Parish,Louisiana,data1.txt
+Jefferson Parish,Louisiana,data1.txt
+Jefferson Davis Parish,Louisiana,data1.txt
+Lafayette Parish,Louisiana,data1.txt
+Lafourche Parish,Louisiana,data1.txt
+LaSalle Parish,Louisiana,data1.txt
+Lincoln Parish,Louisiana,data1.txt
+Livingston Parish,Louisiana,data1.txt
+Madison Parish,Louisiana,data1.txt
+Morehouse Parish,Louisiana,data1.txt
+Natchitoches Parish,Louisiana,data1.txt
+Orleans Parish,Louisiana,data1.txt
+Ouachita Parish,Louisiana,data1.txt
+Plaquemines Parish,Louisiana,data1.txt
+Pointe Coupee Parish,Louisiana,data1.txt
+Rapides Parish,Louisiana,data1.txt
+Red River Parish,Louisiana,data1.txt
+Richland Parish,Louisiana,data1.txt
+Sabine Parish,Louisiana,data1.txt
+St. Bernard Parish,Louisiana,data1.txt
+St. Charles Parish,Louisiana,data1.txt
+St. Helena Parish,Louisiana,data1.txt
+St. James Parish,Louisiana,data1.txt
+St. John the Baptist Parish,Louisiana,data1.txt
+St. Landry Parish,Louisiana,data1.txt
+St. Martin Parish,Louisiana,data1.txt
+St. Mary Parish,Louisiana,data1.txt
+St. Tammany Parish,Louisiana,data1.txt
+Tangipahoa Parish,Louisiana,data1.txt
+Tensas Parish,Louisiana,data1.txt
+Terrebonne Parish,Louisiana,data1.txt
+Union Parish,Louisiana,data1.txt
+Vermilion Parish,Louisiana,data1.txt
+Vernon Parish,Louisiana,data1.txt
+Washington Parish,Louisiana,data1.txt
+Webster Parish,Louisiana,data1.txt
+West Baton Rouge Parish,Louisiana,data1.txt
+West Carroll Parish,Louisiana,data1.txt
+West Feliciana Parish,Louisiana,data1.txt
+Winn Parish,Louisiana,data1.txt
+Androscoggin County,Maine,data1.txt
+Aroostook County,Maine,data1.txt
+Cumberland County,Maine,data1.txt
+Franklin County,Maine,data1.txt
+Hancock County,Maine,data1.txt
+Kennebec County,Maine,data1.txt
+Knox County,Maine,data1.txt
+Lincoln County,Maine,data1.txt
+Oxford County,Maine,data1.txt
+Penobscot County,Maine,data1.txt
+Piscataquis County,Maine,data1.txt
+Sagadahoc County,Maine,data1.txt
+Somerset County,Maine,data1.txt
+Waldo County,Maine,data1.txt
+Washington County,Maine,data1.txt
+York County,Maine,data1.txt
+Allegany County,Maryland,data1.txt
+Anne Arundel County,Maryland,data1.txt
+Baltimore County,Maryland,data1.txt
+Calvert County,Maryland,data1.txt
+Caroline County,Maryland,data1.txt
+Carroll County,Maryland,data1.txt
+Cecil County,Maryland,data1.txt
+Charles County,Maryland,data1.txt
+Dorchester County,Maryland,data1.txt
+Frederick County,Maryland,data1.txt
+Garrett County,Maryland,data1.txt
+Harford County,Maryland,data1.txt
+Howard County,Maryland,data1.txt
+Kent County,Maryland,data1.txt
+Montgomery County,Maryland,data1.txt
+Prince George's County,Maryland,data1.txt
+Queen Anne's County,Maryland,data1.txt
+St. Mary's County,Maryland,data1.txt
+Somerset County,Maryland,data1.txt
+Talbot County,Maryland,data1.txt
+Washington County,Maryland,data1A.txt
+Wicomico County,Maryland,data1.txt
+Worcester County,Maryland,data1.txt
+Baltimore, City of,Maryland,data1.txt
+Barnstable County,Massachusetts,data1.txt
+Berkshire County,Massachusetts,data1.txt
+Bristol County,Massachusetts,data1.txt
+Dukes County,Massachusetts,data1.txt
+Essex County,Massachusetts,data1.txt
+Franklin County,Massachusetts,data1.txt
+Hampden County,Massachusetts,data1.txt
+Hampshire County,Massachusetts,data1.txt
+Middlesex County,Massachusetts,data1.txt
+Nantucket, Town and County of,Massachusetts,data1.txt
+Norfolk County,Massachusetts,data1.txt
+Plymouth County,Massachusetts,data1.txt
+Suffolk County,Massachusetts,data1.txt
+Worcester County,Massachusetts,data1.txt
+Alcona County,Michigan,data1.txt
+Alger County,Michigan,data1.txt
+Allegan County,Michigan,data1.txt
+Alpena County,Michigan,data1.txt
+Antrim County,Michigan,data1.txt
+Arenac County,Michigan,data1.txt
+Baraga County,Michigan,data1.txt
+Barry County,Michigan,data1.txt
+Bay County,Michigan,data1.txt
+Benzie County,Michigan,data1.txt
+Berrien County,Michigan,data1.txt
+Branch County,Michigan,data1.txt
+Calhoun County,Michigan,data1.txt
+Cass County,Michigan,data1.txt
+Charlevoix County,Michigan,data1.txt
+Cheboygan County,Michigan,data1.txt
+Chippewa County,Michigan,data1.txt
+Clare County,Michigan,data1.txt
+Clinton County,Michigan,data1.txt
+Crawford County,Michigan,data1.txt
+Delta County,Michigan,data1.txt
+Dickinson County,Michigan,data1.txt
+Eaton County,Michigan,data1.txt
+Emmet County,Michigan,data1.txt
+Genesee County,Michigan,data1.txt
+Gladwin County,Michigan,data1.txt
+Gogebic County,Michigan,data1.txt
+Grand Traverse County,Michigan,data1.txt
+Gratiot County,Michigan,data1.txt
+Hillsdale County,Michigan,data1.txt
+Houghton County,Michigan,data1.txt
+Huron County,Michigan,data1.txt
+Ingham County,Michigan,data1.txt
+Ionia County,Michigan,data1.txt
+Iosco County,Michigan,data1.txt
+Iron County,Michigan,data1.txt
+Isabella County,Michigan,data1.txt
+Jackson County,Michigan,data1.txt
+Kalamazoo County,Michigan,data1.txt
+Kalkaska County,Michigan,data1.txt
+Kent County,Michigan,data1.txt
+Keweenaw County,Michigan,data1.txt
+Lake County,Michigan,data1.txt
+Lapeer County,Michigan,data1.txt
+Leelanau County,Michigan,data1.txt
+Lenawee County,Michigan,data1.txt
+Livingston County,Michigan,data1.txt
+Luce County,Michigan,data1.txt
+Mackinac County,Michigan,data1.txt
+Macomb County,Michigan,data1.txt
+Manistee County,Michigan,data1.txt
+Marquette County,Michigan,data1.txt
+Mason County,Michigan,data1.txt
+Mecosta County,Michigan,data1.txt
+Menominee County,Michigan,data1.txt
+Midland County,Michigan,data1.txt
+Missaukee County,Michigan,data1.txt
+Monroe County,Michigan,data1.txt
+Montcalm County,Michigan,data1.txt
+Montmorency County,Michigan,data1.txt
+Muskegon County,Michigan,data1.txt
+Newaygo County,Michigan,data1.txt
+Oakland County,Michigan,data1.txt
+Oceana County,Michigan,data1.txt
+Ogemaw County,Michigan,data1.txt
+Ontonagon County,Michigan,data1.txt
+Osceola County,Michigan,data1.txt
+Oscoda County,Michigan,data1.txt
+Otsego County,Michigan,data1.txt
+Ottawa County,Michigan,data1.txt
+Presque Isle County,Michigan,data1.txt
+Roscommon County,Michigan,data1.txt
+Saginaw County,Michigan,data1.txt
+St. Clair County,Michigan,data1.txt
+St. Joseph County,Michigan,data1.txt
+Sanilac County,Michigan,data1.txt
+Schoolcraft County,Michigan,data1.txt
+Shiawassee County,Michigan,data1.txt
+Tuscola County,Michigan,data1.txt
+Van Buren County,Michigan,data1.txt
+Washtenaw County,Michigan,data1.txt
+Wayne County,Michigan,data1.txt
+Wexford County,Michigan,data1.txt
+Aitkin County,Minnesota,data1.txt
+Anoka County,Minnesota,data1.txt
+Becker County,Minnesota,data1.txt
+Beltrami County,Minnesota,data1.txt
+Benton County,Minnesota,data1.txt
+Big Stone County,Minnesota,data1.txt
+Blue Earth County,Minnesota,data1.txt
+Brown County,Minnesota,data1.txt
+Carlton County,Minnesota,data1.txt
+Carver County,Minnesota,data1.txt
+Cass County,Minnesota,data1.txt
+Chippewa County,Minnesota,data1.txt
+Chisago County,Minnesota,data1.txt
+Clay County,Minnesota,data1.txt
+Clearwater County,Minnesota,data1.txt
+Cook County,Minnesota,data1.txt
+Cottonwood County,Minnesota,data1.txt
+Crow Wing County,Minnesota,data1.txt
+Dakota County,Minnesota,data1.txt
+Dodge County,Minnesota,data1.txt
+Douglas County,Minnesota,data1.txt
+Faribault County,Minnesota,data1.txt
+Fillmore County,Minnesota,data1.txt
+Freeborn County,Minnesota,data1.txt
+Goodhue County,Minnesota,data1.txt
+Grant County,Minnesota,data1.txt
+Hennepin County,Minnesota,data1.txt
+Houston County,Minnesota,data1.txt
+Hubbard County,Minnesota,data1.txt
+Isanti County,Minnesota,data1.txt
+Itasca County,Minnesota,data1.txt
+Jackson County,Minnesota,data1.txt
+Kanabec County,Minnesota,data1.txt
+Kandiyohi County,Minnesota,data1.txt
+Kittson County,Minnesota,data1.txt
+Koochiching County,Minnesota,data1.txt
+Lac qui Parle County,Minnesota,data1.txt
+Lake County,Minnesota,data1.txt
+Lake of the Woods County,Minnesota,data1.txt
+Le Sueur County,Minnesota,data1.txt
+Lincoln County,Minnesota,data1.txt
+Lyon County,Minnesota,data1.txt
+McLeod County,Minnesota,data1.txt
+Mahnomen County,Minnesota,data1.txt
+Marshall County,Minnesota,data1.txt
+Martin County,Minnesota,data1.txt
+Meeker County,Minnesota,data1.txt
+Mille Lacs County,Minnesota,data1.txt
+Morrison County,Minnesota,data1.txt
+Mower County,Minnesota,data1.txt
+Murray County,Minnesota,data1.txt
+Nicollet County,Minnesota,data1.txt
+Nobles County,Minnesota,data1.txt
+Norman County,Minnesota,data1.txt
+Olmsted County,Minnesota,data1.txt
+Otter Tail County,Minnesota,data1.txt
+Pennington County,Minnesota,data1.txt
+Pine County,Minnesota,data1.txt
+Pipestone County,Minnesota,data1.txt
+Polk County,Minnesota,data1.txt
+Pope County,Minnesota,data1.txt
+Ramsey County,Minnesota,data1.txt
+Red Lake County,Minnesota,data1.txt
+Redwood County,Minnesota,data1.txt
+Renville County,Minnesota,data1.txt
+Rice County,Minnesota,data1.txt
+Rock County,Minnesota,data1.txt
+Roseau County,Minnesota,data1.txt
+St. Louis County,Minnesota,data1.txt
+Scott County,Minnesota,data1.txt
+Sherburne County,Minnesota,data1.txt
+Sibley County,Minnesota,data1.txt
+Stearns County,Minnesota,data1.txt
+Steele County,Minnesota,data1.txt
+Stevens County,Minnesota,data1.txt
+Swift County,Minnesota,data1.txt
+Todd County,Minnesota,data1.txt
+Traverse County,Minnesota,data1.txt
+Wabasha County,Minnesota,data1.txt
+Wadena County,Minnesota,data1.txt
+Waseca County,Minnesota,data1.txt
+Washington County,Minnesota,data1.txt
+Watonwan County,Minnesota,data1.txt
+Wilkin County,Minnesota,data1.txt
+Winona County,Minnesota,data1.txt
+Wright County,Minnesota,data1.txt
+Yellow Medicine County,Minnesota,data1.txt
+Adams County,Mississippi,data1.txt
+Alcorn County,Mississippi,data1.txt
+Amite County,Mississippi,data1.txt
+Attala County,Mississippi,data1.txt
+Benton County,Mississippi,data1.txt
+Bolivar County,Mississippi,data1.txt
+Calhoun County,Mississippi,data1.txt
+Carroll County,Mississippi,data1.txt
+Chickasaw County,Mississippi,data1.txt
+Choctaw County,Mississippi,data1.txt
+Claiborne County,Mississippi,data1.txt
+Clarke County,Mississippi,data1.txt
+Clay County,Mississippi,data1.txt
+Coahoma County,Mississippi,data1.txt
+Copiah County,Mississippi,data1.txt
+Covington County,Mississippi,data1.txt
+DeSoto County,Mississippi,data1.txt
+Forrest County,Mississippi,data1.txt
+Franklin County,Mississippi,data1.txt
+George County,Mississippi,data1.txt
+Greene County,Mississippi,data1.txt
+Grenada County,Mississippi,data1.txt
+Hancock County,Mississippi,data1.txt
+Harrison County,Mississippi,data1.txt
+Hinds County,Mississippi,data1.txt
+Holmes County,Mississippi,data1.txt
+Humphreys County,Mississippi,data1.txt
+Issaquena County,Mississippi,data1.txt
+Itawamba County,Mississippi,data1.txt
+Jackson County,Mississippi,data1.txt
+Jasper County,Mississippi,data1.txt
+Jefferson County,Mississippi,data1.txt
+Jefferson Davis County,Mississippi,data1.txt
+Jones County,Mississippi,data1.txt
+Kemper County,Mississippi,data1.txt
+Lafayette County,Mississippi,data1.txt
+Lamar County,Mississippi,data1.txt
+Lauderdale County,Mississippi,data1.txt
+Lawrence County,Mississippi,data1.txt
+Leake County,Mississippi,data1.txt
+Lee County,Mississippi,data1.txt
+Leflore County,Mississippi,data1.txt
+Lincoln County,Mississippi,data1.txt
+Lowndes County,Mississippi,data1.txt
+Madison County,Mississippi,data1.txt
+Marion County,Mississippi,data1.txt
+Marshall County,Mississippi,data1.txt
+Monroe County,Mississippi,data1.txt
+Montgomery County,Mississippi,data1.txt
+Neshoba County,Mississippi,data1.txt
+Newton County,Mississippi,data1.txt
+Noxubee County,Mississippi,data1.txt
+Oktibbeha County,Mississippi,data1.txt
+Panola County,Mississippi,data1.txt
+Pearl River County,Mississippi,data1.txt
+Perry County,Mississippi,data1.txt
+Pike County,Mississippi,data1.txt
+Pontotoc County,Mississippi,data1.txt
+Prentiss County,Mississippi,data1.txt
+Quitman County,Mississippi,data1.txt
+Rankin County,Mississippi,data1.txt
+Scott County,Mississippi,data1.txt
+Sharkey County,Mississippi,data1.txt
+Simpson County,Mississippi,data1.txt
+Smith County,Mississippi,data1.txt
+Stone County,Mississippi,data1.txt
+Sunflower County,Mississippi,data1.txt
+Tallahatchie County,Mississippi,data1.txt
+Tate County,Mississippi,data1.txt
+Tippah County,Mississippi,data1.txt
+Tishomingo County,Mississippi,data1.txt
+Tunica County,Mississippi,data1.txt
+Union County,Mississippi,data1.txt
+Walthall County,Mississippi,data1.txt
+Warren County,Mississippi,data1.txt
+Washington County,Mississippi,data1.txt
+Wayne County,Mississippi,data1.txt
+Webster County,Mississippi,data1.txt
+Wilkinson County,Mississippi,data1.txt
+Winston County,Mississippi,data1.txt
+Yalobusha County,Mississippi,data1.txt
+Yazoo County,Mississippi,data1.txt
+Adair County,Missouri,data1.txt
+Andrew County,Missouri,data1.txt
+Atchison County,Missouri,data1.txt
+Audrain County,Missouri,data1.txt
+Barry County,Missouri,data1.txt
+Barton County,Missouri,data1.txt
+Bates County,Missouri,data1.txt
+Benton County,Missouri,data1.txt
+Bollinger County,Missouri,data1.txt
+Boone County,Missouri,data1.txt
+Buchanan County,Missouri,data1.txt
+Butler County,Missouri,data1.txt
+Caldwell County,Missouri,data1.txt
+Callaway County,Missouri,data1.txt
+Camden County,Missouri,data1.txt
+Cape Girardeau County,Missouri,data1.txt
+Carroll County,Missouri,data1.txt
+Carter County,Missouri,data1.txt
+Cass County,Missouri,data1.txt
+Cedar County,Missouri,data1.txt
+Chariton County,Missouri,data1.txt
+Christian County,Missouri,data1.txt
+Clark County,Missouri,data1.txt
+Clay County,Missouri,data1.txt
+Clinton County,Missouri,data1.txt
+Cole County,Missouri,data1.txt
+Cooper County,Missouri,data1.txt
+Crawford County,Missouri,data1.txt
+Dade County,Missouri,data1.txt
+Dallas County,Missouri,data1.txt
+Daviess County,Missouri,data1.txt
+DeKalb County,Missouri,data1.txt
+Dent County,Missouri,data1.txt
+Douglas County,Missouri,data1.txt
+Dunklin County,Missouri,data1.txt
+Franklin County,Missouri,data1.txt
+Gasconade County,Missouri,data1.txt
+Gentry County,Missouri,data1.txt
+Greene County,Missouri,data1.txt
+Grundy County,Missouri,data1.txt
+Harrison County,Missouri,data1.txt
+Henry County,Missouri,data1.txt
+Hickory County,Missouri,data1.txt
+Holt County,Missouri,data1.txt
+Howard County,Missouri,data1.txt
+Howell County,Missouri,data1.txt
+Iron County,Missouri,data1.txt
+Jackson County,Missouri,data1.txt
+Jasper County,Missouri,data1.txt
+Jefferson County,Missouri,data1.txt
+Johnson County,Missouri,data1.txt
+Knox County,Missouri,data1.txt
+Laclede County,Missouri,data1.txt
+Lafayette County,Missouri,data1.txt
+Lawrence County,Missouri,data1.txt
+Lewis County,Missouri,data1.txt
+Lincoln County,Missouri,data1.txt
+Linn County,Missouri,data1.txt
+Livingston County,Missouri,data1.txt
+McDonald County,Missouri,data1.txt
+Macon County,Missouri,data1.txt
+Madison County,Missouri,data1.txt
+Maries County,Missouri,data1.txt
+Marion County,Missouri,data1.txt
+Mercer County,Missouri,data1.txt
+Miller County,Missouri,data1.txt
+Mississippi County,Missouri,data1.txt
+Moniteau County,Missouri,data1.txt
+Monroe County,Missouri,data1.txt
+Montgomery County,Missouri,data1.txt
+Morgan County,Missouri,data1.txt
+New Madrid County,Missouri,data1.txt
+Newton County,Missouri,data1.txt
+Nodaway County,Missouri,data1.txt
+Oregon County,Missouri,data1.txt
+Osage County,Missouri,data1.txt
+Ozark County,Missouri,data1.txt
+Pemiscot County,Missouri,data1.txt
+Perry County,Missouri,data1.txt
+Pettis County,Missouri,data1.txt
+Phelps County,Missouri,data1.txt
+Pike County,Missouri,data1.txt
+Platte County,Missouri,data1.txt
+Polk County,Missouri,data1.txt
+Pulaski County,Missouri,data1.txt
+Putnam County,Missouri,data1.txt
+Ralls County,Missouri,data1.txt
+Randolph County,Missouri,data1.txt
+Ray County,Missouri,data1.txt
+Reynolds County,Missouri,data1.txt
+Ripley County,Missouri,data1.txt
+St. Charles County,Missouri,data1.txt
+St. Clair County,Missouri,data1.txt
+Ste. Genevieve County,Missouri,data1.txt
+St. Francois County,Missouri,data1.txt
+St. Louis County,Missouri,data1.txt
+Saline County,Missouri,data1.txt
+Schuyler County,Missouri,data1.txt
+Scotland County,Missouri,data1.txt
+Scott County,Missouri,data1.txt
+Shannon County,Missouri,data1.txt
+Shelby County,Missouri,data1.txt
+Stoddard County,Missouri,data1.txt
+Stone County,Missouri,data1.txt
+Sullivan County,Missouri,data1.txt
+Taney County,Missouri,data1.txt
+Texas County,Missouri,data1.txt
+Vernon County,Missouri,data1.txt
+Warren County,Missouri,data1.txt
+Washington County,Missouri,data1.txt
+Wayne County,Missouri,data1.txt
+Webster County,Missouri,data1.txt
+Worth County,Missouri,data1.txt
+Wright County,Missouri,data1.txt
+St. Louis, City of,Missouri,data1.txt
+Beaverhead County,Montana,data1.txt
+Big Horn County,Montana,data1.txt
+Blaine County,Montana,data1.txt
+Broadwater County,Montana,data1.txt
+Carbon County,Montana,data1.txt
+Carter County,Montana,data1.txt
+Cascade County,Montana,data1.txt
+Chouteau County,Montana,data1.txt
+Custer County,Montana,data1.txt
+Daniels County,Montana,data1.txt
+Dawson County,Montana,data1.txt
+Deer Lodge County,Montana,data1.txt
+Fallon County,Montana,data1.txt
+Fergus County,Montana,data1.txt
+Flathead County,Montana,data1.txt
+Gallatin County,Montana,data1.txt
+Garfield County,Montana,data1.txt
+Glacier County,Montana,data1.txt
+Golden Valley County,Montana,data1.txt
+Granite County,Montana,data1.txt
+Hill County,Montana,data1.txt
+Jefferson County,Montana,data1.txt
+Judith Basin County,Montana,data1.txt
+Lake County,Montana,data1.txt
+Lewis and Clark County,Montana,data1.txt
+Liberty County,Montana,data1.txt
+Lincoln County,Montana,data1.txt
+McCone County,Montana,data1.txt
+Madison County,Montana,data1.txt
+Meagher County,Montana,data1.txt
+Mineral County,Montana,data1.txt
+Missoula County,Montana,data1.txt
+Musselshell County,Montana,data1.txt
+Park County,Montana,data1.txt
+Petroleum County,Montana,data1.txt
+Phillips County,Montana,data1.txt
+Pondera County,Montana,data1.txt
+Powder River County,Montana,data1.txt
+Powell County,Montana,data1.txt
+Prairie County,Montana,data1.txt
+Ravalli County,Montana,data1.txt
+Richland County,Montana,data1.txt
+Roosevelt County,Montana,data1.txt
+Rosebud County,Montana,data1.txt
+Sanders County,Montana,data1.txt
+Sheridan County,Montana,data1.txt
+Silver Bow County,Montana,data1.txt
+Stillwater County,Montana,data1.txt
+Sweet Grass County,Montana,data1.txt
+Teton County,Montana,data1.txt
+Toole County,Montana,data1.txt
+Treasure County,Montana,data1.txt
+Valley County,Montana,data1.txt
+Wheatland County,Montana,data1.txt
+Wibaux County,Montana,data1.txt
+Yellowstone County,Montana,data1.txt
+Adams County,Nebraska,data1.txt
+Antelope County,Nebraska,data1.txt
+Arthur County,Nebraska,data1.txt
+Banner County,Nebraska,data1.txt
+Blaine County,Nebraska,data1.txt
+Boone County,Nebraska,data1.txt
+Box Butte County,Nebraska,data1.txt
+Boyd County,Nebraska,data1.txt
+Brown County,Nebraska,data1.txt
+Buffalo County,Nebraska,data1.txt
+Burt County,Nebraska,data1.txt
+Butler County,Nebraska,data1.txt
+Cass County,Nebraska,data1.txt
+Cedar County,Nebraska,data1.txt
+Chase County,Nebraska,data1.txt
+Cherry County,Nebraska,data1.txt
+Cheyenne County,Nebraska,data1.txt
+Clay County,Nebraska,data1.txt
+Colfax County,Nebraska,data1.txt
+Cuming County,Nebraska,data1.txt
+Custer County,Nebraska,data1.txt
+Dakota County,Nebraska,data1.txt
+Dawes County,Nebraska,data1.txt
+Dawson County,Nebraska,data1.txt
+Deuel County,Nebraska,data1.txt
+Dixon County,Nebraska,data1.txt
+Dodge County,Nebraska,data1.txt
+Douglas County,Nebraska,data1.txt
+Dundy County,Nebraska,data1.txt
+Fillmore County,Nebraska,data1.txt
+Franklin County,Nebraska,data1.txt
+Frontier County,Nebraska,data1.txt
+Furnas County,Nebraska,data1.txt
+Gage County,Nebraska,data1.txt
+Garden County,Nebraska,data1.txt
+Garfield County,Nebraska,data1.txt
+Gosper County,Nebraska,data1.txt
+Grant County,Nebraska,data1.txt
+Greeley County,Nebraska,data1.txt
+Hall County,Nebraska,data1.txt
+Hamilton County,Nebraska,data1.txt
+Harlan County,Nebraska,data1.txt
+Hayes County,Nebraska,data1.txt
+Hitchcock County,Nebraska,data1.txt
+Holt County,Nebraska,data1.txt
+Hooker County,Nebraska,data1.txt
+Howard County,Nebraska,data1.txt
+Jefferson County,Nebraska,data1.txt
+Johnson County,Nebraska,data1.txt
+Kearney County,Nebraska,data1.txt
+Keith County,Nebraska,data1.txt
+Keya Paha County,Nebraska,data1.txt
+Kimball County,Nebraska,data1.txt
+Knox County,Nebraska,data1.txt
+Lancaster County,Nebraska,data1.txt
+Lincoln County,Nebraska,data1.txt
+Logan County,Nebraska,data1.txt
+Loup County,Nebraska,data1.txt
+McPherson County,Nebraska,data1.txt
+Madison County,Nebraska,data1.txt
+Merrick County,Nebraska,data1.txt
+Morrill County,Nebraska,data1.txt
+Nance County,Nebraska,data1.txt
+Nemaha County,Nebraska,data1.txt
+Nuckolls County,Nebraska,data1.txt
+Otoe County,Nebraska,data1.txt
+Pawnee County,Nebraska,data1.txt
+Perkins County,Nebraska,data1.txt
+Phelps County,Nebraska,data1.txt
+Pierce County,Nebraska,data1.txt
+Platte County,Nebraska,data1.txt
+Polk County,Nebraska,data1.txt
+Red Willow County,Nebraska,data1.txt
+Richardson County,Nebraska,data1.txt
+Rock County,Nebraska,data1.txt
+Saline County,Nebraska,data1.txt
+Sarpy County,Nebraska,data1.txt
+Saunders County,Nebraska,data1.txt
+Scotts Bluff County,Nebraska,data1.txt
+Seward County,Nebraska,data1.txt
+Sheridan County,Nebraska,data1.txt
+Sherman County,Nebraska,data1.txt
+Sioux County,Nebraska,data1.txt
+Stanton County,Nebraska,data1.txt
+Thayer County,Nebraska,data1.txt
+Thomas County,Nebraska,data1.txt
+Thurston County,Nebraska,data1.txt
+Valley County,Nebraska,data1.txt
+Washington County,Nebraska,data1.txt
+Wayne County,Nebraska,data1.txt
+Webster County,Nebraska,data1.txt
+Wheeler County,Nebraska,data1.txt
+York County,Nebraska,data1.txt
+Churchill County,Nevada,data1.txt
+Clark County,Nevada,data1.txt
+Douglas County,Nevada,data1.txt
+Elko County,Nevada,data1.txt
+Esmeralda County,Nevada,data1.txt
+Eureka County,Nevada,data1.txt
+Humboldt County,Nevada,data1.txt
+Lander County,Nevada,data1.txt
+Lincoln County,Nevada,data1.txt
+Lyon County,Nevada,data1.txt
+Mineral County,Nevada,data1.txt
+Nye County,Nevada,data1.txt
+Pershing County,Nevada,data1.txt
+Storey County,Nevada,data1.txt
+Washoe County,Nevada,data1.txt
+White Pine County,Nevada,data1.txt
+Carson City, Consolidated Municipality of,Nevada,data1.txt
+Belknap County,New Hampshire,data1.txt
+Carroll County,New Hampshire,data1.txt
+Cheshire County,New Hampshire,data1.txt
+Coos County,New Hampshire,data1.txt
+Grafton County,New Hampshire,data1.txt
+Hillsborough County,New Hampshire,data1.txt
+Merrimack County,New Hampshire,data1.txt
+Rockingham County,New Hampshire,data1.txt
+Strafford County,New Hampshire,data1.txt
+Sullivan County,New Hampshire,data1.txt
+Atlantic County,New Jersey,data1.txt
+Bergen County,New Jersey,data1.txt
+Burlington County,New Jersey,data1.txt
+Camden County,New Jersey,data1.txt
+Cape May County,New Jersey,data1.txt
+Cumberland County,New Jersey,data1.txt
+Essex County,New Jersey,data1.txt
+Gloucester County,New Jersey,data1.txt
+Hudson County,New Jersey,data1.txt
+Hunterdon County,New Jersey,data1.txt
+Mercer County,New Jersey,data1.txt
+Middlesex County,New Jersey,data1.txt
+Monmouth County,New Jersey,data1.txt
+Morris County,New Jersey,data1.txt
+Ocean County,New Jersey,data1.txt
+Passaic County,New Jersey,data1.txt
+Salem County,New Jersey,data1.txt
+Somerset County,New Jersey,data1.txt
+Sussex County,New Jersey,data1.txt
+Union County,New Jersey,data1.txt
+Warren County,New Jersey,data1.txt
+Bernalillo County,New Mexico,data1.txt
+Catron County,New Mexico,data1.txt
+Chaves County,New Mexico,data1.txt
+Cibola County,New Mexico,data1.txt
+Colfax County,New Mexico,data1.txt
+Curry County,New Mexico,data1.txt
+De Baca County,New Mexico,data1.txt
+Do�a Ana County,New Mexico,data1.txt
+Eddy County,New Mexico,data1.txt
+Grant County,New Mexico,data1.txt
+Guadalupe County,New Mexico,data1.txt
+Harding County,New Mexico,data1.txt
+Hidalgo County,New Mexico,data1.txt
+Lea County,New Mexico,data1.txt
+Lincoln County,New Mexico,data1.txt
+Los Alamos County,New Mexico,data1.txt
+Luna County,New Mexico,data1.txt
+McKinley County,New Mexico,data1.txt
+Mora County,New Mexico,data1.txt
+Otero County,New Mexico,data1.txt
+Quay County,New Mexico,data1.txt
+Rio Arriba County,New Mexico,data1.txt
+Roosevelt County,New Mexico,data1.txt
+Sandoval County,New Mexico,data1.txt
+San Juan County,New Mexico,data1.txt
+San Miguel County,New Mexico,data1.txt
+Santa Fe County,New Mexico,data1.txt
+Sierra County,New Mexico,data1.txt
+Socorro County,New Mexico,data1.txt
+Taos County,New Mexico,data1.txt
+Torrance County,New Mexico,data1.txt
+Union County,New Mexico,data1.txt
+Valencia County,New Mexico,data1.txt
+Albany County,New York,data1.txt
+Allegany County,New York,data1.txt
+Bronx County,New York,data1.txt
+Broome County,New York,data1.txt
+Cattaraugus County,New York,data1.txt
+Cayuga County,New York,data1.txt
+Chautauqua County,New York,data1.txt
+Chemung County,New York,data1.txt
+Chenango County,New York,data1.txt
+Clinton County,New York,data1.txt
+Columbia County,New York,data1.txt
+Cortland County,New York,data1.txt
+Delaware County,New York,data1.txt
+Dutchess County,New York,data1.txt
+Erie County,New York,data1.txt
+Essex County,New York,data1.txt
+Franklin County,New York,data1.txt
+Fulton County,New York,data1.txt
+Genesee County,New York,data1.txt
+Greene County,New York,data1.txt
+Hamilton County,New York,data1.txt
+Herkimer County,New York,data1.txt
+Jefferson County,New York,data1.txt
+Kings County,New York,data1.txt
+Lewis County,New York,data1.txt
+Livingston County,New York,data1.txt
+Madison County,New York,data1.txt
+Monroe County,New York,data1.txt
+Montgomery County,New York,data1.txt
+Nassau County,New York,data1.txt
+New York County,New York,data1.txt
+Niagara County,New York,data1.txt
+Oneida County,New York,data1.txt
+Onondaga County,New York,data1.txt
+Ontario County,New York,data1.txt
+Orange County,New York,data1.txt
+Orleans County,New York,data1.txt
+Oswego County,New York,data1.txt
+Otsego County,New York,data1.txt
+Putnam County,New York,data1.txt
+Queens County,New York,data1.txt
+Rensselaer County,New York,data1.txt
+Richmond County,New York,data1.txt
+Rockland County,New York,data1.txt
+St. Lawrence County,New York,data1.txt
+Saratoga County,New York,data1.txt
+Schenectady County,New York,data1.txt
+Schoharie County,New York,data1.txt
+Schuyler County,New York,data1.txt
+Seneca County,New York,data1.txt
+Steuben County,New York,data1.txt
+Suffolk County,New York,data1.txt
+Sullivan County,New York,data1.txt
+Tioga County,New York,data1.txt
+Tompkins County,New York,data1.txt
+Ulster County,New York,data1.txt
+Warren County,New York,data1.txt
+Washington County,New York,data1.txt
+Wayne County,New York,data1.txt
+Westchester County,New York,data1.txt
+Wyoming County,New York,data1.txt
+Yates County,New York,data1.txt
+Alamance County,North Carolina,data1.txt
+Alexander County,North Carolina,data1.txt
+Alleghany County,North Carolina,data1.txt
+Anson County,North Carolina,data1.txt
+Ashe County,North Carolina,data1.txt
+Avery County,North Carolina,data1.txt
+Beaufort County,North Carolina,data1.txt
+Bertie County,North Carolina,data1.txt
+Bladen County,North Carolina,data1.txt
+Brunswick County,North Carolina,data1.txt
+Buncombe County,North Carolina,data1.txt
+Burke County,North Carolina,data1.txt
+Cabarrus County,North Carolina,data1.txt
+Caldwell County,North Carolina,data1.txt
+Camden County,North Carolina,data1.txt
+Carteret County,North Carolina,data1.txt
+Caswell County,North Carolina,data1.txt
+Catawba County,North Carolina,data1.txt
+Chatham County,North Carolina,data1.txt
+Cherokee County,North Carolina,data1.txt
+Chowan County,North Carolina,data1.txt
+Clay County,North Carolina,data1.txt
+Cleveland County,North Carolina,data1.txt
+Columbus County,North Carolina,data1.txt
+Craven County,North Carolina,data1.txt
+Cumberland County,North Carolina,data1.txt
+Currituck County,North Carolina,data1.txt
+Dare County,North Carolina,data1.txt
+Davidson County,North Carolina,data1.txt
+Davie County,North Carolina,data1.txt
+Duplin County,North Carolina,data1.txt
+Durham County,North Carolina,data1.txt
+Edgecombe County,North Carolina,data1.txt
+Forsyth County,North Carolina,data1.txt
+Franklin County,North Carolina,data1.txt
+Gaston County,North Carolina,data1.txt
+Gates County,North Carolina,data1.txt
+Graham County,North Carolina,data1.txt
+Granville County,North Carolina,data1.txt
+Greene County,North Carolina,data1.txt
+Guilford County,North Carolina,data1.txt
+Halifax County,North Carolina,data1.txt
+Harnett County,North Carolina,data1.txt
+Haywood County,North Carolina,data1.txt
+Henderson County,North Carolina,data1.txt
+Hertford County,North Carolina,data1.txt
+Hoke County,North Carolina,data1.txt
+Hyde County,North Carolina,data1.txt
+Iredell County,North Carolina,data1.txt
+Jackson County,North Carolina,data1.txt
+Johnston County,North Carolina,data1.txt
+Jones County,North Carolina,data1.txt
+Lee County,North Carolina,data1.txt
+Lenoir County,North Carolina,data1.txt
+Lincoln County,North Carolina,data1.txt
+McDowell County,North Carolina,data1.txt
+Macon County,North Carolina,data1.txt
+Madison County,North Carolina,data1.txt
+Martin County,North Carolina,data1.txt
+Mecklenburg County,North Carolina,data1.txt
+Mitchell County,North Carolina,data1.txt
+Montgomery County,North Carolina,data1.txt
+Moore County,North Carolina,data1.txt
+Nash County,North Carolina,data1.txt
+New Hanover County,North Carolina,data1.txt
+Northampton County,North Carolina,data1.txt
+Onslow County,North Carolina,data1.txt
+Orange County,North Carolina,data1.txt
+Pamlico County,North Carolina,data1.txt
+Pasquotank County,North Carolina,data1.txt
+Pender County,North Carolina,data1.txt
+Perquimans County,North Carolina,data1.txt
+Person County,North Carolina,data1.txt
+Pitt County,North Carolina,data1.txt
+Polk County,North Carolina,data1.txt
+Randolph County,North Carolina,data1.txt
+Richmond County,North Carolina,data1.txt
+Robeson County,North Carolina,data1.txt
+Rockingham County,North Carolina,data1.txt
+Rowan County,North Carolina,data1.txt
+Rutherford County,North Carolina,data1.txt
+Sampson County,North Carolina,data1.txt
+Scotland County,North Carolina,data1.txt
+Stanly County,North Carolina,data1.txt
+Stokes County,North Carolina,data1.txt
+Surry County,North Carolina,data1.txt
+Swain County,North Carolina,data1.txt
+Transylvania County,North Carolina,data1.txt
+Tyrrell County,North Carolina,data1.txt
+Union County,North Carolina,data1.txt
+Vance County,North Carolina,data1.txt
+Wake County,North Carolina,data1.txt
+Warren County,North Carolina,data1.txt
+Washington County,North Carolina,data1.txt
+Watauga County,North Carolina,data1.txt
+Wayne County,North Carolina,data1.txt
+Wilkes County,North Carolina,data1.txt
+Wilson County,North Carolina,data1.txt
+Yadkin County,North Carolina,data1.txt
+Yancey County,North Carolina,data1.txt
+Adams County,North Dakota,data1.txt
+Barnes County,North Dakota,data1.txt
+Benson County,North Dakota,data1.txt
+Billings County,North Dakota,data1.txt
+Bottineau County,North Dakota,data1.txt
+Bowman County,North Dakota,data1.txt
+Burke County,North Dakota,data1.txt
+Burleigh County,North Dakota,data1.txt
+Cass County,North Dakota,data1.txt
+Cavalier County,North Dakota,data1.txt
+Dickey County,North Dakota,data1.txt
+Divide County,North Dakota,data1.txt
+Dunn County,North Dakota,data1.txt
+Eddy County,North Dakota,data1.txt
+Emmons County,North Dakota,data1.txt
+Foster County,North Dakota,data1.txt
+Golden Valley County,North Dakota,data1.txt
+Grand Forks County,North Dakota,data1.txt
+Grant County,North Dakota,data1.txt
+Griggs County,North Dakota,data1.txt
+Hettinger County,North Dakota,data1.txt
+Kidder County,North Dakota,data1.txt
+LaMoure County,North Dakota,data1.txt
+Logan County,North Dakota,data1.txt
+McHenry County,North Dakota,data1.txt
+McIntosh County,North Dakota,data1.txt
+McKenzie County,North Dakota,data1.txt
+McLean County,North Dakota,data1.txt
+Mercer County,North Dakota,data1.txt
+Morton County,North Dakota,data1.txt
+Mountrail County,North Dakota,data1.txt
+Nelson County,North Dakota,data1.txt
+Oliver County,North Dakota,data1.txt
+Pembina County,North Dakota,data1.txt
+Pierce County,North Dakota,data1.txt
+Ramsey County,North Dakota,data1.txt
+Ransom County,North Dakota,data1.txt
+Renville County,North Dakota,data1.txt
+Richland County,North Dakota,data1.txt
+Rolette County,North Dakota,data1.txt
+Sargent County,North Dakota,data1.txt
+Sheridan County,North Dakota,data1.txt
+Sioux County,North Dakota,data1.txt
+Slope County,North Dakota,data1.txt
+Stark County,North Dakota,data1.txt
+Steele County,North Dakota,data1.txt
+Stutsman County,North Dakota,data1.txt
+Towner County,North Dakota,data1.txt
+Traill County,North Dakota,data1.txt
+Walsh County,North Dakota,data1.txt
+Ward County,North Dakota,data1.txt
+Wells County,North Dakota,data1.txt
+Williams County,North Dakota,data1.txt
+Adams County,Ohio,data1.txt
+Allen County,Ohio,data1.txt
+Ashland County,Ohio,data1.txt
+Ashtabula County,Ohio,data1.txt
+Athens County,Ohio,data1.txt
+Auglaize County,Ohio,data1.txt
+Belmont County,Ohio,data1.txt
+Brown County,Ohio,data1.txt
+Butler County,Ohio,data1.txt
+Carroll County,Ohio,data1.txt
+Champaign County,Ohio,data1.txt
+Clark County,Ohio,data1.txt
+Clermont County,Ohio,data1.txt
+Clinton County,Ohio,data1.txt
+Columbiana County,Ohio,data1.txt
+Coshocton County,Ohio,data1.txt
+Crawford County,Ohio,data1.txt
+Cuyahoga County,Ohio,data1.txt
+Darke County,Ohio,data1.txt
+Defiance County,Ohio,data1.txt
+Delaware County,Ohio,data1.txt
+Erie County,Ohio,data1.txt
+Fairfield County,Ohio,data1.txt
+Fayette County,Ohio,data1.txt
+Franklin County,Ohio,data1.txt
+Fulton County,Ohio,data1.txt
+Gallia County,Ohio,data1.txt
+Geauga County,Ohio,data1.txt
+Greene County,Ohio,data1.txt
+Guernsey County,Ohio,data1.txt
+Hamilton County,Ohio,data1.txt
+Hancock County,Ohio,data1.txt
+Hardin County,Ohio,data1.txt
+Harrison County,Ohio,data1.txt
+Henry County,Ohio,data1.txt
+Highland County,Ohio,data1.txt
+Hocking County,Ohio,data1.txt
+Holmes County,Ohio,data1.txt
+Huron County,Ohio,data1.txt
+Jackson County,Ohio,data1.txt
+Jefferson County,Ohio,data1.txt
+Knox County,Ohio,data1.txt
+Lake County,Ohio,data1.txt
+Lawrence County,Ohio,data1.txt
+Licking County,Ohio,data1.txt
+Logan County,Ohio,data1.txt
+Lorain County,Ohio,data1.txt
+Lucas County,Ohio,data1.txt
+Madison County,Ohio,data1.txt
+Mahoning County,Ohio,data1.txt
+Marion County,Ohio,data1.txt
+Medina County,Ohio,data1.txt
+Meigs County,Ohio,data1.txt
+Mercer County,Ohio,data1.txt
+Miami County,Ohio,data1.txt
+Monroe County,Ohio,data1.txt
+Montgomery County,Ohio,data1.txt
+Morgan County,Ohio,data1.txt
+Morrow County,Ohio,data1.txt
+Muskingum County,Ohio,data1.txt
+Noble County,Ohio,data1.txt
+Ottawa County,Ohio,data1.txt
+Paulding County,Ohio,data1.txt
+Perry County,Ohio,data1.txt
+Pickaway County,Ohio,data1.txt
+Pike County,Ohio,data1.txt
+Portage County,Ohio,data1.txt
+Preble County,Ohio,data1.txt
+Putnam County,Ohio,data1.txt
+Richland County,Ohio,data1.txt
+Ross County,Ohio,data1.txt
+Sandusky County,Ohio,data1.txt
+Scioto County,Ohio,data1.txt
+Seneca County,Ohio,data1.txt
+Shelby County,Ohio,data1.txt
+Stark County,Ohio,data1.txt
+Summit County,Ohio,data1.txt
+Trumbull County,Ohio,data1.txt
+Tuscarawas County,Ohio,data1.txt
+Union County,Ohio,data1.txt
+Van Wert County,Ohio,data1.txt
+Vinton County,Ohio,data1.txt
+Warren County,Ohio,data1.txt
+Washington County,Ohio,data1.txt
+Wayne County,Ohio,data1.txt
+Williams County,Ohio,data1.txt
+Wood County,Ohio,data1.txt
+Wyandot County,Ohio,data1.txt
+Adair County,Oklahoma,data1.txt
+Alfalfa County,Oklahoma,data1.txt
+Atoka County,Oklahoma,data1.txt
+Beaver County,Oklahoma,data1.txt
+Beckham County,Oklahoma,data1.txt
+Blaine County,Oklahoma,data1.txt
+Bryan County,Oklahoma,data1.txt
+Caddo County,Oklahoma,data1.txt
+Canadian County,Oklahoma,data1.txt
+Carter County,Oklahoma,data1.txt
+Cherokee County,Oklahoma,data1.txt
+Choctaw County,Oklahoma,data1.txt
+Cimarron County,Oklahoma,data1.txt
+Cleveland County,Oklahoma,data1.txt
+Coal County,Oklahoma,data1.txt
+Comanche County,Oklahoma,data1.txt
+Cotton County,Oklahoma,data1.txt
+Craig County,Oklahoma,data1.txt
+Creek County,Oklahoma,data1.txt
+Custer County,Oklahoma,data1.txt
+Delaware County,Oklahoma,data1.txt
+Dewey County,Oklahoma,data1.txt
+Ellis County,Oklahoma,data1.txt
+Garfield County,Oklahoma,data1.txt
+Garvin County,Oklahoma,data1.txt
+Grady County,Oklahoma,data1.txt
+Grant County,Oklahoma,data1.txt
+Greer County,Oklahoma,data1.txt
+Harmon County,Oklahoma,data1.txt
+Harper County,Oklahoma,data1.txt
+Haskell County,Oklahoma,data1.txt
+Hughes County,Oklahoma,data1.txt
+Jackson County,Oklahoma,data1.txt
+Jefferson County,Oklahoma,data1.txt
+Johnston County,Oklahoma,data1.txt
+Kay County,Oklahoma,data1.txt
+Kingfisher County,Oklahoma,data1.txt
+Kiowa County,Oklahoma,data1.txt
+Latimer County,Oklahoma,data1.txt
+Le Flore County,Oklahoma,data1.txt
+Lincoln County,Oklahoma,data1.txt
+Logan County,Oklahoma,data1.txt
+Love County,Oklahoma,data1.txt
+McClain County,Oklahoma,data1.txt
+McCurtain County,Oklahoma,data1.txt
+McIntosh County,Oklahoma,data1.txt
+Major County,Oklahoma,data1.txt
+Marshall County,Oklahoma,data1.txt
+Mayes County,Oklahoma,data1.txt
+Murray County,Oklahoma,data1.txt
+Muskogee County,Oklahoma,data1.txt
+Noble County,Oklahoma,data1.txt
+Nowata County,Oklahoma,data1.txt
+Okfuskee County,Oklahoma,data1.txt
+Oklahoma County,Oklahoma,data1.txt
+Okmulgee County,Oklahoma,data1.txt
+Osage County,Oklahoma,data1.txt
+Ottawa County,Oklahoma,data1.txt
+Pawnee County,Oklahoma,data1.txt
+Payne County,Oklahoma,data1.txt
+Pittsburg County,Oklahoma,data1.txt
+Pontotoc County,Oklahoma,data1.txt
+Pottawatomie County,Oklahoma,data1.txt
+Pushmataha County,Oklahoma,data1.txt
+Roger Mills County,Oklahoma,data1.txt
+Rogers County,Oklahoma,data1.txt
+Seminole County,Oklahoma,data1.txt
+Sequoyah County,Oklahoma,data1.txt
+Stephens County,Oklahoma,data1.txt
+Texas County,Oklahoma,data1.txt
+Tillman County,Oklahoma,data1.txt
+Tulsa County,Oklahoma,data1.txt
+Wagoner County,Oklahoma,data1.txt
+Washington County,Oklahoma,data1.txt
+Washita County,Oklahoma,data1.txt
+Woods County,Oklahoma,data1.txt
+Woodward County,Oklahoma,data1.txt
+Baker County,Oregon,data1.txt
+Benton County,Oregon,data1.txt
+Clackamas County,Oregon,data1.txt
+Clatsop County,Oregon,data1.txt
+Columbia County,Oregon,data1.txt
+Coos County,Oregon,data1.txt
+Crook County,Oregon,data1.txt
+Curry County,Oregon,data1.txt
+Deschutes County,Oregon,data1.txt
+Douglas County,Oregon,data1.txt
+Gilliam County,Oregon,data1.txt
+Grant County,Oregon,data1.txt
+Harney County,Oregon,data1.txt
+Hood River County,Oregon,data1.txt
+Jackson County,Oregon,data1.txt
+Jefferson County,Oregon,data1.txt
+Josephine County,Oregon,data1.txt
+Klamath County,Oregon,data1.txt
+Lake County,Oregon,data1.txt
+Lane County,Oregon,data1.txt
+Lincoln County,Oregon,data1.txt
+Linn County,Oregon,data1.txt
+Malheur County,Oregon,data1.txt
+Marion County,Oregon,data1.txt
+Morrow County,Oregon,data1.txt
+Multnomah County,Oregon,data1.txt
+Polk County,Oregon,data1.txt
+Sherman County,Oregon,data1.txt
+Tillamook County,Oregon,data1.txt
+Umatilla County,Oregon,data1.txt
+Union County,Oregon,data1.txt
+Wallowa County,Oregon,data1.txt
+Wasco County,Oregon,data1.txt
+Washington County,Oregon,data1.txt
+Wheeler County,Oregon,data1.txt
+Yamhill County,Oregon,data1.txt
+Adams County,Pennsylvania,data1.txt
+Allegheny County,Pennsylvania,data1.txt
+Armstrong County,Pennsylvania,data1.txt
+Beaver County,Pennsylvania,data1.txt
+Bedford County,Pennsylvania,data1.txt
+Berks County,Pennsylvania,data1.txt
+Blair County,Pennsylvania,data1.txt
+Bradford County,Pennsylvania,data1.txt
+Bucks County,Pennsylvania,data1.txt
+Butler County,Pennsylvania,data1.txt
+Cambria County,Pennsylvania,data1.txt
+Cameron County,Pennsylvania,data1.txt
+Carbon County,Pennsylvania,data1.txt
+Centre County,Pennsylvania,data1.txt
+Chester County,Pennsylvania,data1.txt
+Clarion County,Pennsylvania,data1.txt
+Clearfield County,Pennsylvania,data1.txt
+Clinton County,Pennsylvania,data1.txt
+Columbia County,Pennsylvania,data1.txt
+Crawford County,Pennsylvania,data1.txt
+Cumberland County,Pennsylvania,data1.txt
+Dauphin County,Pennsylvania,data1.txt
+Delaware County,Pennsylvania,data1.txt
+Elk County,Pennsylvania,data1.txt
+Erie County,Pennsylvania,data1.txt
+Fayette County,Pennsylvania,data1.txt
+Forest County,Pennsylvania,data1.txt
+Franklin County,Pennsylvania,data1.txt
+Fulton County,Pennsylvania,data1.txt
+Greene County,Pennsylvania,data1.txt
+Huntingdon County,Pennsylvania,data1.txt
+Indiana County,Pennsylvania,data1.txt
+Jefferson County,Pennsylvania,data1.txt
+Juniata County,Pennsylvania,data1.txt
+Lackawanna County,Pennsylvania,data1.txt
+Lancaster County,Pennsylvania,data1.txt
+Lawrence County,Pennsylvania,data1.txt
+Lebanon County,Pennsylvania,data1.txt
+Lehigh County,Pennsylvania,data1.txt
+Luzerne County,Pennsylvania,data1.txt
+Lycoming County,Pennsylvania,data1.txt
+McKean County,Pennsylvania,data1.txt
+Mercer County,Pennsylvania,data1.txt
+Mifflin County,Pennsylvania,data1.txt
+Monroe County,Pennsylvania,data1.txt
+Montgomery County,Pennsylvania,data1.txt
+Montour County,Pennsylvania,data1.txt
+Northampton County,Pennsylvania,data1.txt
+Northumberland County,Pennsylvania,data1.txt
+Perry County,Pennsylvania,data1.txt
+Philadelphia County,Pennsylvania,data1.txt
+Pike County,Pennsylvania,data1.txt
+Potter County,Pennsylvania,data1.txt
+Schuylkill County,Pennsylvania,data1.txt
+Snyder County,Pennsylvania,data1.txt
+Somerset County,Pennsylvania,data1.txt
+Sullivan County,Pennsylvania,data1.txt
+Susquehanna County,Pennsylvania,data1.txt
+Tioga County,Pennsylvania,data1.txt
+Union County,Pennsylvania,data1.txt
+Venango County,Pennsylvania,data1.txt
+Warren County,Pennsylvania,data1.txt
+Washington County,Pennsylvania,data1.txt
+Wayne County,Pennsylvania,data1.txt
+Westmoreland County,Pennsylvania,data1.txt
+Wyoming County,Pennsylvania,data1.txt
+York County,Pennsylvania,data1.txt
+Bristol County,Rhode Island,data1.txt
+Kent County,Rhode Island,data1.txt
+Newport County,Rhode Island,data1.txt
+Providence County,Rhode Island,data1.txt
+Washington County,Rhode Island,data1.txt
+Abbeville County,South Carolina,data1.txt
+Aiken County,South Carolina,data1.txt
+Allendale County,South Carolina,data1.txt
+Anderson County,South Carolina,data1.txt
+Bamberg County,South Carolina,data1.txt
+Barnwell County,South Carolina,data1.txt
+Beaufort County,South Carolina,data1.txt
+Berkeley County,South Carolina,data1.txt
+Calhoun County,South Carolina,data1.txt
+Charleston County,South Carolina,data1.txt
+Cherokee County,South Carolina,data1.txt
+Chester County,South Carolina,data1.txt
+Chesterfield County,South Carolina,data1.txt
+Clarendon County,South Carolina,data1.txt
+Colleton County,South Carolina,data1.txt
+Darlington County,South Carolina,data1.txt
+Dillon County,South Carolina,data1.txt
+Dorchester County,South Carolina,data1.txt
+Edgefield County,South Carolina,data1.txt
+Fairfield County,South Carolina,data1.txt
+Florence County,South Carolina,data1.txt
+Georgetown County,South Carolina,data1.txt
+Greenville County,South Carolina,data1.txt
+Greenwood County,South Carolina,data1.txt
+Hampton County,South Carolina,data1.txt
+Horry County,South Carolina,data1.txt
+Jasper County,South Carolina,data1.txt
+Kershaw County,South Carolina,data1.txt
+Lancaster County,South Carolina,data1.txt
+Laurens County,South Carolina,data1.txt
+Lee County,South Carolina,data1.txt
+Lexington County,South Carolina,data1.txt
+McCormick County,South Carolina,data1.txt
+Marion County,South Carolina,data1.txt
+Marlboro County,South Carolina,data1.txt
+Newberry County,South Carolina,data1.txt
+Oconee County,South Carolina,data1.txt
+Orangeburg County,South Carolina,data1.txt
+Pickens County,South Carolina,data1.txt
+Richland County,South Carolina,data1.txt
+Saluda County,South Carolina,data1.txt
+Spartanburg County,South Carolina,data1.txt
+Sumter County,South Carolina,data1.txt
+Union County,South Carolina,data1.txt
+Williamsburg County,South Carolina,data1.txt
+York County,South Carolina,data1.txt
+Aurora County,South Dakota,data1.txt
+Beadle County,South Dakota,data1.txt
+Bennett County,South Dakota,data1.txt
+Bon Homme County,South Dakota,data1.txt
+Brookings County,South Dakota,data1.txt
+Brown County,South Dakota,data1.txt
+Brule County,South Dakota,data1.txt
+Buffalo County,South Dakota,data1.txt
+Butte County,South Dakota,data1.txt
+Campbell County,South Dakota,data1.txt
+Charles Mix County,South Dakota,data1.txt
+Clark County,South Dakota,data1.txt
+Clay County,South Dakota,data1.txt
+Codington County,South Dakota,data1.txt
+Corson County,South Dakota,data1.txt
+Custer County,South Dakota,data1.txt
+Davison County,South Dakota,data1.txt
+Day County,South Dakota,data1.txt
+Deuel County,South Dakota,data1.txt
+Dewey County,South Dakota,data1.txt
+Douglas County,South Dakota,data1.txt
+Edmunds County,South Dakota,data1.txt
+Fall River County,South Dakota,data1.txt
+Faulk County,South Dakota,data1.txt
+Grant County,South Dakota,data1.txt
+Gregory County,South Dakota,data1.txt
+Haakon County,South Dakota,data1.txt
+Hamlin County,South Dakota,data1.txt
+Hand County,South Dakota,data1.txt
+Hanson County,South Dakota,data1.txt
+Harding County,South Dakota,data1.txt
+Hughes County,South Dakota,data1.txt
+Hutchinson County,South Dakota,data1.txt
+Hyde County,South Dakota,data1.txt
+Jackson County,South Dakota,data1.txt
+Jerauld County,South Dakota,data1.txt
+Jones County,South Dakota,data1.txt
+Kingsbury County,South Dakota,data1.txt
+Lake County,South Dakota,data1.txt
+Lawrence County,South Dakota,data1.txt
+Lincoln County,South Dakota,data1.txt
+Lyman County,South Dakota,data1.txt
+McCook County,South Dakota,data1.txt
+McPherson County,South Dakota,data1.txt
+Marshall County,South Dakota,data1.txt
+Meade County,South Dakota,data1.txt
+Mellette County,South Dakota,data1.txt
+Miner County,South Dakota,data1.txt
+Minnehaha County,South Dakota,data1.txt
+Moody County,South Dakota,data1.txt
+Pennington County,South Dakota,data1.txt
+Perkins County,South Dakota,data1.txt
+Potter County,South Dakota,data1.txt
+Roberts County,South Dakota,data1.txt
+Sanborn County,South Dakota,data1.txt
+Shannon County,South Dakota,data1.txt
+Spink County,South Dakota,data1.txt
+Stanley County,South Dakota,data1.txt
+Sully County,South Dakota,data1.txt
+Todd County,South Dakota,data1.txt
+Tripp County,South Dakota,data1.txt
+Turner County,South Dakota,data1.txt
+Union County,South Dakota,data1.txt
+Walworth County,South Dakota,data1.txt
+Yankton County,South Dakota,data1.txt
+Ziebach County,South Dakota,data1.txt
+Anderson County,Tennessee,data1.txt
+Bedford County,Tennessee,data1.txt
+Benton County,Tennessee,data1.txt
+Bledsoe County,Tennessee,data1.txt
+Blount County,Tennessee,data1.txt
+Bradley County,Tennessee,data1.txt
+Campbell County,Tennessee,data1.txt
+Cannon County,Tennessee,data1.txt
+Carroll County,Tennessee,data1.txt
+Carter County,Tennessee,data1.txt
+Cheatham County,Tennessee,data1.txt
+Chester County,Tennessee,data1.txt
+Claiborne County,Tennessee,data1.txt
+Clay County,Tennessee,data1.txt
+Cocke County,Tennessee,data1.txt
+Coffee County,Tennessee,data1.txt
+Crockett County,Tennessee,data1.txt
+Cumberland County,Tennessee,data1.txt
+Davidson County,Tennessee,data1.txt
+Decatur County,Tennessee,data1.txt
+DeKalb County,Tennessee,data1.txt
+Dickson County,Tennessee,data1.txt
+Dyer County,Tennessee,data1.txt
+Fayette County,Tennessee,data1.txt
+Fentress County,Tennessee,data1.txt
+Franklin County,Tennessee,data1.txt
+Gibson County,Tennessee,data1.txt
+Giles County,Tennessee,data1.txt
+Grainger County,Tennessee,data1.txt
+Greene County,Tennessee,data1.txt
+Grundy County,Tennessee,data1.txt
+Hamblen County,Tennessee,data1.txt
+Hamilton County,Tennessee,data1.txt
+Hancock County,Tennessee,data1.txt
+Hardeman County,Tennessee,data1.txt
+Hardin County,Tennessee,data1.txt
+Hawkins County,Tennessee,data1.txt
+Haywood County,Tennessee,data1.txt
+Henderson County,Tennessee,data1.txt
+Henry County,Tennessee,data1.txt
+Hickman County,Tennessee,data1.txt
+Houston County,Tennessee,data1.txt
+Humphreys County,Tennessee,data1.txt
+Jackson County,Tennessee,data1.txt
+Jefferson County,Tennessee,data1.txt
+Johnson County,Tennessee,data1.txt
+Knox County,Tennessee,data1.txt
+Lake County,Tennessee,data1.txt
+Lauderdale County,Tennessee,data1.txt
+Lawrence County,Tennessee,data1.txt
+Lewis County,Tennessee,data1.txt
+Lincoln County,Tennessee,data1.txt
+Loudon County,Tennessee,data1.txt
+McMinn County,Tennessee,data1.txt
+McNairy County,Tennessee,data1.txt
+Macon County,Tennessee,data1.txt
+Madison County,Tennessee,data1.txt
+Marion County,Tennessee,data1.txt
+Marshall County,Tennessee,data1.txt
+Maury County,Tennessee,data1.txt
+Meigs County,Tennessee,data1.txt
+Monroe County,Tennessee,data1.txt
+Montgomery County,Tennessee,data1.txt
+Moore County,Tennessee,data1.txt
+Morgan County,Tennessee,data1.txt
+Obion County,Tennessee,data1.txt
+Overton County,Tennessee,data1.txt
+Perry County,Tennessee,data1.txt
+Pickett County,Tennessee,data1.txt
+Polk County,Tennessee,data1.txt
+Putnam County,Tennessee,data1.txt
+Rhea County,Tennessee,data1.txt
+Roane County,Tennessee,data1.txt
+Robertson County,Tennessee,data1.txt
+Rutherford County,Tennessee,data1.txt
+Scott County,Tennessee,data1.txt
+Sequatchie County,Tennessee,data1.txt
+Sevier County,Tennessee,data1.txt
+Shelby County,Tennessee,data1.txt
+Smith County,Tennessee,data1.txt
+Stewart County,Tennessee,data1.txt
+Sullivan County,Tennessee,data1.txt
+Sumner County,Tennessee,data1.txt
+Tipton County,Tennessee,data1.txt
+Trousdale County,Tennessee,data1.txt
+Unicoi County,Tennessee,data1.txt
+Union County,Tennessee,data1.txt
+Van Buren County,Tennessee,data1.txt
+Warren County,Tennessee,data1.txt
+Washington County,Tennessee,data1.txt
+Wayne County,Tennessee,data1.txt
+Weakley County,Tennessee,data1.txt
+White County,Tennessee,data1.txt
+Williamson County,Tennessee,data1.txt
+Wilson County,Tennessee,data1.txt
+Anderson County,Texas,data1.txt
+Andrews County,Texas,data1.txt
+Angelina County,Texas,data1.txt
+Aransas County,Texas,data1.txt
+Archer County,Texas,data1.txt
+Armstrong County,Texas,data1.txt
+Atascosa County,Texas,data1.txt
+Austin County,Texas,data1.txt
+Bailey County,Texas,data1.txt
+Bandera County,Texas,data1.txt
+Bastrop County,Texas,data1.txt
+Baylor County,Texas,data1.txt
+Bee County,Texas,data1.txt
+Bell County,Texas,data1.txt
+Bexar County,Texas,data1.txt
+Blanco County,Texas,data1.txt
+Borden County,Texas,data1.txt
+Bosque County,Texas,data1.txt
+Bowie County,Texas,data1.txt
+Brazoria County,Texas,data1.txt
+Brazos County,Texas,data1.txt
+Brewster County,Texas,data1.txt
+Briscoe County,Texas,data1.txt
+Brooks County,Texas,data1.txt
+Brown County,Texas,data1.txt
+Burleson County,Texas,data1.txt
+Burnet County,Texas,data1.txt
+Caldwell County,Texas,data1.txt
+Calhoun County,Texas,data1.txt
+Callahan County,Texas,data1.txt
+Cameron County,Texas,data1.txt
+Camp County,Texas,data1.txt
+Carson County,Texas,data1.txt
+Cass County,Texas,data1.txt
+Castro County,Texas,data1.txt
+Chambers County,Texas,data1.txt
+Cherokee County,Texas,data1.txt
+Childress County,Texas,data1.txt
+Clay County,Texas,data1.txt
+Cochran County,Texas,data1.txt
+Coke County,Texas,data1.txt
+Coleman County,Texas,data1.txt
+Collin County,Texas,data1.txt
+Collingsworth County,Texas,data1.txt
+Colorado County,Texas,data1.txt
+Comal County,Texas,data1.txt
+Comanche County,Texas,data1.txt
+Concho County,Texas,data1.txt
+Cooke County,Texas,data1.txt
+Coryell County,Texas,data1.txt
+Cottle County,Texas,data1.txt
+Crane County,Texas,data1.txt
+Crockett County,Texas,data1.txt
+Crosby County,Texas,data1.txt
+Culberson County,Texas,data1.txt
+Dallam County,Texas,data1.txt
+Dallas County,Texas,data1.txt
+Dawson County,Texas,data1.txt
+Deaf Smith County,Texas,data1.txt
+Delta County,Texas,data1.txt
+Denton County,Texas,data1.txt
+DeWitt County,Texas,data1.txt
+Dickens County,Texas,data1.txt
+Dimmit County,Texas,data1.txt
+Donley County,Texas,data1.txt
+Duval County,Texas,data1.txt
+Eastland County,Texas,data1.txt
+Ector County,Texas,data1.txt
+Edwards County,Texas,data1.txt
+Ellis County,Texas,data1.txt
+El Paso County,Texas,data1.txt
+Erath County,Texas,data1.txt
+Falls County,Texas,data1.txt
+Fannin County,Texas,data1.txt
+Fayette County,Texas,data1.txt
+Fisher County,Texas,data1.txt
+Floyd County,Texas,data1.txt
+Foard County,Texas,data1.txt
+Fort Bend County,Texas,data1.txt
+Franklin County,Texas,data1.txt
+Freestone County,Texas,data1.txt
+Frio County,Texas,data1.txt
+Gaines County,Texas,data1.txt
+Galveston County,Texas,data1.txt
+Garza County,Texas,data1.txt
+Gillespie County,Texas,data1.txt
+Glasscock County,Texas,data1.txt
+Goliad County,Texas,data1.txt
+Gonzales County,Texas,data1.txt
+Gray County,Texas,data1.txt
+Grayson County,Texas,data1.txt
+Gregg County,Texas,data1.txt
+Grimes County,Texas,data1.txt
+Guadalupe County,Texas,data1.txt
+Hale County,Texas,data1.txt
+Hall County,Texas,data1.txt
+Hamilton County,Texas,data1.txt
+Hansford County,Texas,data1.txt
+Hardeman County,Texas,data1.txt
+Hardin County,Texas,data1.txt
+Harris County,Texas,data1.txt
+Harrison County,Texas,data1.txt
+Hartley County,Texas,data1.txt
+Haskell County,Texas,data1.txt
+Hays County,Texas,data1.txt
+Hemphill County,Texas,data1.txt
+Henderson County,Texas,data1.txt
+Hidalgo County,Texas,data1.txt
+Hill County,Texas,data1.txt
+Hockley County,Texas,data1.txt
+Hood County,Texas,data1.txt
+Hopkins County,Texas,data1.txt
+Houston County,Texas,data1.txt
+Howard County,Texas,data1.txt
+Hudspeth County,Texas,data1.txt
+Hunt County,Texas,data1.txt
+Hutchinson County,Texas,data1.txt
+Irion County,Texas,data1.txt
+Jack County,Texas,data1.txt
+Jackson County,Texas,data1.txt
+Jasper County,Texas,data1.txt
+Jeff Davis County,Texas,data1.txt
+Jefferson County,Texas,data1.txt
+Jim Hogg County,Texas,data1.txt
+Jim Wells County,Texas,data1.txt
+Johnson County,Texas,data1.txt
+Jones County,Texas,data1.txt
+Karnes County,Texas,data1.txt
+Kaufman County,Texas,data1.txt
+Kendall County,Texas,data1.txt
+Kenedy County,Texas,data1.txt
+Kent County,Texas,data1.txt
+Kerr County,Texas,data1.txt
+Kimble County,Texas,data1.txt
+King County,Texas,data1.txt
+Kinney County,Texas,data1.txt
+Kleberg County,Texas,data1.txt
+Knox County,Texas,data1.txt
+Lamar County,Texas,data1.txt
+Lamb County,Texas,data1.txt
+Lampasas County,Texas,data1.txt
+La Salle County,Texas,data1.txt
+Lavaca County,Texas,data1.txt
+Lee County,Texas,data1.txt
+Leon County,Texas,data1.txt
+Liberty County,Texas,data1.txt
+Limestone County,Texas,data1.txt
+Lipscomb County,Texas,data1.txt
+Live Oak County,Texas,data1.txt
+Llano County,Texas,data1.txt
+Loving County,Texas,data1.txt
+Lubbock County,Texas,data1.txt
+Lynn County,Texas,data1.txt
+McCulloch County,Texas,data1.txt
+McLennan County,Texas,data1.txt
+McMullen County,Texas,data1.txt
+Madison County,Texas,data1.txt
+Marion County,Texas,data1.txt
+Martin County,Texas,data1.txt
+Mason County,Texas,data1.txt
+Matagorda County,Texas,data1.txt
+Maverick County,Texas,data1.txt
+Medina County,Texas,data1.txt
+Menard County,Texas,MenardCounty.txt
+Midland County,Texas,data1.txt
+Milam County,Texas,data1.txt
+Mills County,Texas,data1.txt
+Mitchell County,Texas,data1.txt
+Montague County,Texas,data1.txt
+Montgomery County,Texas,data1.txt
+Moore County,Texas,data1.txt
+Morris County,Texas,data1.txt
+Motley County,Texas,data1.txt
+Nacogdoches County,Texas,data1.txt
+Navarro County,Texas,data1.txt
+Newton County,Texas,data1.txt
+Nolan County,Texas,data1.txt
+Nueces County,Texas,data1.txt
+Ochiltree County,Texas,data1.txt
+Oldham County,Texas,data1.txt
+Orange County,Texas,data1.txt
+Palo Pinto County,Texas,data1.txt
+Panola County,Texas,data1.txt
+Parker County,Texas,data1.txt
+Parmer County,Texas,data1.txt
+Pecos County,Texas,data1.txt
+Polk County,Texas,data1.txt
+Potter County,Texas,data1.txt
+Presidio County,Texas,data1.txt
+Rains County,Texas,data1.txt
+Randall County,Texas,data1.txt
+Reagan County,Texas,data1.txt
+Real County,Texas,data1.txt
+Red River County,Texas,data1.txt
+Reeves County,Texas,data1.txt
+Refugio County,Texas,data1.txt
+Roberts County,Texas,data1.txt
+Robertson County,Texas,data1.txt
+Rockwall County,Texas,data1.txt
+Runnels County,Texas,data1.txt
+Rusk County,Texas,data1.txt
+Sabine County,Texas,data1.txt
+San Augustine County,Texas,data1.txt
+San Jacinto County,Texas,data1.txt
+San Patricio County,Texas,data1.txt
+San Saba County,Texas,data1.txt
+Schleicher County,Texas,data1.txt
+Scurry County,Texas,data1.txt
+Shackelford County,Texas,data1.txt
+Shelby County,Texas,data1.txt
+Sherman County,Texas,data1.txt
+Smith County,Texas,data1.txt
+Somervell County,Texas,data1.txt
+Starr County,Texas,data1.txt
+Stephens County,Texas,data1.txt
+Sterling County,Texas,data1.txt
+Stonewall County,Texas,data1.txt
+Sutton County,Texas,data1.txt
+Swisher County,Texas,data1.txt
+Tarrant County,Texas,data1.txt
+Taylor County,Texas,data1.txt
+Terrell County,Texas,data1.txt
+Terry County,Texas,data1.txt
+Throckmorton County,Texas,data1.txt
+Titus County,Texas,data1.txt
+Tom Green County,Texas,data1.txt
+Travis County,Texas,data1.txt
+Trinity County,Texas,data1.txt
+Tyler County,Texas,data1.txt
+Upshur County,Texas,data1.txt
+Upton County,Texas,data1.txt
+Uvalde County,Texas,data1.txt
+Val Verde County,Texas,data1.txt
+Van Zandt County,Texas,data1.txt
+Victoria County,Texas,data1.txt
+Walker County,Texas,data1.txt
+Waller County,Texas,data1.txt
+Ward County,Texas,data1.txt
+Washington County,Texas,data1.txt
+Webb County,Texas,data1.txt
+Wharton County,Texas,data1.txt
+Wheeler County,Texas,data1.txt
+Wichita County,Texas,data1.txt
+Wilbarger County,Texas,data1.txt
+Willacy County,Texas,data1.txt
+Williamson County,Texas,data1.txt
+Wilson County,Texas,data1.txt
+Winkler County,Texas,data1.txt
+Wise County,Texas,data1.txt
+Wood County,Texas,data1.txt
+Yoakum County,Texas,data1.txt
+Young County,Texas,data1.txt
+Zapata County,Texas,data1.txt
+Zavala County,Texas,data1.txt
+Beaver County,Utah,data1.txt
+Box Elder County,Utah,data1.txt
+Cache County,Utah,data1.txt
+Carbon County,Utah,data1.txt
+Daggett County,Utah,data1.txt
+Davis County,Utah,data1.txt
+Duchesne County,Utah,data1.txt
+Emery County,Utah,data1.txt
+Garfield County,Utah,data1.txt
+Grand County,Utah,data1.txt
+Iron County,Utah,data1.txt
+Juab County,Utah,data1.txt
+Kane County,Utah,data1.txt
+Millard County,Utah,data1.txt
+Morgan County,Utah,data1.txt
+Piute County,Utah,data1.txt
+Rich County,Utah,data1.txt
+Salt Lake County,Utah,data1.txt
+San Juan County,Utah,data1.txt
+Sanpete County,Utah,data1.txt
+Sevier County,Utah,data1.txt
+Summit County,Utah,data1.txt
+Tooele County,Utah,data1.txt
+Uintah County,Utah,data1.txt
+Utah County,Utah,data1.txt
+Wasatch County,Utah,data1.txt
+Washington County,Utah,data1.txt
+Wayne County,Utah,data1.txt
+Weber County,Utah,data1.txt
+Addison County,Vermont,data1.txt
+Bennington County,Vermont,data1.txt
+Caledonia County,Vermont,data1.txt
+Chittenden County,Vermont,data1.txt
+Essex County,Vermont,data1.txt
+Franklin County,Vermont,data1.txt
+Grand Isle County,Vermont,data1.txt
+Lamoille County,Vermont,data1.txt
+Orange County,Vermont,data1.txt
+Orleans County,Vermont,data1.txt
+Rutland County,Vermont,data1.txt
+Washington County,Vermont,data1.txt
+Windham County,Vermont,data1.txt
+Windsor County,Vermont,data1.txt
+Accomack County,Virginia,data1.txt
+Albemarle County,Virginia,data1.txt
+Alleghany County,Virginia,data1.txt
+Amelia County,Virginia,data1.txt
+Amherst County,Virginia,data1.txt
+Appomattox County,Virginia,data1.txt
+Arlington County,Virginia,data1.txt
+Augusta County,Virginia,data1.txt
+Bath County,Virginia,data1.txt
+Bedford County,Virginia,data1.txt
+Bland County,Virginia,data1.txt
+Botetourt County,Virginia,data1.txt
+Brunswick County,Virginia,data1.txt
+Buchanan County,Virginia,data1.txt
+Buckingham County,Virginia,data1.txt
+Campbell County,Virginia,data1.txt
+Caroline County,Virginia,data1.txt
+Carroll County,Virginia,data1.txt
+Charles City County,Virginia,data1.txt
+Charlotte County,Virginia,data1.txt
+Chesterfield County,Virginia,data1.txt
+Clarke County,Virginia,data1.txt
+Craig County,Virginia,data1.txt
+Culpeper County,Virginia,data1.txt
+Cumberland County,Virginia,data1.txt
+Dickenson County,Virginia,data1.txt
+Dinwiddie County,Virginia,data1.txt
+Essex County,Virginia,data1.txt
+Fairfax County,Virginia,data1.txt
+Fauquier County,Virginia,data1.txt
+Floyd County,Virginia,data1.txt
+Fluvanna County,Virginia,data1.txt
+Franklin County,Virginia,data1.txt
+Frederick County,Virginia,data1.txt
+Giles County,Virginia,data1.txt
+Gloucester County,Virginia,data1.txt
+Goochland County,Virginia,data1.txt
+Grayson County,Virginia,data1.txt
+Greene County,Virginia,data1.txt
+Greensville County,Virginia,data1.txt
+Halifax County,Virginia,data1.txt
+Hanover County,Virginia,data1.txt
+Henrico County,Virginia,data1.txt
+Henry County,Virginia,data1.txt
+Highland County,Virginia,data1.txt
+Isle of Wight County,Virginia,data1.txt
+James City County,Virginia,data1.txt
+King and Queen County,Virginia,data1.txt
+King George County,Virginia,data1.txt
+King William County,Virginia,data1.txt
+Lancaster County,Virginia,data1.txt
+Lee County,Virginia,data1.txt
+Loudoun County,Virginia,data1.txt
+Louisa County,Virginia,data1.txt
+Lunenburg County,Virginia,data1.txt
+Madison County,Virginia,data1.txt
+Mathews County,Virginia,data1.txt
+Mecklenburg County,Virginia,data1.txt
+Middlesex County,Virginia,data1.txt
+Montgomery County,Virginia,data1.txt
+Nelson County,Virginia,data1.txt
+New Kent County,Virginia,data1.txt
+Northampton County,Virginia,data1.txt
+Northumberland County,Virginia,data1.txt
+Nottoway County,Virginia,data1.txt
+Orange County,Virginia,data1.txt
+Page County,Virginia,data1.txt
+Patrick County,Virginia,data1.txt
+Pittsylvania County,Virginia,data1.txt
+Powhatan County,Virginia,data1.txt
+Prince Edward County,Virginia,data1.txt
+Prince George County,Virginia,data1.txt
+Prince William County,Virginia,data1.txt
+Pulaski County,Virginia,data1.txt
+Rappahannock County,Virginia,data1.txt
+Richmond County,Virginia,data1.txt
+Roanoke County,Virginia,data1.txt
+Rockbridge County,Virginia,data1.txt
+Rockingham County,Virginia,data1.txt
+Russell County,Virginia,data1.txt
+Scott County,Virginia,data1.txt
+Shenandoah County,Virginia,data1.txt
+Smyth County,Virginia,data1.txt
+Southampton County,Virginia,data1.txt
+Spotsylvania County,Virginia,data1.txt
+Stafford County,Virginia,data1.txt
+Surry County,Virginia,data1.txt
+Sussex County,Virginia,data1.txt
+Tazewell County,Virginia,data1.txt
+Warren County,Virginia,data1.txt
+Washington County,Virginia,data1.txt
+Westmoreland County,Virginia,data1.txt
+Wise County,Virginia,data1.txt
+Wythe County,Virginia,data1.txt
+York County,Virginia,data1.txt
+Alexandria, City of,Virginia,data1.txt
+Bedford, City of,Virginia,data1.txt
+Bristol, City of,Virginia,data1.txt
+Buena Vista, City of,Virginia,data1.txt
+Charlottesville, City of,Virginia,data1.txt
+Chesapeake, City of,Virginia,data1.txt
+Colonial Heights, City of,Virginia,data1.txt
+Covington, City of,Virginia,data1.txt
+Danville, City of,Virginia,data1.txt
+Emporia, City of,Virginia,data1.txt
+Fairfax, City of,Virginia,data1.txt
+Falls Church, City of,Virginia,data1.txt
+Franklin, City of,Virginia,data1.txt
+Fredericksburg, City of,Virginia,data1.txt
+Galax, City of,Virginia,data1.txt
+Hampton, City of,Virginia,data1.txt
+Harrisonburg, City of,Virginia,data1.txt
+Hopewell, City of,Virginia,data1.txt
+Lexington, City of,Virginia,data1.txt
+Lynchburg, City of,Virginia,data1.txt
+Manassas, City of,Virginia,data1.txt
+Manassas Park, City of,Virginia,data1.txt
+Martinsville, City of,Virginia,data1.txt
+Newport News, City of,Virginia,data1.txt
+Norfolk, City of,Virginia,data1.txt
+Norton, City of,Virginia,data1.txt
+Petersburg, City of,Virginia,data1.txt
+Poquoson, City of,Virginia,data1.txt
+Portsmouth, City of,Virginia,data1.txt
+Radford, City of,Virginia,data1.txt
+Richmond, City of,Virginia,data1.txt
+Roanoke, City of,Virginia,data1.txt
+Salem, City of,Virginia,data1.txt
+Staunton, City of,Virginia,data1.txt
+Suffolk, City of,Virginia,data1.txt
+Virginia Beach, City of,Virginia,data1.txt
+Waynesboro, City of,Virginia,data1.txt
+Williamsburg, City of,Virginia,data1.txt
+Winchester, City of,Virginia,data1.txt
+Adams County,Washington,data1.txt
+Asotin County,Washington,data1.txt
+Benton County,Washington,data1.txt
+Chelan County,Washington,data1.txt
+Clallam County,Washington,data1.txt
+Clark County,Washington,data1.txt
+Columbia County,Washington,data1.txt
+Cowlitz County,Washington,data1.txt
+Douglas County,Washington,data1.txt
+Ferry County,Washington,data1.txt
+Franklin County,Washington,data1.txt
+Garfield County,Washington,data1.txt
+Grant County,Washington,data1.txt
+Grays Harbor County,Washington,data1.txt
+Island County,Washington,data1.txt
+Jefferson County,Washington,data1.txt
+King County,Washington,data1.txt
+Kitsap County,Washington,data1.txt
+Kittitas County,Washington,data1.txt
+Klickitat County,Washington,data1.txt
+Lewis County,Washington,data1.txt
+Lincoln County,Washington,data1.txt
+Mason County,Washington,data1.txt
+Okanogan County,Washington,data1.txt
+Pacific County,Washington,data1.txt
+Pend Oreille County,Washington,data1.txt
+Pierce County,Washington,data1.txt
+San Juan County,Washington,data1.txt
+Skagit County,Washington,data1.txt
+Skamania County,Washington,data1.txt
+Snohomish County,Washington,data1.txt
+Spokane County,Washington,data1.txt
+Stevens County,Washington,data1.txt
+Thurston County,Washington,data1.txt
+Wahkiakum County,Washington,data1.txt
+Walla Walla County,Washington,data1.txt
+Whatcom County,Washington,data1.txt
+Whitman County,Washington,data1.txt
+Yakima County,Washington,data1.txt
+Barbour County,West Virginia,data1.txt
+Berkeley County,West Virginia,data1.txt
+Boone County,West Virginia,data1.txt
+Braxton County,West Virginia,data1.txt
+Brooke County,West Virginia,data1.txt
+Cabell County,West Virginia,data1.txt
+Calhoun County,West Virginia,data1.txt
+Clay County,West Virginia,data1.txt
+Doddridge County,West Virginia,data1.txt
+Fayette County,West Virginia,data1.txt
+Gilmer County,West Virginia,data1.txt
+Grant County,West Virginia,data1.txt
+Greenbrier County,West Virginia,data1.txt
+Hampshire County,West Virginia,data1.txt
+Hancock County,West Virginia,data1.txt
+Hardy County,West Virginia,data1.txt
+Harrison County,West Virginia,data1.txt
+Jackson County,West Virginia,data1.txt
+Jefferson County,West Virginia,data1.txt
+Kanawha County,West Virginia,data1.txt
+Lewis County,West Virginia,data1.txt
+Lincoln County,West Virginia,data1.txt
+Logan County,West Virginia,data1.txt
+McDowell County,West Virginia,data1.txt
+Marion County,West Virginia,data1.txt
+Marshall County,West Virginia,data1.txt
+Mason County,West Virginia,data1.txt
+Mercer County,West Virginia,data1.txt
+Mineral County,West Virginia,data1.txt
+Mingo County,West Virginia,data1.txt
+Monongalia County,West Virginia,data1.txt
+Monroe County,West Virginia,data1.txt
+Morgan County,West Virginia,data1.txt
+Nicholas County,West Virginia,data1.txt
+Ohio County,West Virginia,data1.txt
+Pendleton County,West Virginia,data1.txt
+Pleasants County,West Virginia,data1.txt
+Pocahontas County,West Virginia,data1.txt
+Preston County,West Virginia,data1.txt
+Putnam County,West Virginia,data1.txt
+Raleigh County,West Virginia,data1.txt
+Randolph County,West Virginia,data1.txt
+Ritchie County,West Virginia,data1.txt
+Roane County,West Virginia,data1.txt
+Summers County,West Virginia,data1.txt
+Taylor County,West Virginia,data1.txt
+Tucker County,West Virginia,data1.txt
+Tyler County,West Virginia,data1.txt
+Upshur County,West Virginia,data1.txt
+Wayne County,West Virginia,data1.txt
+Webster County,West Virginia,data1.txt
+Wetzel County,West Virginia,data1.txt
+Wirt County,West Virginia,data1.txt
+Wood County,West Virginia,data1.txt
+Wyoming County,West Virginia,data1.txt
+Adams County,Wisconsin,data1.txt
+Ashland County,Wisconsin,data1.txt
+Barron County,Wisconsin,data1.txt
+Bayfield County,Wisconsin,data1.txt
+Brown County,Wisconsin,data1.txt
+Buffalo County,Wisconsin,data1.txt
+Burnett County,Wisconsin,data1.txt
+Calumet County,Wisconsin,data1.txt
+Chippewa County,Wisconsin,data1.txt
+Clark County,Wisconsin,data1.txt
+Columbia County,Wisconsin,data1.txt
+Crawford County,Wisconsin,data1.txt
+Dane County,Wisconsin,data1.txt
+Dodge County,Wisconsin,data1.txt
+Door County,Wisconsin,data1.txt
+Douglas County,Wisconsin,data1.txt
+Dunn County,Wisconsin,data1.txt
+Eau Claire County,Wisconsin,data1.txt
+Florence County,Wisconsin,data1.txt
+Fond du Lac County,Wisconsin,data1.txt
+Forest County,Wisconsin,data1.txt
+Grant County,Wisconsin,data1.txt
+Green County,Wisconsin,data1.txt
+Green Lake County,Wisconsin,data1.txt
+Iowa County,Wisconsin,data1.txt
+Iron County,Wisconsin,data1.txt
+Jackson County,Wisconsin,data1.txt
+Jefferson County,Wisconsin,data1.txt
+Juneau County,Wisconsin,data1.txt
+Kenosha County,Wisconsin,data1.txt
+Kewaunee County,Wisconsin,data1.txt
+La Crosse County,Wisconsin,data1.txt
+Lafayette County,Wisconsin,data1.txt
+Langlade County,Wisconsin,data1.txt
+Lincoln County,Wisconsin,data1.txt
+Manitowoc County,Wisconsin,data1.txt
+Marathon County,Wisconsin,data1.txt
+Marinette County,Wisconsin,data1.txt
+Marquette County,Wisconsin,data1.txt
+Menominee County,Wisconsin,data1.txt
+Milwaukee County,Wisconsin,data1.txt
+Monroe County,Wisconsin,data1.txt
+Oconto County,Wisconsin,data1.txt
+Oneida County,Wisconsin,data1.txt
+Outagamie County,Wisconsin,data1.txt
+Ozaukee County,Wisconsin,data1.txt
+Pepin County,Wisconsin,data1.txt
+Pierce County,Wisconsin,data1.txt
+Polk County,Wisconsin,data1.txt
+Portage County,Wisconsin,data1.txt
+Price County,Wisconsin,data1.txt
+Racine County,Wisconsin,data1.txt
+Richland County,Wisconsin,data1.txt
+Rock County,Wisconsin,data1.txt
+Rusk County,Wisconsin,data1.txt
+St. Croix County,Wisconsin,data1.txt
+Sauk County,Wisconsin,data1.txt
+Sawyer County,Wisconsin,data1.txt
+Shawano County,Wisconsin,data1.txt
+Sheboygan County,Wisconsin,data1.txt
+Taylor County,Wisconsin,data1.txt
+Trempealeau County,Wisconsin,data1.txt
+Vernon County,Wisconsin,data1.txt
+Vilas County,Wisconsin,data1.txt
+Walworth County,Wisconsin,data1.txt
+Washburn County,Wisconsin,data1.txt
+Washington County,Wisconsin,data1.txt
+Waukesha County,Wisconsin,data1.txt
+Waupaca County,Wisconsin,data1.txt
+Waushara County,Wisconsin,data1.txt
+Winnebago County,Wisconsin,data1.txt
+Wood County,Wisconsin,data1.txt
+Albany County,Wyoming,data1.txt
+Big Horn County,Wyoming,data1.txt
+Campbell County,Wyoming,data1.txt
+Carbon County,Wyoming,data1.txt
+Converse County,Wyoming,data1.txt
+Crook County,Wyoming,data1.txt
+Fremont County,Wyoming,data1.txt
+Goshen County,Wyoming,data1.txt
+Hot Springs County,Wyoming,data1.txt
+Johnson County,Wyoming,data1.txt
+Laramie County,Wyoming,data1.txt
+Lincoln County,Wyoming,data1.txt
+Natrona County,Wyoming,data1.txt
+Niobrara County,Wyoming,data1.txt
+Park County,Wyoming,data1.txt
+Platte County,Wyoming,data1.txt
+Sheridan County,Wyoming,data1.txt
+Sublette County,Wyoming,data1.txt
+Sweetwater County,Wyoming,data1.txt
+Teton County,Wyoming,data1.txt
+Uinta County,Wyoming,data1.txt
+Washakie County,Wyoming,data1.txt
+Weston County,Wyoming,data1.txt
