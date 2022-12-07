@@ -428,6 +428,9 @@ public class View extends Application {
         return borderPane;
     }
 
+    /*  Assignment 4: Improvement of your choosing
+     *  Saw this code was starting to become repetitive so created a method
+     */
     private void repaintLeftCenterPane() throws IOException {
         ScrollPane sp = new ScrollPane(getLeftPane());
         sp.setMinWidth(300);
