@@ -21,20 +21,16 @@ public class SortByClosest {
     *
     *  Time complexity is O(n) to get a list of points in fall in the 200x200 box and O(nlogn) average complexity(quick sort)
     *  to sort by distance to current location(O(n^2) worst case).*/
-    public static ArrayList<GasStation> sortByClosest(Point2D current, int ratingFilter, boolean is24Hours) throws IOException {
+    public static ArrayList<GasStation> sortByClosest(Point2D current) throws IOException {
         ArrayList<GasStation> list = new ArrayList<>();
         list.add(new GasStation(current, "Current Location")); //Special "Current Location" zero index entry on list.
         ArrayList<GasStation> list2 = GasStationList.getListDeepCopy();
         for (int i=0; i < list2.size() && list2.get(i).getPoint().getY() < current.getY()+100; i++){
             if(list2.get(i).getPoint().getY() > current.getY()-100 &&
                list2.get(i).getPoint().getX() > current.getX()-100 &&
-               list2.get(i).getPoint().getX() < current.getX()+100 &&
-               (!is24Hours || is24Hours && TreeMapFilters.getIs24Hours().contains(list2.get(i).getBrand()))){
-                    int rating = (int)TreeMapFilters.getRatingsTreeMap().get(list2.get(i).getBrand());
-                    if(rating >= ratingFilter){
-                        list.add(list2.get(i));
-                        list.get(list.size()-1).setDistanceFromCurrentLocation(list.get(list.size()-1).getPoint().distance(current));
-                    }
+               list2.get(i).getPoint().getX() < current.getX()+100){
+                    list.add(list2.get(i));
+                    list.get(list.size()-1).setDistanceFromCurrentLocation(list.get(list.size()-1).getPoint().distance(current));
             }
         }
         GenericQuickSort.quickSort(list,  new GasStationComparatorDistance());

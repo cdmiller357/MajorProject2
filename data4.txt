@@ -1193,7 +1193,7 @@ Washington County,Maine,data1.txt
 York County,Maine,data1.txt
 Allegany County,Maryland,data1.txt
 Anne Arundel County,Maryland,data1.txt
-Baltimore County,Maryland,data1.txt
+Baltimore County,Maryland,data1B.txt
 Calvert County,Maryland,data1.txt
 Caroline County,Maryland,data1.txt
 Carroll County,Maryland,data1.txt
@@ -1214,7 +1214,7 @@ Talbot County,Maryland,data1.txt
 Washington County,Maryland,data1A.txt
 Wicomico County,Maryland,data1.txt
 Worcester County,Maryland,data1.txt
-Baltimore, City of,Maryland,data1.txt
+Baltimore,Maryland,data1B.txt
 Barnstable County,Massachusetts,data1.txt
 Berkshire County,Massachusetts,data1.txt
 Bristol County,Massachusetts,data1.txt

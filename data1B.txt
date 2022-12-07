@@ -1,0 +1,2500 @@
+500,-51,McDonald's//Used for starting location when launched.
+175,711,The Wagon Wheel
+184,361,Casino
+254,381,Casino
+469,530,Nature Area
+88,163,RoyalFarms
+722,69,Shell
+625,208,Sheetz
+148,717,Historical Area
+629,222,Holiday Inn
+372,366,The Wagon Wheel
+65,629,Shell
+588,259,McDonald's
+214,743,Recreation Area
+452,413,Exxon
+449,210,Historical Area
+145,180,The Wagon Wheel
+374,271,Sheetz
+235,178,Shell
+440,315,Best Western
+494,159,Exxon
+392,303,Chipotle
+686,270,Sheetz
+707,628,Nature Area
+602,421,McDonald's
+453,573,RoyalFarms
+599,444,Chipotle
+614,126,Exxon
+155,100,Shell
+434,353,Casino
+139,730,RoyalFarms
+104,679,Holiday Inn
+314,601,Sheetz
+254,155,Historical Area
+743,169,Casino
+331,527,Shell
+517,144,Chipotle
+556,727,The Wagon Wheel
+671,306,McDonald's
+179,272,Best Western
+526,266,Holiday Inn
+737,129,Sheetz
+430,68,Nature Area
+723,340,Best Western
+416,700,Sheetz
+413,402,The Wagon Wheel
+206,749,McDonald's
+530,557,RoyalFarms
+107,608,McDonald's
+425,77,Best Western
+444,505,Holiday Inn
+438,214,Shell
+457,402,Chipotle
+382,367,Recreation Area
+517,713,Best Western
+448,356,Sheetz
+132,107,Chipotle
+369,312,Holiday Inn
+358,186,Nature Area
+385,361,Sheetz
+425,121,Nature Area
+660,50,Casino
+702,100,The Wagon Wheel
+179,209,Historical Area
+214,513,Recreation Area
+277,598,Holiday Inn
+330,373,Recreation Area
+419,673,Casino
+393,668,Nature Area
+84,346,Best Western
+284,722,The Wagon Wheel
+168,611,Recreation Area
+66,327,Sheetz
+628,498,Recreation Area
+294,121,Casino
+683,130,Sheetz
+724,726,Exxon
+428,690,The Wagon Wheel
+718,498,Holiday Inn
+445,506,Shell
+360,153,RoyalFarms
+729,50,Shell
+685,633,Holiday Inn
+180,443,Holiday Inn
+745,583,Exxon
+631,259,Exxon
+611,675,Exxon
+214,679,Chipotle
+68,493,Holiday Inn
+296,584,Sheetz
+398,174,Sheetz
+146,177,Chipotle
+201,504,Historical Area
+115,337,Recreation Area
+136,320,Recreation Area
+84,373,Casino
+172,532,Holiday Inn
+166,199,The Wagon Wheel
+565,564,Shell
+167,157,Holiday Inn
+239,297,RoyalFarms
+260,388,Nature Area
+675,410,Exxon
+621,589,Casino
+662,746,Shell
+644,567,Shell
+603,394,Casino
+437,338,RoyalFarms
+218,388,Holiday Inn
+136,722,RoyalFarms
+693,146,Shell
+467,133,The Wagon Wheel
+449,311,Chipotle
+336,736,Sheetz
+319,159,Nature Area
+598,442,Chipotle
+431,230,Sheetz
+116,701,The Wagon Wheel
+551,238,Sheetz
+533,458,Nature Area
+563,421,Casino
+723,251,Sheetz
+202,280,Best Western
+591,122,Nature Area
+146,688,McDonald's
+91,739,McDonald's
+147,166,Nature Area
+131,706,Nature Area
+499,74,Historical Area
+695,369,Recreation Area
+266,573,Historical Area
+609,236,Recreation Area
+156,318,Best Western
+637,528,McDonald's
+650,314,Nature Area
+500,627,Historical Area
+469,317,RoyalFarms
+535,378,The Wagon Wheel
+223,714,RoyalFarms
+732,487,Holiday Inn
+357,684,RoyalFarms
+676,212,Chipotle
+246,358,Casino
+353,82,Shell
+611,641,Chipotle
+312,539,Shell
+456,189,Chipotle
+317,434,McDonald's
+414,556,Recreation Area
+602,544,Exxon
+153,682,Historical Area
+251,144,McDonald's
+714,159,Best Western
+661,98,Best Western
+678,149,The Wagon Wheel
+686,640,Holiday Inn
+621,472,Casino
+304,669,Holiday Inn
+555,75,RoyalFarms
+210,215,Recreation Area
+309,102,RoyalFarms
+150,531,Best Western
+406,451,Shell
+223,534,Shell
+407,235,The Wagon Wheel
+189,486,Nature Area
+297,365,Exxon
+312,454,Historical Area
+224,582,The Wagon Wheel
+678,404,The Wagon Wheel
+338,619,McDonald's
+54,151,Nature Area
+304,552,Nature Area
+345,454,Sheetz
+74,185,The Wagon Wheel
+159,671,Chipotle
+677,365,Chipotle
+54,498,RoyalFarms
+98,99,Holiday Inn
+620,502,RoyalFarms
+440,421,Best Western
+291,88,Historical Area
+704,392,Casino
+117,376,Holiday Inn
+506,144,Exxon
+741,126,Nature Area
+607,359,Nature Area
+426,303,McDonald's
+314,647,Sheetz
+540,743,Holiday Inn
+348,699,Best Western
+283,279,Nature Area
+253,588,Chipotle
+55,723,RoyalFarms
+294,671,The Wagon Wheel
+400,147,Casino
+234,227,Nature Area
+295,517,Nature Area
+571,56,Historical Area
+598,487,Nature Area
+553,746,Exxon
+516,720,Sheetz
+373,329,Nature Area
+411,539,Chipotle
+159,425,Exxon
+286,136,Shell
+207,613,Recreation Area
+487,118,Best Western
+104,494,Holiday Inn
+304,376,Holiday Inn
+226,646,The Wagon Wheel
+549,305,Shell
+61,272,Exxon
+213,526,Nature Area
+178,514,Shell
+268,466,RoyalFarms
+62,730,Casino
+715,309,Chipotle
+232,98,Chipotle
+416,255,McDonald's
+279,326,Nature Area
+655,737,Holiday Inn
+731,274,Sheetz
+135,303,RoyalFarms
+748,536,The Wagon Wheel
+329,685,Nature Area
+76,57,Sheetz
+695,225,Chipotle
+213,469,Historical Area
+682,732,Sheetz
+282,260,Sheetz
+646,447,RoyalFarms
+480,311,Sheetz
+131,93,Historical Area
+159,576,McDonald's
+296,575,Shell
+549,449,Historical Area
+376,526,Recreation Area
+325,305,Historical Area
+68,195,Holiday Inn
+247,95,Historical Area
+293,614,Recreation Area
+418,560,Holiday Inn
+480,432,Exxon
+155,79,Historical Area
+594,173,RoyalFarms
+56,667,Chipotle
+136,480,Holiday Inn
+732,195,RoyalFarms
+540,71,RoyalFarms
+626,682,Chipotle
+684,101,Shell
+671,686,Best Western
+319,577,Recreation Area
+672,250,Best Western
+290,433,Shell
+301,273,Sheetz
+572,358,McDonald's
+674,313,Sheetz
+624,136,The Wagon Wheel
+191,276,The Wagon Wheel
+124,464,Casino
+201,421,RoyalFarms
+371,165,Holiday Inn
+717,192,Exxon
+441,503,Historical Area
+145,405,Shell
+618,677,Historical Area
+499,175,Casino
+708,499,Holiday Inn
+301,639,Chipotle
+197,454,RoyalFarms
+569,672,The Wagon Wheel
+191,355,Casino
+717,349,The Wagon Wheel
+609,107,Recreation Area
+679,55,Shell
+270,280,Exxon
+614,323,Recreation Area
+216,598,Shell
+237,266,Holiday Inn
+65,552,Shell
+86,516,Exxon
+626,375,Best Western
+315,739,Shell
+201,510,Shell
+141,184,Chipotle
+68,550,Holiday Inn
+458,269,Holiday Inn
+183,86,The Wagon Wheel
+465,735,Chipotle
+168,446,Chipotle
+692,444,Casino
+520,555,Best Western
+551,470,Nature Area
+389,92,Exxon
+284,559,Nature Area
+735,526,Sheetz
+92,391,Holiday Inn
+376,519,The Wagon Wheel
+76,586,The Wagon Wheel
+633,84,Recreation Area
+168,67,Best Western
+730,281,Historical Area
+392,105,Holiday Inn
+154,639,RoyalFarms
+509,518,Historical Area
+663,187,Casino
+677,284,Best Western
+302,515,Historical Area
+328,385,Chipotle
+366,357,Chipotle
+493,568,Recreation Area
+239,671,RoyalFarms
+118,123,Chipotle
+654,309,Historical Area
+528,706,The Wagon Wheel
+295,93,McDonald's
+187,99,The Wagon Wheel
+127,102,Shell
+482,698,Holiday Inn
+131,233,Sheetz
+282,739,Nature Area
+97,658,Nature Area
+192,480,Exxon
+457,349,Shell
+462,658,Holiday Inn
+680,527,McDonald's
+713,163,Chipotle
+270,489,Historical Area
+665,194,The Wagon Wheel
+498,295,Historical Area
+506,98,Historical Area
+680,546,Best Western
+622,382,Chipotle
+218,457,Exxon
+483,295,Exxon
+242,687,Historical Area
+389,579,Casino
+334,469,Shell
+558,444,Best Western
+722,390,Sheetz
+565,424,Nature Area
+394,186,Nature Area
+356,538,Casino
+270,648,McDonald's
+202,356,Holiday Inn
+82,461,Casino
+167,677,Historical Area
+130,53,Nature Area
+459,674,Sheetz
+603,321,Shell
+346,377,Nature Area
+131,746,McDonald's
+376,159,McDonald's
+749,242,Casino
+738,318,McDonald's
+628,591,Exxon
+684,669,McDonald's
+186,299,Best Western
+100,376,McDonald's
+612,442,McDonald's
+426,178,Recreation Area
+394,680,The Wagon Wheel
+738,209,Shell
+243,623,Casino
+315,74,Historical Area
+587,557,RoyalFarms
+175,162,Chipotle
+482,151,Best Western
+258,725,Best Western
+66,703,Holiday Inn
+664,609,The Wagon Wheel
+539,571,Shell
+296,346,RoyalFarms
+457,611,Exxon
+504,681,Sheetz
+84,405,Holiday Inn
+59,325,Best Western
+85,298,Recreation Area
+640,587,Sheetz
+149,659,Best Western
+522,748,The Wagon Wheel
+106,307,McDonald's
+174,356,The Wagon Wheel
+161,145,Best Western
+243,554,The Wagon Wheel
+709,419,Nature Area
+172,414,Nature Area
+205,722,Recreation Area
+332,445,Casino
+384,178,Best Western
+481,640,Casino
+92,54,Holiday Inn
+254,472,Best Western
+387,254,Casino
+63,508,Historical Area
+287,445,Sheetz
+150,635,Historical Area
+650,74,Casino
+437,202,Exxon
+696,209,The Wagon Wheel
+87,466,Nature Area
+710,337,The Wagon Wheel
+102,613,RoyalFarms
+185,668,Holiday Inn
+104,702,Sheetz
+538,451,Shell
+643,714,Historical Area
+228,685,Best Western
+157,441,Sheetz
+712,321,RoyalFarms
+144,179,Shell
+697,572,Chipotle
+579,303,RoyalFarms
+507,500,Casino
+525,498,Recreation Area
+390,335,Exxon
+209,426,McDonald's
+70,396,Nature Area
+462,466,Exxon
+703,445,Nature Area
+318,431,Exxon
+477,113,Sheetz
+634,606,Holiday Inn
+463,253,Exxon
+565,533,Shell
+589,529,Shell
+228,381,Holiday Inn
+661,567,Shell
+516,165,RoyalFarms
+140,481,Best Western
+649,676,Sheetz
+143,595,Chipotle
+79,391,The Wagon Wheel
+290,747,Chipotle
+237,488,Nature Area
+165,63,Historical Area
+689,118,Best Western
+294,640,Historical Area
+73,380,Holiday Inn
+398,492,Chipotle
+322,477,Recreation Area
+152,297,Exxon
+412,296,Best Western
+410,490,Holiday Inn
+304,178,RoyalFarms
+223,160,Sheetz
+546,362,Best Western
+481,266,Nature Area
+563,552,Best Western
+552,365,Shell
+479,240,Exxon
+194,547,McDonald's
+645,740,Recreation Area
+558,479,RoyalFarms
+749,134,The Wagon Wheel
+643,374,The Wagon Wheel
+398,230,Holiday Inn
+393,504,Nature Area
+515,130,McDonald's
+73,229,RoyalFarms
+416,361,Sheetz
+736,604,Chipotle
+585,339,Historical Area
+162,295,Shell
+552,215,Chipotle
+749,563,Historical Area
+346,681,The Wagon Wheel
+356,453,McDonald's
+218,225,Shell
+732,442,Chipotle
+248,168,Best Western
+328,526,RoyalFarms
+582,480,Exxon
+599,682,Shell
+601,203,Recreation Area
+684,111,Best Western
+268,724,Casino
+423,334,Historical Area
+245,453,Nature Area
+419,448,Chipotle
+559,94,Nature Area
+190,568,The Wagon Wheel
+149,458,Holiday Inn
+116,254,Best Western
+304,466,RoyalFarms
+107,487,Holiday Inn
+200,331,Sheetz
+594,54,Chipotle
+339,83,Sheetz
+199,250,Sheetz
+683,330,McDonald's
+583,727,Nature Area
+418,627,Recreation Area
+227,586,Historical Area
+583,201,The Wagon Wheel
+329,202,Sheetz
+62,514,McDonald's
+718,65,Casino
+108,664,RoyalFarms
+571,599,Shell
+563,55,Nature Area
+601,123,Best Western
+50,75,Exxon
+745,331,Sheetz
+323,552,McDonald's
+722,705,Chipotle
+180,70,Nature Area
+504,192,Historical Area
+566,727,Best Western
+112,120,Holiday Inn
+129,645,Sheetz
+266,632,RoyalFarms
+147,541,Exxon
+387,639,Recreation Area
+700,630,Shell
+708,397,Holiday Inn
+533,241,Nature Area
+391,738,Recreation Area
+684,333,Exxon
+261,699,RoyalFarms
+447,573,Casino
+574,736,Recreation Area
+584,446,McDonald's
+676,549,Best Western
+230,585,McDonald's
+462,421,Sheetz
+255,486,Nature Area
+651,462,Sheetz
+549,586,Best Western
+617,134,Historical Area
+129,298,Chipotle
+239,557,Shell
+90,80,Holiday Inn
+340,472,Shell
+188,56,Shell
+192,206,The Wagon Wheel
+378,656,Casino
+109,122,RoyalFarms
+291,81,Best Western
+739,339,Shell
+429,444,Chipotle
+306,494,RoyalFarms
+683,652,Historical Area
+416,703,Shell
+662,116,The Wagon Wheel
+259,99,Best Western
+270,195,Historical Area
+157,469,Holiday Inn
+713,686,Exxon
+258,414,Chipotle
+127,221,Historical Area
+277,189,Sheetz
+284,77,McDonald's
+353,543,RoyalFarms
+130,629,McDonald's
+268,360,Shell
+519,460,Recreation Area
+717,278,Nature Area
+459,694,Casino
+129,454,Historical Area
+107,483,RoyalFarms
+91,144,Chipotle
+404,366,Historical Area
+245,232,RoyalFarms
+499,405,Sheetz
+161,225,Recreation Area
+161,272,Historical Area
+507,176,Sheetz
+591,289,Nature Area
+255,322,Shell
+452,264,Exxon
+654,523,The Wagon Wheel
+96,674,McDonald's
+345,162,Exxon
+554,727,Nature Area
+108,728,Recreation Area
+72,225,Best Western
+690,593,RoyalFarms
+74,434,RoyalFarms
+705,668,Shell
+606,472,Chipotle
+537,557,The Wagon Wheel
+622,365,Sheetz
+245,600,Holiday Inn
+110,249,Best Western
+375,636,Recreation Area
+292,733,Historical Area
+385,590,Chipotle
+658,95,Chipotle
+165,55,The Wagon Wheel
+263,151,Recreation Area
+320,339,Exxon
+742,267,Casino
+232,124,Shell
+191,233,Best Western
+699,414,Best Western
+374,690,Casino
+423,138,Recreation Area
+446,656,Casino
+405,67,McDonald's
+428,437,Casino
+67,243,Historical Area
+105,429,Casino
+188,195,Historical Area
+556,546,Exxon
+169,656,Holiday Inn
+675,640,McDonald's
+631,424,Chipotle
+391,586,RoyalFarms
+387,463,Best Western
+496,365,Casino
+472,155,Shell
+570,145,RoyalFarms
+212,370,Sheetz
+523,506,Historical Area
+378,111,Recreation Area
+602,329,RoyalFarms
+259,489,Shell
+530,305,Sheetz
+616,414,McDonald's
+121,233,McDonald's
+514,482,The Wagon Wheel
+468,262,Casino
+547,460,McDonald's
+577,154,Holiday Inn
+600,399,Shell
+61,133,RoyalFarms
+500,493,Chipotle
+422,468,Casino
+246,394,Recreation Area
+637,652,Historical Area
+250,592,Exxon
+122,523,The Wagon Wheel
+703,227,Shell
+678,333,Best Western
+292,727,Holiday Inn
+186,274,Recreation Area
+185,369,Holiday Inn
+655,522,Historical Area
+625,557,Exxon
+555,629,Casino
+141,267,The Wagon Wheel
+434,678,The Wagon Wheel
+488,371,Sheetz
+396,350,Sheetz
+717,372,Chipotle
+467,445,Best Western
+207,296,Exxon
+459,141,Sheetz
+243,246,Casino
+413,338,RoyalFarms
+555,454,Exxon
+191,97,The Wagon Wheel
+589,104,Historical Area
+198,330,Nature Area
+621,122,Best Western
+305,723,RoyalFarms
+612,488,Best Western
+441,81,Nature Area
+151,747,Holiday Inn
+180,402,Holiday Inn
+481,416,Exxon
+100,327,Exxon
+620,508,Best Western
+82,252,Holiday Inn
+572,286,Sheetz
+460,72,Chipotle
+487,301,Sheetz
+285,207,Best Western
+325,258,Best Western
+220,471,Sheetz
+114,170,The Wagon Wheel
+89,701,Recreation Area
+206,561,Exxon
+527,218,RoyalFarms
+52,320,The Wagon Wheel
+101,641,Exxon
+557,271,The Wagon Wheel
+547,81,Casino
+459,153,McDonald's
+606,154,Sheetz
+327,503,Historical Area
+493,703,The Wagon Wheel
+675,214,Recreation Area
+534,449,Best Western
+644,492,Nature Area
+450,183,Casino
+629,130,McDonald's
+154,428,Shell
+134,700,Recreation Area
+581,485,Exxon
+548,239,Casino
+84,135,Sheetz
+121,576,Historical Area
+568,407,Sheetz
+552,515,The Wagon Wheel
+503,548,Nature Area
+614,232,Casino
+193,499,Chipotle
+551,72,Exxon
+395,63,The Wagon Wheel
+87,553,Historical Area
+334,713,McDonald's
+676,101,Historical Area
+93,165,Exxon
+93,391,Holiday Inn
+230,270,Chipotle
+361,641,Nature Area
+111,98,Casino
+475,635,Chipotle
+663,728,The Wagon Wheel
+452,666,RoyalFarms
+58,326,RoyalFarms
+69,226,Historical Area
+587,630,Best Western
+344,451,Recreation Area
+743,229,Chipotle
+480,716,McDonald's
+469,181,The Wagon Wheel
+631,370,Exxon
+385,419,Casino
+121,638,Shell
+88,609,Casino
+661,452,Recreation Area
+520,546,Holiday Inn
+577,532,Holiday Inn
+583,77,Casino
+59,486,Recreation Area
+166,238,Chipotle
+120,487,McDonald's
+705,515,Recreation Area
+191,63,Sheetz
+559,122,Recreation Area
+735,384,The Wagon Wheel
+324,218,Casino
+123,537,Best Western
+407,396,Sheetz
+631,501,Casino
+300,313,Shell
+481,566,The Wagon Wheel
+651,676,RoyalFarms
+107,476,Nature Area
+699,725,Chipotle
+73,553,Shell
+527,547,Holiday Inn
+411,372,Shell
+128,77,Best Western
+334,96,RoyalFarms
+705,106,Holiday Inn
+216,118,Chipotle
+380,623,The Wagon Wheel
+396,458,Best Western
+65,401,Exxon
+52,131,Shell
+531,563,Casino
+548,421,RoyalFarms
+604,527,Casino
+627,475,Best Western
+649,620,The Wagon Wheel
+392,602,Sheetz
+255,737,Sheetz
+152,450,The Wagon Wheel
+230,537,Holiday Inn
+263,469,Holiday Inn
+747,286,Sheetz
+171,664,The Wagon Wheel
+129,318,The Wagon Wheel
+479,269,Holiday Inn
+106,310,McDonald's
+100,308,RoyalFarms
+438,720,McDonald's
+55,392,The Wagon Wheel
+482,273,Holiday Inn
+381,519,Exxon
+255,50,Exxon
+671,262,Exxon
+544,263,Holiday Inn
+77,424,Historical Area
+475,317,Recreation Area
+95,528,The Wagon Wheel
+231,514,Sheetz
+411,579,Chipotle
+425,657,Historical Area
+445,543,Historical Area
+198,243,Exxon
+693,504,The Wagon Wheel
+464,113,Nature Area
+256,396,Best Western
+369,718,Recreation Area
+721,158,Exxon
+126,251,Chipotle
+395,322,Nature Area
+62,342,The Wagon Wheel
+446,648,Holiday Inn
+424,217,Recreation Area
+677,189,Best Western
+212,282,The Wagon Wheel
+458,702,Chipotle
+683,494,McDonald's
+457,385,Nature Area
+516,213,Holiday Inn
+290,548,Best Western
+629,321,Shell
+274,230,Exxon
+392,564,Exxon
+612,615,Shell
+392,369,Holiday Inn
+106,321,Nature Area
+582,714,McDonald's
+200,544,Recreation Area
+157,694,Holiday Inn
+416,113,Exxon
+378,430,Nature Area
+477,306,Historical Area
+224,453,McDonald's
+571,237,Historical Area
+418,642,Historical Area
+70,411,Casino
+642,630,McDonald's
+560,54,Sheetz
+591,199,Holiday Inn
+707,385,The Wagon Wheel
+398,730,Exxon
+577,605,Casino
+672,701,McDonald's
+649,143,McDonald's
+353,96,Best Western
+513,742,Holiday Inn
+307,721,Chipotle
+608,118,Recreation Area
+79,651,McDonald's
+516,129,Holiday Inn
+395,558,Historical Area
+261,503,Sheetz
+125,183,Chipotle
+61,369,RoyalFarms
+512,336,Casino
+645,311,Shell
+165,597,Recreation Area
+265,718,RoyalFarms
+178,154,Best Western
+257,216,Shell
+488,383,RoyalFarms
+518,405,Recreation Area
+601,477,Sheetz
+432,364,Nature Area
+324,362,Best Western
+138,466,Chipotle
+55,549,McDonald's
+200,638,Exxon
+254,678,The Wagon Wheel
+661,249,Recreation Area
+144,94,McDonald's
+550,241,Historical Area
+165,287,RoyalFarms
+322,376,Recreation Area
+341,373,RoyalFarms
+64,598,Exxon
+184,713,Historical Area
+554,248,Recreation Area
+214,134,Chipotle
+133,547,Sheetz
+53,60,Best Western
+375,587,Casino
+458,547,Shell
+206,569,Casino
+423,63,Chipotle
+239,185,Sheetz
+126,396,RoyalFarms
+297,694,Exxon
+615,207,Sheetz
+336,207,Shell
+265,225,Nature Area
+718,134,Chipotle
+216,511,Sheetz
+562,246,McDonald's
+135,55,Sheetz
+360,165,Best Western
+230,277,Best Western
+305,324,Recreation Area
+654,416,Recreation Area
+674,736,Best Western
+399,265,RoyalFarms
+265,324,McDonald's
+185,421,Shell
+441,383,Shell
+87,495,Exxon
+465,712,Exxon
+636,230,Chipotle
+655,527,Nature Area
+740,672,Recreation Area
+671,533,Exxon
+499,224,Historical Area
+204,442,Shell
+727,296,RoyalFarms
+538,728,Recreation Area
+423,720,Nature Area
+153,650,Best Western
+690,208,McDonald's
+529,142,Shell
+428,110,Holiday Inn
+335,278,Best Western
+355,396,Holiday Inn
+432,435,Exxon
+98,746,Shell
+248,253,RoyalFarms
+157,79,Best Western
+161,365,RoyalFarms
+611,379,Best Western
+96,91,Best Western
+496,549,The Wagon Wheel
+349,81,Shell
+439,602,Shell
+599,600,Shell
+543,576,RoyalFarms
+553,325,Holiday Inn
+525,685,Holiday Inn
+465,137,Casino
+444,152,Casino
+461,441,Nature Area
+645,505,Casino
+50,75,The Wagon Wheel
+675,195,Casino
+374,657,Shell
+392,535,Recreation Area
+578,226,Exxon
+393,168,McDonald's
+116,313,Sheetz
+422,256,Best Western
+556,253,Best Western
+343,720,RoyalFarms
+240,203,Recreation Area
+546,86,Nature Area
+432,329,Sheetz
+349,657,Chipotle
+140,192,RoyalFarms
+731,515,Shell
+420,574,Historical Area
+672,561,McDonald's
+551,636,Chipotle
+565,418,Holiday Inn
+425,497,Chipotle
+463,619,McDonald's
+711,575,Sheetz
+318,476,Holiday Inn
+687,180,Casino
+343,465,Chipotle
+612,249,Historical Area
+312,698,Exxon
+496,252,Best Western
+532,741,RoyalFarms
+273,72,Holiday Inn
+148,731,RoyalFarms
+363,487,Shell
+573,622,McDonald's
+369,513,Recreation Area
+475,93,Best Western
+95,517,Casino
+709,335,Holiday Inn
+163,510,McDonald's
+362,308,Holiday Inn
+174,125,Nature Area
+368,684,Casino
+353,221,Exxon
+172,245,McDonald's
+63,496,Holiday Inn
+64,330,RoyalFarms
+678,627,Chipotle
+636,646,Exxon
+448,411,Shell
+706,150,Shell
+480,297,Historical Area
+203,441,Nature Area
+454,375,Chipotle
+747,478,RoyalFarms
+210,91,Casino
+572,533,Nature Area
+331,85,Best Western
+163,150,The Wagon Wheel
+619,109,Casino
+556,56,Shell
+738,421,Shell
+618,657,Exxon
+310,656,Best Western
+65,708,McDonald's
+531,92,Nature Area
+525,182,Chipotle
+534,201,RoyalFarms
+465,328,Holiday Inn
+685,177,Exxon
+127,672,Casino
+111,598,Sheetz
+379,211,McDonald's
+85,254,Shell
+499,83,Best Western
+330,582,Chipotle
+244,208,Sheetz
+502,417,Chipotle
+588,551,Exxon
+419,556,Shell
+438,270,RoyalFarms
+325,98,Sheetz
+365,262,Holiday Inn
+656,527,Holiday Inn
+642,366,RoyalFarms
+453,172,Sheetz
+289,210,Exxon
+728,464,Exxon
+600,50,Best Western
+316,745,RoyalFarms
+54,728,Holiday Inn
+154,487,Shell
+717,385,Chipotle
+506,708,Holiday Inn
+149,560,Sheetz
+690,708,McDonald's
+619,723,Casino
+193,154,Nature Area
+157,85,The Wagon Wheel
+67,98,Exxon
+159,543,RoyalFarms
+284,258,Casino
+51,223,Casino
+659,311,Historical Area
+748,126,Recreation Area
+306,661,Recreation Area
+157,513,Casino
+580,62,Nature Area
+140,675,Casino
+480,56,The Wagon Wheel
+536,587,Nature Area
+196,336,Casino
+198,539,Nature Area
+695,349,Shell
+207,134,McDonald's
+263,640,The Wagon Wheel
+107,282,Best Western
+563,124,Casino
+142,510,Historical Area
+533,537,Recreation Area
+87,155,McDonald's
+477,259,The Wagon Wheel
+392,413,Sheetz
+725,288,Exxon
+460,58,Best Western
+242,124,Chipotle
+637,704,Historical Area
+634,551,Recreation Area
+57,222,Shell
+535,586,Casino
+393,724,McDonald's
+573,478,The Wagon Wheel
+608,481,RoyalFarms
+581,640,The Wagon Wheel
+517,674,Historical Area
+563,287,RoyalFarms
+703,644,Holiday Inn
+688,62,Sheetz
+464,281,Casino
+317,525,McDonald's
+351,520,Exxon
+618,487,Holiday Inn
+225,329,Shell
+471,408,Recreation Area
+503,359,Sheetz
+249,320,Holiday Inn
+70,102,RoyalFarms
+574,128,Holiday Inn
+127,465,Exxon
+671,233,Shell
+397,199,McDonald's
+90,509,Holiday Inn
+163,537,Historical Area
+91,747,Chipotle
+507,319,Recreation Area
+113,107,The Wagon Wheel
+156,126,Best Western
+713,684,Historical Area
+522,375,Recreation Area
+379,692,Exxon
+496,52,The Wagon Wheel
+221,506,Best Western
+259,446,Best Western
+140,607,Casino
+387,152,Historical Area
+599,653,Best Western
+297,617,Exxon
+200,452,The Wagon Wheel
+168,222,RoyalFarms
+539,525,Historical Area
+274,140,Best Western
+468,594,Best Western
+721,370,Exxon
+82,677,Sheetz
+388,413,Sheetz
+434,583,Nature Area
+716,375,RoyalFarms
+288,332,RoyalFarms
+593,152,Sheetz
+355,65,Chipotle
+77,232,Nature Area
+151,493,Best Western
+416,718,Best Western
+553,647,Holiday Inn
+648,496,McDonald's
+283,426,Holiday Inn
+484,228,Chipotle
+339,577,Casino
+216,746,Casino
+186,264,Shell
+192,87,Chipotle
+381,638,The Wagon Wheel
+586,315,RoyalFarms
+374,71,Best Western
+242,495,Nature Area
+410,308,Nature Area
+623,563,Recreation Area
+383,313,Holiday Inn
+301,112,Casino
+213,378,Casino
+244,296,Sheetz
+301,99,The Wagon Wheel
+91,225,Exxon
+384,266,Historical Area
+689,693,Chipotle
+725,64,Casino
+170,374,Exxon
+100,596,RoyalFarms
+595,302,Exxon
+345,421,Historical Area
+728,156,RoyalFarms
+179,401,The Wagon Wheel
+263,67,Best Western
+600,555,Recreation Area
+414,322,Best Western
+147,589,Recreation Area
+188,97,Exxon
+103,674,McDonald's
+180,333,The Wagon Wheel
+721,587,Shell
+186,692,Chipotle
+318,554,Chipotle
+216,158,The Wagon Wheel
+449,718,Shell
+75,709,Recreation Area
+382,194,Chipotle
+299,515,The Wagon Wheel
+214,670,Holiday Inn
+167,504,Sheetz
+700,578,The Wagon Wheel
+242,611,Sheetz
+297,311,Chipotle
+479,248,Exxon
+171,640,Sheetz
+523,152,Nature Area
+443,533,McDonald's
+628,104,Recreation Area
+324,405,Holiday Inn
+463,142,Holiday Inn
+396,159,McDonald's
+167,140,Casino
+55,654,Best Western
+480,232,Recreation Area
+292,507,Shell
+746,564,The Wagon Wheel
+689,96,Historical Area
+342,674,Historical Area
+106,315,Sheetz
+552,75,Sheetz
+210,593,RoyalFarms
+170,501,Nature Area
+138,304,Shell
+293,615,RoyalFarms
+372,578,Exxon
+419,95,Best Western
+709,512,Casino
+270,479,McDonald's
+209,77,Chipotle
+423,644,RoyalFarms
+219,273,Nature Area
+653,297,Holiday Inn
+388,320,Shell
+96,265,Holiday Inn
+580,557,McDonald's
+558,473,Shell
+725,453,Sheetz
+419,274,Best Western
+575,197,Exxon
+629,265,Exxon
+685,541,Exxon
+441,62,Recreation Area
+477,185,Casino
+410,618,Chipotle
+578,55,Sheetz
+225,666,RoyalFarms
+527,318,Recreation Area
+146,670,Sheetz
+135,694,Shell
+574,717,Chipotle
+235,51,RoyalFarms
+496,703,Nature Area
+179,183,Best Western
+700,193,Sheetz
+132,99,Sheetz
+510,746,Exxon
+207,139,Chipotle
+250,215,Holiday Inn
+448,610,Recreation Area
+160,73,McDonald's
+534,440,The Wagon Wheel
+70,725,Casino
+53,179,Holiday Inn
+483,311,Sheetz
+576,219,Historical Area
+79,633,Sheetz
+191,609,Holiday Inn
+115,230,Holiday Inn
+285,154,Shell
+125,650,Sheetz
+467,188,Nature Area
+342,391,Casino
+736,313,Best Western
+267,316,Casino
+503,103,Nature Area
+52,216,Nature Area
+355,259,Shell
+562,408,Casino
+272,703,Sheetz
+319,146,The Wagon Wheel
+566,266,Chipotle
+464,487,Shell
+414,460,Shell
+499,83,Best Western
+145,393,Best Western
+414,369,Best Western
+86,112,Chipotle
+474,206,Nature Area
+139,413,Chipotle
+135,257,McDonald's
+623,593,Best Western
+522,247,McDonald's
+576,272,Shell
+357,262,RoyalFarms
+637,386,McDonald's
+206,77,Nature Area
+451,56,Sheetz
+351,667,Best Western
+234,83,Chipotle
+113,574,Nature Area
+371,50,Best Western
+126,366,Holiday Inn
+491,265,Nature Area
+113,308,Casino
+261,678,Nature Area
+376,429,Best Western
+619,257,Best Western
+264,674,Nature Area
+552,571,Recreation Area
+572,372,Exxon
+453,687,Nature Area
+676,606,Shell
+688,337,RoyalFarms
+358,107,Historical Area
+653,536,Nature Area
+194,192,Historical Area
+394,407,Historical Area
+664,165,McDonald's
+689,732,McDonald's
+333,118,Historical Area
+518,178,Best Western
+100,543,McDonald's
+442,455,Chipotle
+75,108,McDonald's
+597,189,McDonald's
+551,736,Sheetz
+568,207,Holiday Inn
+231,173,Historical Area
+719,197,Recreation Area
+620,237,Chipotle
+500,508,Sheetz
+245,585,Holiday Inn
+373,629,Casino
+290,567,McDonald's
+458,579,Holiday Inn
+590,729,The Wagon Wheel
+257,507,Casino
+619,443,McDonald's
+481,174,Sheetz
+359,449,Casino
+234,67,Best Western
+117,559,Holiday Inn
+635,749,Exxon
+585,640,Shell
+256,190,Exxon
+666,614,Holiday Inn
+228,252,Nature Area
+445,379,McDonald's
+352,190,Holiday Inn
+271,418,Recreation Area
+100,732,Recreation Area
+168,283,Sheetz
+194,411,Nature Area
+631,489,Holiday Inn
+411,426,The Wagon Wheel
+438,598,The Wagon Wheel
+714,420,The Wagon Wheel
+139,170,The Wagon Wheel
+643,320,Exxon
+507,604,Exxon
+593,401,The Wagon Wheel
+454,211,The Wagon Wheel
+371,623,Casino
+493,548,Sheetz
+154,443,Nature Area
+298,699,Historical Area
+60,71,Historical Area
+357,215,The Wagon Wheel
+106,713,Chipotle
+335,218,Holiday Inn
+82,136,Recreation Area
+336,354,Casino
+448,189,Best Western
+699,570,Recreation Area
+62,573,Recreation Area
+282,684,McDonald's
+355,579,McDonald's
+350,542,RoyalFarms
+505,438,Shell
+86,692,McDonald's
+135,262,McDonald's
+486,598,Holiday Inn
+678,279,Sheetz
+551,325,McDonald's
+212,208,Sheetz
+50,560,Historical Area
+159,294,Holiday Inn
+447,649,RoyalFarms
+371,130,Exxon
+465,253,McDonald's
+64,230,Chipotle
+575,337,Best Western
+392,611,The Wagon Wheel
+649,616,McDonald's
+114,327,Best Western
+625,97,Nature Area
+590,684,Chipotle
+408,508,Exxon
+506,62,Chipotle
+469,389,Nature Area
+607,126,RoyalFarms
+271,528,Sheetz
+416,610,RoyalFarms
+356,609,McDonald's
+110,359,Best Western
+340,603,Chipotle
+80,289,Recreation Area
+118,603,Recreation Area
+405,505,The Wagon Wheel
+116,701,RoyalFarms
+633,206,RoyalFarms
+321,468,Exxon
+55,392,Shell
+111,139,McDonald's
+692,500,Casino
+378,582,Best Western
+682,361,Historical Area
+60,678,Best Western
+384,100,Casino
+460,696,Exxon
+272,129,Historical Area
+701,122,RoyalFarms
+235,393,The Wagon Wheel
+737,674,Best Western
+536,385,Holiday Inn
+295,100,Nature Area
+391,717,McDonald's
+702,661,Sheetz
+246,544,RoyalFarms
+108,197,Historical Area
+234,345,Nature Area
+709,202,Sheetz
+217,353,Exxon
+364,293,The Wagon Wheel
+585,647,Historical Area
+390,257,Shell
+704,401,Chipotle
+187,61,Casino
+559,285,Chipotle
+356,174,The Wagon Wheel
+67,627,Recreation Area
+287,665,The Wagon Wheel
+659,338,Recreation Area
+131,733,Best Western
+575,375,Holiday Inn
+685,191,Historical Area
+559,549,Chipotle
+316,661,Best Western
+63,200,Recreation Area
+681,656,Historical Area
+688,58,McDonald's
+127,403,Historical Area
+739,664,Sheetz
+660,492,Nature Area
+742,638,Best Western
+154,270,Historical Area
+468,154,Shell
+618,134,Nature Area
+571,240,Best Western
+361,517,The Wagon Wheel
+687,279,Exxon
+613,513,Exxon
+576,309,Sheetz
+691,441,Casino
+205,289,The Wagon Wheel
+631,617,RoyalFarms
+213,515,Recreation Area
+665,504,Shell
+704,122,Shell
+460,626,Exxon
+466,269,The Wagon Wheel
+596,63,Holiday Inn
+503,244,The Wagon Wheel
+689,503,Chipotle
+382,537,Exxon
+692,514,Casino
+486,338,Historical Area
+583,307,McDonald's
+88,198,Recreation Area
+84,283,RoyalFarms
+542,617,The Wagon Wheel
+640,323,RoyalFarms
+252,142,Exxon
+117,78,The Wagon Wheel
+711,534,RoyalFarms
+391,676,Sheetz
+699,666,The Wagon Wheel
+543,193,Recreation Area
+314,518,Chipotle
+318,525,Nature Area
+316,706,Exxon
+410,237,Exxon
+528,654,Nature Area
+292,414,Casino
+585,636,Shell
+524,350,Chipotle
+543,312,McDonald's
+724,162,Recreation Area
+190,372,Sheetz
+314,559,Casino
+649,693,The Wagon Wheel
+510,623,Recreation Area
+460,232,Best Western
+387,686,Holiday Inn
+189,277,Historical Area
+61,302,Exxon
+153,690,Shell
+343,365,Historical Area
+140,726,Shell
+523,190,Recreation Area
+250,617,Holiday Inn
+372,247,Exxon
+79,223,Exxon
+689,244,Sheetz
+273,418,Recreation Area
+57,251,McDonald's
+289,405,Exxon
+156,76,Casino
+550,670,Casino
+344,426,Exxon
+297,178,Exxon
+230,490,Nature Area
+577,279,Best Western
+413,287,McDonald's
+413,101,RoyalFarms
+406,373,Exxon
+671,665,RoyalFarms
+616,420,Shell
+134,700,Casino
+119,690,Holiday Inn
+160,538,Shell
+164,123,Holiday Inn
+633,606,Holiday Inn
+449,219,Chipotle
+132,662,Historical Area
+283,669,Holiday Inn
+282,327,Casino
+704,690,RoyalFarms
+612,169,Historical Area
+747,262,Shell
+355,458,Casino
+87,207,RoyalFarms
+395,729,RoyalFarms
+225,638,McDonald's
+234,549,The Wagon Wheel
+666,401,Chipotle
+255,347,Chipotle
+619,746,Casino
+546,571,Exxon
+644,247,Best Western
+226,227,Best Western
+521,613,Casino
+491,93,RoyalFarms
+737,275,Chipotle
+681,704,Sheetz
+504,224,Recreation Area
+480,248,Historical Area
+353,328,Exxon
+110,378,Nature Area
+743,150,RoyalFarms
+602,85,Shell
+158,262,McDonald's
+676,326,Exxon
+396,88,Sheetz
+198,582,Shell
+59,703,Exxon
+683,463,Holiday Inn
+474,697,Holiday Inn
+394,611,The Wagon Wheel
+640,472,Nature Area
+299,736,Chipotle
+106,455,Best Western
+571,83,Historical Area
+176,433,McDonald's
+66,373,The Wagon Wheel
+91,342,Casino
+113,474,Casino
+706,464,Recreation Area
+664,575,Best Western
+166,204,Chipotle
+480,534,Best Western
+545,149,Nature Area
+245,81,Historical Area
+432,180,Best Western
+457,115,Best Western
+94,207,RoyalFarms
+243,156,Best Western
+619,238,Exxon
+262,149,Exxon
+544,527,Holiday Inn
+148,168,Best Western
+201,333,Casino
+734,276,RoyalFarms
+436,182,The Wagon Wheel
+349,65,Best Western
+663,683,McDonald's
+409,216,Sheetz
+185,526,RoyalFarms
+568,628,The Wagon Wheel
+137,739,Best Western
+88,396,The Wagon Wheel
+485,609,Casino
+604,375,Casino
+251,624,Holiday Inn
+526,744,The Wagon Wheel
+384,456,Shell
+560,722,Nature Area
+666,75,The Wagon Wheel
+570,585,The Wagon Wheel
+314,615,RoyalFarms
+337,346,Shell
+646,658,Shell
+480,339,Holiday Inn
+559,325,Chipotle
+238,436,McDonald's
+686,441,Chipotle
+674,232,Best Western
+575,112,Holiday Inn
+637,390,Recreation Area
+490,364,McDonald's
+305,305,Recreation Area
+605,316,The Wagon Wheel
+108,427,Best Western
+649,518,Exxon
+624,466,Best Western
+300,230,Best Western
+415,231,Best Western
+290,458,Casino
+264,288,Casino
+596,661,RoyalFarms
+724,248,McDonald's
+707,149,Best Western
+620,464,Shell
+236,486,Historical Area
+561,655,Shell
+598,717,Holiday Inn
+137,458,McDonald's
+481,640,Holiday Inn
+341,484,Holiday Inn
+323,739,Sheetz
+653,407,Holiday Inn
+422,77,Exxon
+445,630,Chipotle
+233,154,The Wagon Wheel
+655,51,Historical Area
+479,514,RoyalFarms
+743,455,Chipotle
+105,64,Chipotle
+365,156,Chipotle
+733,479,Shell
+574,654,The Wagon Wheel
+366,641,Sheetz
+377,685,Chipotle
+623,273,Holiday Inn
+286,701,Holiday Inn
+619,335,Holiday Inn
+498,520,Chipotle
+196,531,Historical Area
+691,601,Exxon
+168,643,Shell
+603,169,Exxon
+549,501,Holiday Inn
+259,363,Holiday Inn
+293,482,McDonald's
+429,572,Shell
+105,355,Exxon
+610,324,Holiday Inn
+89,418,Chipotle
+71,228,RoyalFarms
+647,608,McDonald's
+257,277,Sheetz
+672,629,Chipotle
+375,205,Exxon
+710,269,Recreation Area
+384,656,Casino
+149,552,Sheetz
+103,53,RoyalFarms
+464,545,Casino
+503,504,Holiday Inn
+202,644,Sheetz
+530,139,McDonald's
+395,555,McDonald's
+612,541,The Wagon Wheel
+741,324,Shell
+107,430,Shell
+660,576,Recreation Area
+558,209,Exxon
+57,317,Exxon
+598,707,Sheetz
+402,510,Best Western
+101,351,Casino
+527,645,Best Western
+418,62,Shell
+367,288,Nature Area
+693,675,Exxon
+580,84,Best Western
+564,260,Best Western
+471,523,McDonald's
+731,521,Casino
+65,267,The Wagon Wheel
+377,263,Chipotle
+102,314,Nature Area
+629,716,Best Western
+555,668,Exxon
+304,423,Sheetz
+688,377,Best Western
+178,462,McDonald's
+732,204,Recreation Area
+180,707,Casino
+534,659,Sheetz
+182,275,Nature Area
+90,338,Casino
+659,560,Best Western
+267,61,Shell
+656,583,Recreation Area
+374,139,Recreation Area
+314,666,Casino
+152,125,Shell
+695,79,Historical Area
+734,345,RoyalFarms
+449,716,RoyalFarms
+113,508,Recreation Area
+218,538,The Wagon Wheel
+324,512,Casino
+58,688,Shell
+656,175,Casino
+318,657,Nature Area
+629,478,Shell
+584,176,Exxon
+689,393,Holiday Inn
+546,251,Casino
+65,249,Exxon
+234,370,Sheetz
+718,154,Historical Area
+126,69,Historical Area
+378,50,Chipotle
+572,313,Sheetz
+391,599,Chipotle
+375,584,Shell
+436,714,Casino
+420,418,RoyalFarms
+169,391,The Wagon Wheel
+710,626,Shell
+141,632,Exxon
+83,234,Sheetz
+214,710,Shell
+357,485,RoyalFarms
+305,312,Exxon
+101,229,Casino
+649,706,Exxon
+186,736,McDonald's
+648,430,Best Western
+324,549,Sheetz
+658,427,RoyalFarms
+166,478,Historical Area
+130,405,Sheetz
+302,521,Holiday Inn
+637,308,Casino
+655,62,Shell
+202,234,The Wagon Wheel
+577,718,Chipotle
+231,510,Shell
+403,178,Holiday Inn
+180,350,Historical Area
+179,543,Nature Area
+396,667,Best Western
+529,218,Holiday Inn
+630,448,McDonald's
+156,477,Recreation Area
+140,657,Casino
+707,374,RoyalFarms
+601,67,McDonald's
+158,440,Casino
+323,210,Nature Area
+373,725,RoyalFarms
+536,685,Holiday Inn
+298,127,Historical Area
+597,160,Exxon
+635,576,Historical Area
+344,517,Shell
+558,268,Casino
+669,68,Shell
+399,451,Nature Area
+634,339,Nature Area
+735,453,Nature Area
+160,563,Exxon
+235,579,Historical Area
+422,651,Holiday Inn
+185,631,Exxon
+482,288,Sheetz
+276,205,Exxon
+408,592,Sheetz
+581,122,Sheetz
+589,426,Sheetz
+618,700,The Wagon Wheel
+119,54,Recreation Area
+710,597,Exxon
+138,319,Recreation Area
+233,567,Best Western
+145,157,Sheetz
+235,279,Shell
+581,591,McDonald's
+157,394,Shell
+124,672,RoyalFarms
+64,661,Sheetz
+404,216,Chipotle
+695,282,Historical Area
+453,647,Historical Area
+310,454,Exxon
+636,148,Exxon
+529,279,Sheetz
+359,256,Holiday Inn
+300,121,Recreation Area
+351,429,RoyalFarms
+521,465,Holiday Inn
+111,261,Shell
+290,213,Nature Area
+624,637,Casino
+340,332,The Wagon Wheel
+396,318,Casino
+268,467,Exxon
+337,725,Sheetz
+272,682,Nature Area
+153,602,Nature Area
+394,412,Exxon
+131,103,Holiday Inn
+533,684,Best Western
+251,341,Nature Area
+164,345,Exxon
+497,508,McDonald's
+687,718,Historical Area
+397,53,Chipotle
+304,224,The Wagon Wheel
+555,256,Shell
+351,437,McDonald's
+212,669,Exxon
+579,693,The Wagon Wheel
+357,343,Exxon
+531,714,Shell
+719,429,Holiday Inn
+719,112,Sheetz
+573,435,Recreation Area
+333,536,Historical Area
+405,175,Chipotle
+548,472,Sheetz
+686,352,RoyalFarms
+699,211,Holiday Inn
+388,424,Holiday Inn
+470,190,McDonald's
+174,194,Holiday Inn
+706,174,Best Western
+208,479,Nature Area
+144,324,Casino
+57,84,Nature Area
+54,480,Nature Area
+685,575,Historical Area
+695,106,McDonald's
+114,368,Exxon
+245,284,Exxon
+749,533,Shell
+129,400,Casino
+291,98,Best Western
+229,667,Holiday Inn
+419,293,RoyalFarms
+660,209,Exxon
+678,197,Historical Area
+607,126,Casino
+669,314,Casino
+236,372,RoyalFarms
+295,618,Exxon
+56,377,RoyalFarms
+441,330,McDonald's
+642,80,RoyalFarms
+584,296,Recreation Area
+401,370,Sheetz
+722,334,Best Western
+709,636,Sheetz
+427,358,Historical Area
+85,530,Shell
+227,424,Holiday Inn
+395,746,Sheetz
+562,718,RoyalFarms
+684,489,Holiday Inn
+480,702,Historical Area
+206,201,Holiday Inn
+689,392,Holiday Inn
+79,442,Recreation Area
+526,460,Nature Area
+356,653,Shell
+383,447,Nature Area
+678,273,Holiday Inn
+100,71,Shell
+560,137,McDonald's
+167,230,Exxon
+615,616,Best Western
+614,705,Sheetz
+479,733,The Wagon Wheel
+255,507,Exxon
+429,494,Best Western
+447,633,Sheetz
+311,335,Shell
+525,527,RoyalFarms
+267,518,Shell
+738,393,Nature Area
+342,498,Holiday Inn
+430,745,RoyalFarms
+140,343,Chipotle
+492,525,Shell
+739,589,Holiday Inn
+175,641,Nature Area
+54,395,Shell
+327,57,The Wagon Wheel
+222,508,McDonald's
+714,649,Shell
+145,426,Historical Area
+535,598,Recreation Area
+396,711,Historical Area
+317,593,Historical Area
+136,359,Recreation Area
+537,249,Nature Area
+658,652,Recreation Area
+409,317,Shell
+378,683,Holiday Inn
+694,163,RoyalFarms
+707,269,Chipotle
+229,415,Casino
+295,373,Recreation Area
+102,491,Casino
+363,312,Shell
+534,358,Chipotle
+573,176,McDonald's
+100,100,Recreation Area
+723,107,Shell
+600,84,Best Western
+674,415,Recreation Area
+537,519,Holiday Inn
+408,564,The Wagon Wheel
+297,588,The Wagon Wheel
+555,232,Holiday Inn
+656,284,Shell
+119,683,Exxon
+77,698,RoyalFarms
+116,205,Historical Area
+319,86,McDonald's
+129,665,Chipotle
+528,509,Best Western
+312,593,Casino
+491,314,Exxon
+136,585,RoyalFarms
+314,736,Historical Area
+87,710,RoyalFarms
+705,737,Recreation Area
+339,452,Historical Area
+384,647,Nature Area
+345,268,Recreation Area
+704,462,Best Western
+171,693,The Wagon Wheel
+709,131,Best Western
+229,506,Sheetz
+172,560,Nature Area
+597,71,Nature Area
+309,639,Best Western
+336,450,Historical Area
+172,386,The Wagon Wheel
+200,709,Recreation Area
+230,470,Exxon
+294,736,Nature Area
+318,705,Best Western
+287,94,Holiday Inn
+492,273,Recreation Area
+287,128,Casino
+719,365,Holiday Inn
+144,681,Historical Area
+637,75,McDonald's
+396,491,Exxon
+605,690,Sheetz
+343,564,McDonald's
+465,129,Chipotle
+144,485,Recreation Area
+524,388,Casino
+536,300,Recreation Area
+704,440,Nature Area
+482,605,Exxon
+312,573,Shell
+129,130,Holiday Inn
+549,670,Shell
+567,67,RoyalFarms
+248,473,RoyalFarms
+90,214,Shell
+548,564,Historical Area
+377,705,Sheetz
+60,669,Casino
+298,122,Casino
+147,563,Best Western
+289,510,Casino
+439,279,Sheetz
+701,446,Recreation Area
+80,735,RoyalFarms
+160,637,Holiday Inn
+77,404,Recreation Area
+157,533,Casino
+534,338,McDonald's
+77,550,Exxon
+628,618,Chipotle
+524,412,Nature Area
+282,105,McDonald's
+623,558,Holiday Inn
+62,223,Nature Area
+461,132,RoyalFarms
+657,192,Shell
+490,423,Shell
+613,567,Chipotle
+321,206,Shell
+618,638,Chipotle
+642,640,Sheetz
+514,555,Recreation Area
+409,320,Recreation Area
+440,80,Best Western
+431,562,The Wagon Wheel
+499,377,Chipotle
+373,565,Sheetz
+260,302,Recreation Area
+425,388,RoyalFarms
+516,114,Recreation Area
+158,278,Nature Area
+194,296,Recreation Area
+293,588,Chipotle
+722,221,RoyalFarms
+741,734,The Wagon Wheel
+617,710,RoyalFarms
+362,357,Recreation Area
+67,188,McDonald's
+545,667,Historical Area
+662,265,Casino
+152,636,The Wagon Wheel
+178,397,Holiday Inn
+553,264,Sheetz
+207,559,Shell
+85,435,Historical Area
+682,577,Exxon
+118,403,Casino
+477,565,RoyalFarms
+608,86,The Wagon Wheel
+148,560,Recreation Area
+195,428,RoyalFarms
+336,274,Best Western
+424,520,Best Western
+287,629,Chipotle
+441,505,McDonald's
+280,580,McDonald's
+740,205,Chipotle
+145,709,Casino
+240,561,Casino
+410,366,Chipotle
+303,706,Sheetz
+708,647,Nature Area
+146,730,McDonald's
+292,696,Chipotle
+722,177,Sheetz
+246,396,Exxon
+210,745,Sheetz
+186,716,Exxon
+746,253,Shell
+407,129,Exxon
+636,145,Historical Area
+479,104,Shell
+450,568,McDonald's
+747,73,McDonald's
+746,439,McDonald's
+351,447,RoyalFarms
+713,491,Nature Area
+739,236,Casino
+460,452,Holiday Inn
+190,437,RoyalFarms
+384,498,Casino
+732,630,Best Western
+50,442,Exxon
+652,631,RoyalFarms
+246,324,Sheetz
+493,544,Recreation Area
+344,658,McDonald's
+155,634,McDonald's
+700,717,Recreation Area
+383,596,Recreation Area
+481,719,Chipotle
+116,561,Best Western
+138,330,Shell
+565,431,Nature Area
+430,582,The Wagon Wheel
+585,89,RoyalFarms
+380,553,RoyalFarms
+369,430,Casino
+707,553,The Wagon Wheel
+402,633,McDonald's
+125,257,Shell
+141,417,Exxon
+361,734,Nature Area
+176,142,Holiday Inn
+200,656,The Wagon Wheel
+399,298,RoyalFarms
+80,262,Historical Area
+429,104,Holiday Inn
+382,226,RoyalFarms
+583,432,Nature Area
+581,123,Shell
+402,575,RoyalFarms
+342,140,McDonald's
+557,132,Chipotle
+520,251,RoyalFarms
+148,395,RoyalFarms
+620,147,The Wagon Wheel
+568,233,Exxon
+505,280,RoyalFarms
+312,555,Nature Area
+663,649,Exxon
+574,179,Exxon
+474,345,Shell
+629,599,Recreation Area
+214,388,Exxon
+488,324,Holiday Inn
+744,218,The Wagon Wheel
+347,356,Shell
+51,364,Historical Area
+93,466,The Wagon Wheel
+229,147,Recreation Area
+593,353,The Wagon Wheel
+414,380,Historical Area
+503,288,Shell
+524,727,Exxon
+192,330,Historical Area
+98,550,McDonald's
+449,499,Nature Area
+111,585,McDonald's
+725,221,The Wagon Wheel
+557,724,Exxon
+92,636,Recreation Area
+169,497,Casino
+195,201,Sheetz
+637,576,Sheetz
+205,144,McDonald's
+493,558,Chipotle
+394,405,The Wagon Wheel
+519,452,Holiday Inn
+570,414,Nature Area
+215,691,Recreation Area
+112,712,Recreation Area
+556,530,Nature Area
+557,70,The Wagon Wheel
+317,318,Shell
+637,314,Best Western
+101,538,Sheetz
+278,235,Chipotle
+730,658,Recreation Area
+623,481,Nature Area
+558,627,Recreation Area
+647,149,Historical Area
+502,452,Recreation Area
+693,541,Exxon
+180,162,Shell
+712,557,Best Western
+281,318,RoyalFarms
+117,423,RoyalFarms
+66,719,Chipotle
+196,493,RoyalFarms
+740,178,Recreation Area
+455,686,Best Western
+73,699,McDonald's
+74,423,Exxon
+224,73,Casino
+457,507,Recreation Area
+171,75,Holiday Inn
+733,331,Nature Area
+402,651,Best Western
+421,142,Sheetz
+661,599,Nature Area
+438,350,Holiday Inn
+644,149,Best Western
+602,66,Historical Area
+437,558,Shell
+110,204,Casino
+324,344,Chipotle
+309,654,McDonald's
+569,51,The Wagon Wheel
+50,518,Casino
+316,674,Recreation Area
+429,511,Holiday Inn
+118,224,Shell
+738,384,Historical Area
+499,570,Nature Area
+521,247,Historical Area
+307,143,Nature Area
+654,271,Holiday Inn
+176,729,Exxon
+698,693,Casino
+214,64,Casino
+638,635,Casino
+124,307,Sheetz
+557,163,Holiday Inn
+288,530,Historical Area
+675,436,Historical Area
+209,692,Historical Area
+97,286,Shell
+184,331,Casino
+225,230,The Wagon Wheel
+656,667,Chipotle
+674,429,McDonald's
+599,270,Sheetz
+267,168,Recreation Area
+602,619,Casino
+541,323,Sheetz
+394,273,The Wagon Wheel
+600,487,Sheetz
+714,447,Best Western
+97,398,Best Western
+721,115,Best Western
+200,447,Best Western
+313,194,Sheetz
+356,621,RoyalFarms
+359,451,Casino
+454,541,Recreation Area
+72,631,RoyalFarms
+114,649,Sheetz
+285,438,Chipotle
+144,80,Holiday Inn
+206,715,Exxon
+218,740,Exxon
+228,467,Exxon
+301,509,Best Western
+213,267,Recreation Area
+371,655,Casino
+462,113,Chipotle
+453,174,Best Western
+593,583,Casino
+361,494,Exxon
+523,285,Exxon
+194,730,Shell
+73,655,The Wagon Wheel
+114,168,Best Western
+267,149,Recreation Area
+572,485,Casino
+283,365,Nature Area
+614,624,Holiday Inn
+423,319,Casino
+550,136,Nature Area
+147,427,Best Western
+626,422,Chipotle
+347,347,Shell
+559,325,Casino
+315,194,Nature Area
+359,303,Shell
+288,711,Casino
+129,183,McDonald's
+513,338,The Wagon Wheel
+543,597,The Wagon Wheel
+444,698,Shell
+740,382,Historical Area
+404,182,Exxon
+555,499,Shell
+490,734,Recreation Area
+213,91,The Wagon Wheel
+141,306,RoyalFarms
+719,201,Shell
+671,589,The Wagon Wheel
+322,135,Chipotle
+605,564,Recreation Area
+382,332,Casino
+629,611,Nature Area
+562,127,Shell
+262,232,Shell
+106,145,Sheetz
+623,641,Sheetz
+123,250,McDonald's
+198,470,Shell
+73,99,Shell
+214,683,McDonald's
+489,268,Sheetz
+75,249,Chipotle
+707,179,Historical Area
+61,123,Chipotle
+163,145,Holiday Inn
+352,65,Exxon
+261,416,Historical Area
+448,419,RoyalFarms
+511,204,Sheetz
+542,391,Casino
+539,218,Sheetz
+105,465,Casino
+497,486,Casino
+220,386,The Wagon Wheel
+481,321,RoyalFarms
+522,312,McDonald's
+56,130,Holiday Inn
+503,273,Holiday Inn
+559,52,Holiday Inn
+205,737,Recreation Area
+339,525,Casino
+661,89,Chipotle
+208,579,Chipotle
+708,393,Nature Area
+544,184,RoyalFarms
+555,56,Sheetz
+252,601,Exxon
+58,167,Best Western
+544,562,Best Western
+589,219,Exxon
+635,747,Holiday Inn
+171,727,Best Western
+602,105,Holiday Inn
+335,652,Chipotle
+156,697,Sheetz
+327,341,The Wagon Wheel
+336,717,Chipotle
+141,442,Chipotle
+618,565,Holiday Inn
+541,554,Recreation Area
+61,398,Casino
+343,101,Historical Area
+276,84,Holiday Inn
+566,361,Sheetz
+360,359,Shell
+151,513,Historical Area
+242,623,Historical Area
+357,453,Exxon
+126,197,The Wagon Wheel
+579,291,Casino
+659,158,Sheetz
+727,724,The Wagon Wheel
+531,186,McDonald's
+234,590,Sheetz
+719,510,The Wagon Wheel
+330,412,Holiday Inn
+330,166,The Wagon Wheel
+675,446,Best Western
+489,691,Best Western
+115,467,Casino
+359,306,Recreation Area
+314,596,Casino
+482,452,Best Western
+222,121,Shell
+292,126,Best Western
+453,731,Recreation Area
+486,666,Recreation Area
+285,176,Casino
+66,577,Sheetz
+736,638,Holiday Inn
+563,701,Recreation Area
+591,515,Casino
+481,599,Shell
+480,466,RoyalFarms
+175,274,Nature Area
+392,253,Best Western
+646,197,Casino
+188,527,Recreation Area
+331,623,Recreation Area
+646,424,RoyalFarms
+279,442,Casino
+421,366,Casino
+613,611,Exxon
+593,57,RoyalFarms
+242,707,The Wagon Wheel
+536,226,Best Western
+486,162,RoyalFarms
+390,315,Nature Area
+526,239,Shell
+472,151,McDonald's
+734,92,Best Western
+490,80,Sheetz
+285,693,Nature Area
+708,612,Casino
+67,712,Casino
+663,639,Casino
+218,116,Holiday Inn
+393,687,Sheetz
+532,256,Best Western
+710,311,Holiday Inn
+521,441,Chipotle
+674,606,Chipotle
+362,448,The Wagon Wheel
+506,450,Historical Area
+337,313,Shell
+270,603,McDonald's
+658,96,Recreation Area
+554,519,Recreation Area
+296,501,Historical Area
+504,109,Exxon
+190,651,The Wagon Wheel
+657,491,RoyalFarms
+573,206,Chipotle
+533,610,RoyalFarms
+349,186,Historical Area
+563,742,Shell
+508,320,Shell
+694,442,Best Western
+72,517,Nature Area
+410,181,Recreation Area
+368,518,Historical Area
+577,705,Exxon
+276,76,Sheetz
+650,637,McDonald's
+661,238,Nature Area
+173,102,The Wagon Wheel
+407,654,Sheetz
+383,739,Exxon
+94,321,RoyalFarms
+631,79,Historical Area
+376,535,Historical Area
+188,97,Chipotle
+419,590,Holiday Inn
+536,559,Recreation Area
+441,248,Sheetz
+478,254,RoyalFarms
+733,151,The Wagon Wheel
+76,241,McDonald's
+582,671,Historical Area
+172,570,Exxon
+80,187,Sheetz
+242,145,Exxon
+414,236,The Wagon Wheel
+746,437,Casino
+345,649,McDonald's
+125,463,McDonald's
+362,613,Nature Area
+389,472,Shell
+481,615,Historical Area
+468,204,Casino
+465,297,Sheetz
+111,587,Chipotle
+530,471,McDonald's
+260,277,Chipotle
+217,100,McDonald's
+508,152,Best Western
+341,249,Historical Area
+568,118,Best Western
+378,486,Sheetz
+187,493,Chipotle
+87,112,The Wagon Wheel
+504,573,The Wagon Wheel
+164,471,Chipotle
+279,95,Exxon
+263,627,Casino
+509,125,Casino
+296,56,McDonald's
+449,432,Chipotle
+673,697,Sheetz
+711,264,Exxon
+690,330,Holiday Inn
+633,210,Exxon
+533,706,Casino
+204,336,Exxon
+218,404,Casino
+221,81,Casino
+566,628,Exxon
+361,345,RoyalFarms
+738,192,Best Western
+267,479,Chipotle
+368,221,Nature Area
+521,115,Sheetz
+611,585,Shell
+202,199,RoyalFarms
+468,422,Best Western
+455,168,Exxon
+523,114,Best Western
+363,459,RoyalFarms
+688,130,Historical Area
+717,180,The Wagon Wheel
+208,337,Sheetz
+429,208,Best Western
+274,654,RoyalFarms
+579,396,RoyalFarms
+571,555,The Wagon Wheel
+105,573,Shell
+639,353,Recreation Area
+376,441,The Wagon Wheel
+318,347,RoyalFarms
+113,139,Chipotle
+651,314,Casino
+482,733,Holiday Inn
+139,559,Historical Area
+564,481,Holiday Inn
+488,179,Sheetz
+116,524,Historical Area
+65,301,Nature Area
+138,485,Recreation Area
+302,185,Historical Area
+212,278,Chipotle
+391,328,Exxon
+393,185,The Wagon Wheel
+162,696,McDonald's
+429,699,Casino
+507,445,Best Western
+214,415,Sheetz
+669,285,Recreation Area
+533,94,McDonald's
+383,248,Best Western
+681,188,Exxon
+148,653,Shell
+373,264,Sheetz
+717,358,McDonald's
+426,203,Nature Area
+189,339,Exxon
+82,581,Historical Area
+603,145,Historical Area
+74,454,Sheetz
+468,131,Shell
+668,302,Recreation Area
+113,727,McDonald's
+547,596,RoyalFarms
+100,272,Nature Area
+302,208,Holiday Inn
+382,233,The Wagon Wheel
+533,110,Chipotle
+416,654,Exxon
+101,50,Nature Area
+276,250,The Wagon Wheel
+666,352,RoyalFarms
+729,155,Nature Area
+261,144,RoyalFarms
+515,671,The Wagon Wheel
+523,495,Holiday Inn
+330,408,Best Western
+362,394,Shell
+593,604,Recreation Area
+229,282,Shell
+382,578,Nature Area
+436,718,Sheetz
+568,639,Chipotle
+168,115,Shell
+129,434,Chipotle
+323,570,Shell
+295,536,Historical Area
+504,573,Holiday Inn
+605,600,McDonald's
+294,88,Chipotle
+531,200,Best Western
+616,472,Chipotle
+65,521,McDonald's
+88,516,RoyalFarms
+471,461,Recreation Area
+97,547,Best Western
+241,174,Historical Area
+157,329,The Wagon Wheel
+414,722,Holiday Inn
+611,339,McDonald's
+254,746,Shell
+239,139,Holiday Inn
+462,507,RoyalFarms
+589,280,McDonald's
+616,587,Exxon
+246,447,Shell

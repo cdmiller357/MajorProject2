@@ -39,6 +39,13 @@ public class View extends Application {
     private TextField tf2 = new TextField("Messages appear here.");
     private TextField tf3 = new TextField("Format example: Frederick County,Maryland");
 
+    /* Assignment 4: Improvement of your choosing
+     * Move the filter functionality to the View class. It was filtering all data the SortByClosest class was returning before.
+     */
+    boolean is24Hours;
+    int ratingFilter;
+    VBox controls; //repainting the left pane cause the right pane to go out of alignment so need to reset the alignment after repainting.
+
 
     //Start: Right Pane - Control Buttons
     private VBox getRightPane() throws IOException {
@@ -97,12 +104,15 @@ public class View extends Application {
         HBox hBox2 = new HBox(radioButton6, radioButton7);
         hBox2.setSpacing(20);
 
+
+
         Button find = new Button("Find");
         find.setMinWidth(200);
 
         Button about = new Button("About");
         about.setMinWidth(200);
-        VBox controls = new VBox();
+        //VBox controls = new VBox();
+        controls = new VBox();
         controls.setPadding(new Insets(50, 5, 5, 5));
         controls.getChildren().addAll(tf2, lbl3, hBox3, lbl0, tf0, tf1, lbl1, hBox,lbl2, hBox2, find, about);
         controls.setAlignment(Pos.CENTER_LEFT);
@@ -144,10 +154,7 @@ public class View extends Application {
                     try {
                         //The Left and Center panes  get rebuilt with the county's data the user search for:
                         gasStationsArrayList = SortByClosest.sortByClosest();
-                        ScrollPane sp = new ScrollPane(getLeftPane());
-                        sp.setMinWidth(300);
-                        borderPane.setLeft(sp);
-                        borderPane.setCenter(getCenterPane());
+                        repaintLeftCenterPane();
                         tf2.setText("");
                     } catch (IOException ex) {
                         ex.printStackTrace();
@@ -194,10 +201,7 @@ public class View extends Application {
                     try {
                         //The Left and Center panes  get rebuilt with the county's data the user search for:
                         gasStationsArrayList = SortByClosest.sortByClosest();
-                        ScrollPane sp = new ScrollPane(getLeftPane());
-                        sp.setMinWidth(300);
-                        borderPane.setLeft(sp);
-                        borderPane.setCenter(getCenterPane());
+                        repaintLeftCenterPane();
                         tf2.setText("");
                     } catch (IOException ex) {
                         ex.printStackTrace();
@@ -214,6 +218,30 @@ public class View extends Application {
             }
         });
 
+        /* Assignment 4: Improvement of your choosing
+         * Move the filter functionality to the View class. It was filtering all data the SortByClosest class was returning before.
+         * toggleGroup and toggleGroup2 now have listeners that repaint the left and center panes when new filters selected.
+         * There is also added conditional logic in the getLeftPane and getCenterPane for loops
+         */
+        toggleGroup.selectedToggleProperty().addListener(e ->{
+            RadioButton selectedRadioButton = (RadioButton)toggleGroup.getSelectedToggle();
+            ratingFilter = Integer.parseInt(selectedRadioButton.getText());
+            try {
+                repaintLeftCenterPane();
+            } catch (IOException ex) {
+                ex.printStackTrace();
+            }
+        });
+        toggleGroup2.selectedToggleProperty().addListener(e ->{
+            RadioButton selectedRadioButton2 = (RadioButton)toggleGroup2.getSelectedToggle();
+            is24Hours = Boolean.parseBoolean(selectedRadioButton2.getText());
+            try {
+                repaintLeftCenterPane();
+            } catch (IOException ex) {
+                ex.printStackTrace();
+            }
+        });
+
         //Find is the main button for seeing locations near the current location.
         find.setOnAction  (e -> {
             Point2D currentLocation = new Point2D();
@@ -221,10 +249,10 @@ public class View extends Application {
             currentLocation.setY(HelperClass.validatePositiveIntRange(tf1.getText(),50,750));
 
             RadioButton selectedRadioButton = (RadioButton)toggleGroup.getSelectedToggle();
-            int ratingFilter = Integer.parseInt(selectedRadioButton.getText());
+            ratingFilter = Integer.parseInt(selectedRadioButton.getText());
 
             RadioButton selectedRadioButton2 = (RadioButton)toggleGroup2.getSelectedToggle();
-            boolean is24Hours = Boolean.parseBoolean(selectedRadioButton2.getText());
+            is24Hours = Boolean.parseBoolean(selectedRadioButton2.getText());
 
             if ( currentLocation.getX() == -1 ||  currentLocation.getY() == -1 ) { //Input out of range
                 tf0.setText("X coordinate (50-750)");
@@ -241,11 +269,8 @@ public class View extends Application {
                     if(gasStationsArrayList.get(0).isMarked()) { //Uses special "Current Location" zero index entry on list.
                         back.push(gasStationsArrayList);
                     }
-                    gasStationsArrayList = SortByClosest.sortByClosest(currentLocation, ratingFilter, is24Hours);
-                    ScrollPane sp = new ScrollPane(getLeftPane());
-                    sp.setMinWidth(300);
-                    borderPane.setLeft(sp);
-                    borderPane.setCenter(getCenterPane());
+                    gasStationsArrayList = SortByClosest.sortByClosest(currentLocation);
+                    repaintLeftCenterPane();
                     tf2.setText("");
                 } catch (IOException ex) {
                     ex.printStackTrace();
@@ -270,7 +295,7 @@ public class View extends Application {
         Pane pane = new Pane();
         Rectangle rectangle = new Rectangle(15,15,765,765);
         rectangle.setFill(Color.OLIVE);
-        Point2D currentLocation = gasStationsArrayList.get(0).getPoint(); //Location entered into text fields or special off page data in data file for starting location.
+        Point2D currentLocation = gasStationsArrayList.get(0).getPoint(); //Location entered into text fields of special off page data in data file for starting location.
         Circle circle1 = new Circle(currentLocation.getX(),currentLocation.getY(),4);
         circle1.setFill(Color.RED);
         Text text1 = new Text(currentLocation.getX()-3, currentLocation.getY()+15, "Current Location");
@@ -279,10 +304,14 @@ public class View extends Application {
         pane.getChildren().addAll(rectangle, circle1,text1);
         //Loop to put current results on map.
         for(int i =1; i < gasStationsArrayList.size(); i++){
-            GasStation gasStation= gasStationsArrayList.get(i);
-            Circle circle2 = new Circle( gasStation.getPoint().getX(), gasStation.getPoint().getY(), 2);
-            Text text2 = new Text(gasStation.getPoint().getX()-3, gasStation.getPoint().getY()+15, ""+gasStation.getNumbered());
-            pane.getChildren().addAll(circle2, text2);
+            int rating = (int)TreeMapFilters.getRatingsTreeMap().get(gasStationsArrayList.get(i).getBrand());
+             if((!is24Hours || is24Hours && TreeMapFilters.getIs24Hours().contains(gasStationsArrayList.get(i).getBrand())) &&
+                rating >= ratingFilter) {
+                 GasStation gasStation = gasStationsArrayList.get(i);
+                 Circle circle2 = new Circle(gasStation.getPoint().getX(), gasStation.getPoint().getY(), 2);
+                 Text text2 = new Text(gasStation.getPoint().getX() - 3, gasStation.getPoint().getY() + 15, "" + gasStation.getNumbered());
+                 pane.getChildren().addAll(circle2, text2);
+             }
         }
         return pane;
     }
@@ -305,10 +334,11 @@ public class View extends Application {
                     forward.push(gasStationsArrayList);
                 }
                 gasStationsArrayList = back.pop();
-                ScrollPane sp = new ScrollPane(getLeftPane());
-                sp.setMinWidth(300);
-                borderPane.setLeft(sp);
-                borderPane.setCenter(getCenterPane());
+                try {
+                    repaintLeftCenterPane();
+                } catch (IOException ex) {
+                    ex.printStackTrace();
+                }
                 tf2.setText("Showing stop number: " + (back.size()+1));
             }
             else {
@@ -323,10 +353,11 @@ public class View extends Application {
                     back.push(gasStationsArrayList);
                 }
                 gasStationsArrayList = forward.pop();
-                ScrollPane sp = new ScrollPane(getLeftPane());
-                sp.setMinWidth(300);
-                borderPane.setLeft(sp);
-                borderPane.setCenter(getCenterPane());
+                try {
+                    repaintLeftCenterPane();
+                } catch (IOException ex) {
+                    ex.printStackTrace();
+                }
                 tf2.setText("Showing stop number: " + (back.size()+1));
             }
             else {
@@ -357,28 +388,31 @@ public class View extends Application {
         vBox.setMaxHeight(800);
         //For loop to add toggle button results.
         for(int i =1; i < gasStationsArrayList.size(); i++){
-            int finalI = i;
-            GasStation gasStation= gasStationsArrayList.get(i);
-            gasStation.setNumbered(i);
-            String str24 = (TreeMapFilters.getIs24Hours().contains(gasStation.getBrand()))? "  -  24h" : "";
-            int stars = (int)TreeMapFilters.getRatingsTreeMap().get(gasStation.getBrand());
-            String rating = (stars > 1)? stars + " stars" : stars + " star";
-            ToggleButton tb = new ToggleButton(gasStation.getNumbered() + ":  " + gasStation.getBrand() + "  -  "
-                    + rating +  str24 + "  -  " + Math.round(gasStation.getDistanceFromCurrentLocation())+"m");
-            tb.setSelected(gasStationsArrayList.get(finalI).isMarked());
-            tb.setMinWidth(250);
-            tb.setAlignment(Pos.TOP_LEFT);
-            tb.setOnAction(e -> {
-                if (gasStationsArrayList.get(finalI).isMarked()) {
-                    gasStationsArrayList.get(finalI).setMarked(false);
-                }
-                else {
-                    gasStationsArrayList.get(finalI).setMarked(true);
-                }
-            });
-            vBox.getChildren().addAll(tb);
-            vBox.setAlignment(Pos.TOP_LEFT);
-            vBox.setSpacing(10);
+            int rating = (int)TreeMapFilters.getRatingsTreeMap().get(gasStationsArrayList.get(i).getBrand());
+            if((!is24Hours || is24Hours && TreeMapFilters.getIs24Hours().contains(gasStationsArrayList.get(i).getBrand())) &&
+                rating >= ratingFilter) {
+                int finalI = i;
+                GasStation gasStation = gasStationsArrayList.get(i);
+                gasStation.setNumbered(i);
+                String str24 = (TreeMapFilters.getIs24Hours().contains(gasStation.getBrand())) ? "  -  24h" : "";
+                int stars = (int) TreeMapFilters.getRatingsTreeMap().get(gasStation.getBrand());
+                String ratingStr = (stars > 1) ? stars + " stars" : stars + " star";
+                ToggleButton tb = new ToggleButton(gasStation.getNumbered() + ":  " + gasStation.getBrand() + "  -  "
+                        + ratingStr + str24 + "  -  " + Math.round(gasStation.getDistanceFromCurrentLocation()) + "m");
+                tb.setSelected(gasStationsArrayList.get(finalI).isMarked());
+                tb.setMinWidth(250);
+                tb.setAlignment(Pos.TOP_LEFT);
+                tb.setOnAction(e -> {
+                    if (gasStationsArrayList.get(finalI).isMarked()) {
+                        gasStationsArrayList.get(finalI).setMarked(false);
+                    } else {
+                        gasStationsArrayList.get(finalI).setMarked(true);
+                    }
+                });
+                vBox.getChildren().addAll(tb);
+                vBox.setAlignment(Pos.TOP_LEFT);
+                vBox.setSpacing(10);
+            }
         }
         return vBox;
     } //End: Left Pane - Results
@@ -392,6 +426,14 @@ public class View extends Application {
         borderPane.setLeft(sp);
         borderPane.setCenter(getCenterPane());
         return borderPane;
+    }
+
+    private void repaintLeftCenterPane() throws IOException {
+        ScrollPane sp = new ScrollPane(getLeftPane());
+        sp.setMinWidth(300);
+        borderPane.setLeft(sp);
+        borderPane.setCenter(getCenterPane());
+        controls.setAlignment(Pos.CENTER_LEFT);//This is in the right pane but the scroll pane in the left pane was causing this to lose it's alignment.
     }
 
 
@@ -411,6 +453,7 @@ public class View extends Application {
          */
         tf0.setText("X coordinate (50-750)");
         tf1.setText("Y coordinate (50-750)");
+
     }
 
 
@@ -418,3 +461,4 @@ public class View extends Application {
         launch();
     }
 }
+

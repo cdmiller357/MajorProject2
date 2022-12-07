@@ -4,6 +4,7 @@ package com.example.majorproject2;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Comparator;
 
 /**
  * @author Christopher Miller  Computer Science II 2022 Fall 13W ONL1
@@ -28,7 +29,7 @@ public class GasStationList {
 
     //Sorts by y coordinates top to bottom
     public static void sortVertically(){
-        GenericQuickSort.quickSort(list,  new GasStationComparator());
+        ParallelGenericQuickSort.parallelGenericQuickSort(list,  new GasStationComparator());
     }
 
 

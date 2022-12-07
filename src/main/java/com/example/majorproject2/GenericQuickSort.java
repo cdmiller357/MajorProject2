@@ -34,7 +34,7 @@ public class GenericQuickSort {
     }
 
     /** Partition the array list[first..last] */
-    private static <E extends Comparable<E>> int partition(ArrayList<E> list, int first, int last) {
+    public static <E extends Comparable<E>> int partition(ArrayList<E> list, int first, int last) {
         E pivot = list.get(first); // Choose the first element as the pivot
         int low = first + 1; // Index for forward search (1)
         int high = last; // Index for backward search (list.length - 1)
@@ -72,7 +72,7 @@ public class GenericQuickSort {
 
 
     /** Partition the array list[first..last] */
-    private static <E> int partition(ArrayList<E> list, int first, int last, Comparator<? super E> comparator) {
+    public static <E> int partition(ArrayList<E> list, int first, int last, Comparator<? super E> comparator) {
         E pivot = list.get(first); // Choose the first element as the pivot
         int low = first + 1; // Index for forward search (1)
         int high = last; // Index for backward search (list.length - 1)
